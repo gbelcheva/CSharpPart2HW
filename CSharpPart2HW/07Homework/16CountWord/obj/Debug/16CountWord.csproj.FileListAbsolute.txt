@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\07Homework\16CountWord\bin\Debug\16CountWord.exe.config
+D:\Ger\Dropbox\SOFTUNI\07Homework\16CountWord\bin\Debug\16CountWord.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\16CountWord\bin\Debug\16CountWord.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\16CountWord\obj\Debug\16CountWord.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\07Homework\16CountWord\obj\Debug\16CountWord.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\16CountWord\obj\Debug\16CountWord.pdb

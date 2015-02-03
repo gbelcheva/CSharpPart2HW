@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\07Homework\09RemoveNames\bin\Debug\09RemoveNames.exe.config
+D:\Ger\Dropbox\SOFTUNI\07Homework\09RemoveNames\bin\Debug\09RemoveNames.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\09RemoveNames\bin\Debug\09RemoveNames.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\09RemoveNames\obj\Debug\09RemoveNames.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\07Homework\09RemoveNames\obj\Debug\09RemoveNames.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\09RemoveNames\obj\Debug\09RemoveNames.pdb

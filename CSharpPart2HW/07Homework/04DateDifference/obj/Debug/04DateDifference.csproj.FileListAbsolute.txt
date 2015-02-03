@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\07Homework\04DateDifference\bin\Debug\04DateDifference.exe.config
+D:\Ger\Dropbox\SOFTUNI\07Homework\04DateDifference\bin\Debug\04DateDifference.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\04DateDifference\bin\Debug\04DateDifference.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\04DateDifference\obj\Debug\04DateDifference.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\04DateDifference\obj\Debug\04DateDifference.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\04DateDifference\obj\Debug\04DateDifference.csprojResolveAssemblyReference.cache

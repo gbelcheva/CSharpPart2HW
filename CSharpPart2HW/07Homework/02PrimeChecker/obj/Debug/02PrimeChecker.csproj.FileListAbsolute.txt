@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\07Homework\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+D:\Ger\Dropbox\SOFTUNI\07Homework\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\02PrimeChecker\bin\Debug\02PrimeChecker.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\02PrimeChecker\obj\Debug\02PrimeChecker.pdb

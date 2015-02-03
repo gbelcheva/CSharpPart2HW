@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\07Homework\07PalindromesMatrix\bin\Debug\07PalindromesMatrix.exe.config
+D:\Ger\Dropbox\SOFTUNI\07Homework\07PalindromesMatrix\bin\Debug\07PalindromesMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\07PalindromesMatrix\bin\Debug\07PalindromesMatrix.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\07PalindromesMatrix\obj\Debug\07PalindromesMatrix.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\07Homework\07PalindromesMatrix\obj\Debug\07PalindromesMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\07PalindromesMatrix\obj\Debug\07PalindromesMatrix.pdb
