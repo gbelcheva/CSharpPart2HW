@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem3\bin\Debug\Problem3.exe.config
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem3\bin\Debug\Problem3.exe
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem3\bin\Debug\Problem3.pdb
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem3\obj\Debug\Problem3.exe
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem3\obj\Debug\Problem3.pdb

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\05.FormulaBit1\bin\Debug\05.FormulaBit1.exe.config
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\05.FormulaBit1\bin\Debug\05.FormulaBit1.exe
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\05.FormulaBit1\bin\Debug\05.FormulaBit1.pdb
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\05.FormulaBit1\obj\Debug\05.FormulaBit1.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\05.FormulaBit1\obj\Debug\05.FormulaBit1.exe
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\05.FormulaBit1\obj\Debug\05.FormulaBit1.pdb
