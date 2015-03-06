@@ -1,0 +1,12 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\12ZeroSubset\bin\Debug\12ZeroSubset.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\12ZeroSubset\obj\Debug\12ZeroSubset.csprojResolveAssemblyReference.cache
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\12ZeroSubset\bin\Debug\12ZeroSubset.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\12ZeroSubset\bin\Debug\12ZeroSubset.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\12ZeroSubset\obj\Debug\12ZeroSubset.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\12ZeroSubset\obj\Debug\12ZeroSubset.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\12ZeroSubset\bin\Debug\12ZeroSubset.exe.config
+D:\Ger\Dropbox\SOFTUNI\05Homework\12ZeroSubset\obj\Debug\12ZeroSubset.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\12ZeroSubset\obj\Debug\12ZeroSubset.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\12ZeroSubset\bin\Debug\12ZeroSubset.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\12ZeroSubset\bin\Debug\12ZeroSubset.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\12ZeroSubset\obj\Debug\12ZeroSubset.csprojResolveAssemblyReference.cache

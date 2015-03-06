@@ -1,0 +1,11 @@
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp123June2013\Problem1\bin\Debug\Problem1.exe.config
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp123June2013\Problem1\obj\Debug\Problem1.exe
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp123June2013\Problem1\obj\Debug\Problem1.pdb
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp123June2013\01.Coffee Machine\bin\Debug\Problem1.exe.config
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp123June2013\01.Coffee Machine\obj\Debug\Problem1.exe
+D:\Ger\Dropbox\SOFTUNI\ExamCSharp123June2013\01.Coffee Machine\obj\Debug\Problem1.pdb
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\01.Coffee Machine\bin\Debug\Problem1.exe.config
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\01.Coffee Machine\obj\Debug\Problem1.exe
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\01.Coffee Machine\obj\Debug\Problem1.pdb
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\01.Coffee Machine\bin\Debug\Problem1.exe
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\01.Coffee Machine\bin\Debug\Problem1.pdb

@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\02MoonGravitation\bin\Debug\02MoonGravitation.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\02MoonGravitation\bin\Debug\02MoonGravitation.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\02MoonGravitation\bin\Debug\02MoonGravitation.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\02MoonGravitation\obj\Debug\02MoonGravitation.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\02MoonGravitation\obj\Debug\02MoonGravitation.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\02MoonGravitation\bin\Debug\02MoonGravitation.exe.config
+D:\Ger\Dropbox\SOFTUNI\03Homework\02MoonGravitation\obj\Debug\02MoonGravitation.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\02MoonGravitation\obj\Debug\02MoonGravitation.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\02MoonGravitation\bin\Debug\02MoonGravitation.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\02MoonGravitation\bin\Debug\02MoonGravitation.pdb

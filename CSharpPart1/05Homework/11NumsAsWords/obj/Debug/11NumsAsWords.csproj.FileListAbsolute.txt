@@ -1,0 +1,12 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\11NumsAsWords\bin\Debug\11NumsAsWords.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\11NumsAsWords\bin\Debug\11NumsAsWords.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\11NumsAsWords\bin\Debug\11NumsAsWords.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\11NumsAsWords\obj\Debug\11NumsAsWords.csprojResolveAssemblyReference.cache
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\11NumsAsWords\obj\Debug\11NumsAsWords.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\11NumsAsWords\obj\Debug\11NumsAsWords.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\11NumsAsWords\bin\Debug\11NumsAsWords.exe.config
+D:\Ger\Dropbox\SOFTUNI\05Homework\11NumsAsWords\obj\Debug\11NumsAsWords.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\11NumsAsWords\obj\Debug\11NumsAsWords.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\11NumsAsWords\bin\Debug\11NumsAsWords.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\11NumsAsWords\bin\Debug\11NumsAsWords.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\11NumsAsWords\obj\Debug\11NumsAsWords.csprojResolveAssemblyReference.cache

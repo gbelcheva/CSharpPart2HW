@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.11BankAccount\bin\Debug\2.11BankAccount.exe.config
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.11BankAccount\bin\Debug\2.11BankAccount.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.11BankAccount\bin\Debug\2.11BankAccount.pdb
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.11BankAccount\obj\Debug\2.11BankAccount.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.11BankAccount\obj\Debug\2.11BankAccount.pdb

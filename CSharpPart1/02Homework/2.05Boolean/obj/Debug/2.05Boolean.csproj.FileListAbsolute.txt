@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.05Boolean\bin\Debug\2.05Boolean.exe.config
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.05Boolean\bin\Debug\2.05Boolean.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.05Boolean\bin\Debug\2.05Boolean.pdb
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.05Boolean\obj\Debug\2.05Boolean.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.05Boolean\obj\Debug\2.05Boolean.pdb

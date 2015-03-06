@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.pdb
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\07Sum5Numbers\obj\Debug\07Sum5Numbers.exe
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\07Sum5Numbers\obj\Debug\07Sum5Numbers.pdb
+D:\Ger\Dropbox\SOFTUNI\04Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe.config
+D:\Ger\Dropbox\SOFTUNI\04Homework\07Sum5Numbers\obj\Debug\07Sum5Numbers.exe
+D:\Ger\Dropbox\SOFTUNI\04Homework\07Sum5Numbers\obj\Debug\07Sum5Numbers.pdb
+D:\Ger\Dropbox\SOFTUNI\04Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe
+D:\Ger\Dropbox\SOFTUNI\04Homework\07Sum5Numbers\bin\Debug\07Sum5Numbers.pdb

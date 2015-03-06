@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\03.Sheets\bin\Debug\03.Sheets.exe.config
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\03.Sheets\bin\Debug\03.Sheets.exe
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\03.Sheets\bin\Debug\03.Sheets.pdb
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\03.Sheets\obj\Debug\03.Sheets.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\03.Sheets\obj\Debug\03.Sheets.exe
+D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\03.Sheets\obj\Debug\03.Sheets.pdb

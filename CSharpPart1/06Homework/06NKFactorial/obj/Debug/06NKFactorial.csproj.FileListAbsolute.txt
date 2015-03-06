@@ -1,0 +1,17 @@
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\bin\Debug\06NKFactorial.exe.config
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\bin\Debug\06NKFactorial.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\bin\Debug\06NKFactorial.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\obj\Debug\06NKFactorial.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\obj\Debug\06NKFactorial.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06NKFactorial\bin\Debug\06NKFactorial.exe.config
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06NKFactorial\obj\Debug\06NKFactorial.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06NKFactorial\obj\Debug\06NKFactorial.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06NKFactorial\bin\Debug\06NKFactorial.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06NKFactorial\bin\Debug\06NKFactorial.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06NKFactorial\obj\Debug\06NKFactorial.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\06Homework\06NKFactorial\bin\Debug\06NKFactorial.exe.config
+D:\Ger\Dropbox\SOFTUNI\06Homework\06NKFactorial\bin\Debug\06NKFactorial.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\06NKFactorial\bin\Debug\06NKFactorial.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\06NKFactorial\obj\Debug\06NKFactorial.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\06Homework\06NKFactorial\obj\Debug\06NKFactorial.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\06NKFactorial\obj\Debug\06NKFactorial.pdb

@@ -1,0 +1,10 @@
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.7Reformat\bin\Debug\1.07Reformat.exe.config
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.7Reformat\bin\Debug\1.07Reformat.exe
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.7Reformat\bin\Debug\1.07Reformat.pdb
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.7Reformat\obj\Debug\1.07Reformat.exe
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.7Reformat\obj\Debug\1.07Reformat.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.07Reformat\bin\Debug\1.07Reformat.exe.config
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.07Reformat\obj\Debug\1.07Reformat.exe
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.07Reformat\obj\Debug\1.07Reformat.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.07Reformat\bin\Debug\1.07Reformat.exe
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.07Reformat\bin\Debug\1.07Reformat.pdb

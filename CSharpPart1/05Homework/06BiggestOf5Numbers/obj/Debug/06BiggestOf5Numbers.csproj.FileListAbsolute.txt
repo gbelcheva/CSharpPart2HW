@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\05Homework\06BiggestOf5Numbers\bin\Debug\06BiggestOf5Numbers.exe.config
+D:\Ger\Dropbox\SOFTUNI\05Homework\06BiggestOf5Numbers\bin\Debug\06BiggestOf5Numbers.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\06BiggestOf5Numbers\bin\Debug\06BiggestOf5Numbers.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\06BiggestOf5Numbers\obj\Debug\06BiggestOf5Numbers.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\06BiggestOf5Numbers\obj\Debug\06BiggestOf5Numbers.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\06BiggestOf5Numbers\obj\Debug\06BiggestOf5Numbers.csprojResolveAssemblyReference.cache

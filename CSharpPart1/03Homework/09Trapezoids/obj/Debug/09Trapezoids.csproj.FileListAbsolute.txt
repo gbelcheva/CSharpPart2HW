@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\09Trapezoids\bin\Debug\09Trapezoids.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\09Trapezoids\bin\Debug\09Trapezoids.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\09Trapezoids\obj\Debug\09Trapezoids.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\09Trapezoids\obj\Debug\09Trapezoids.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+D:\Ger\Dropbox\SOFTUNI\03Homework\09Trapezoids\obj\Debug\09Trapezoids.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\09Trapezoids\obj\Debug\09Trapezoids.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\09Trapezoids\bin\Debug\09Trapezoids.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\09Trapezoids\bin\Debug\09Trapezoids.pdb

@@ -1,0 +1,12 @@
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\04Rectangles\bin\Debug\04Rectangles.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\04Rectangles\bin\Debug\04Rectangles.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\04Rectangles\bin\Debug\04Rectangles.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\04Rectangles\obj\Debug\04Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\04Rectangles\obj\Debug\04Rectangles.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\04Rectangles\obj\Debug\04Rectangles.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\04Rectangles\bin\Debug\04Rectangles.exe.config
+D:\Ger\Dropbox\SOFTUNI\03Homework\04Rectangles\obj\Debug\04Rectangles.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\04Rectangles\obj\Debug\04Rectangles.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\04Rectangles\bin\Debug\04Rectangles.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\04Rectangles\bin\Debug\04Rectangles.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\04Rectangles\obj\Debug\04Rectangles.csprojResolveAssemblyReference.cache

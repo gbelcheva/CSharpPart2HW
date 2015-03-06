@@ -1,0 +1,12 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.2FloatOrDouble\bin\Debug\1.2FloatOrDouble.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.2FloatOrDouble\bin\Debug\1.2FloatOrDouble.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.2FloatOrDouble\bin\Debug\1.2FloatOrDouble.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.2FloatOrDouble\obj\Debug\1.2FloatOrDouble.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.2FloatOrDouble\obj\Debug\1.2FloatOrDouble.pdb
+D:\Ger\Dropbox\SOFTUNI\Homework2\2.02FloatOrDouble\bin\Debug\1.2FloatOrDouble.exe.config
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.02FloatOrDouble\bin\Debug\2.02FloatOrDouble.exe.config
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.02FloatOrDouble\obj\Debug\2.02FloatOrDouble.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.02FloatOrDouble\obj\Debug\2.02FloatOrDouble.pdb
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.02FloatOrDouble\bin\Debug\2.02FloatOrDouble.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.02FloatOrDouble\bin\Debug\2.02FloatOrDouble.pdb
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.02FloatOrDouble\obj\Debug\2.02FloatOrDouble.csprojResolveAssemblyReference.cache

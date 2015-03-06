@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\06Homework\13BinaryToDecimal\bin\Debug\13BinaryToDecimal.exe.config
+D:\Ger\Dropbox\SOFTUNI\06Homework\13BinaryToDecimal\bin\Debug\13BinaryToDecimal.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\13BinaryToDecimal\bin\Debug\13BinaryToDecimal.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\13BinaryToDecimal\obj\Debug\13BinaryToDecimal.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\13BinaryToDecimal\obj\Debug\13BinaryToDecimal.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\13BinaryToDecimal\obj\Debug\13BinaryToDecimal.csprojResolveAssemblyReference.cache

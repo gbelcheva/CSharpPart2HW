@@ -1,0 +1,12 @@
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\13CheckBitPosition\bin\Debug\13CheckBitPosition.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\13CheckBitPosition\bin\Debug\13CheckBitPosition.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\13CheckBitPosition\bin\Debug\13CheckBitPosition.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\13CheckBitPosition\obj\Debug\13CheckBitPosition.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\13CheckBitPosition\obj\Debug\13CheckBitPosition.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\13CheckBitPosition\obj\Debug\13CheckBitPosition.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\03Homework\13CheckBitPosition\bin\Debug\13CheckBitPosition.exe.config
+D:\Ger\Dropbox\SOFTUNI\03Homework\13CheckBitPosition\obj\Debug\13CheckBitPosition.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\13CheckBitPosition\obj\Debug\13CheckBitPosition.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\13CheckBitPosition\bin\Debug\13CheckBitPosition.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\13CheckBitPosition\bin\Debug\13CheckBitPosition.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\13CheckBitPosition\obj\Debug\13CheckBitPosition.csprojResolveAssemblyReference.cache

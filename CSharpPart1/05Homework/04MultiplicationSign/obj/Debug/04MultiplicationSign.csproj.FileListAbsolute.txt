@@ -1,0 +1,10 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+D:\Ger\Dropbox\SOFTUNI\05Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb
