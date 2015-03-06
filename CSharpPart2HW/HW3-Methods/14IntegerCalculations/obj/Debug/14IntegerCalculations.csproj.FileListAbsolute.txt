@@ -1,0 +1,7 @@
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\14IntegerCalculations\bin\Debug\14IntegerCalculations.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\14IntegerCalculations\bin\Debug\14IntegerCalculations.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\14IntegerCalculations\bin\Debug\14IntegerCalculations.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\14IntegerCalculations\bin\Debug\14IntegerCalculations.pdb
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\14IntegerCalculations\obj\Debug\14IntegerCalculations.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\14IntegerCalculations\obj\Debug\14IntegerCalculations.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\14IntegerCalculations\obj\Debug\14IntegerCalculations.pdb

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\01FillTheMatrix\bin\Debug\01FillTheMatrix.pdb
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\01FillTheMatrix\obj\Debug\01FillTheMatrix.pdb

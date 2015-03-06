@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\05ParseTags\bin\Debug\05ParseTags.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\05ParseTags\bin\Debug\05ParseTags.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\05ParseTags\bin\Debug\05ParseTags.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\05ParseTags\obj\Debug\05ParseTags.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\05ParseTags\obj\Debug\05ParseTags.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\05ParseTags\obj\Debug\05ParseTags.csprojResolveAssemblyReference.cache

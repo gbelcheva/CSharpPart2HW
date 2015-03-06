@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\04MaximalSequence\bin\Debug\04MaximalSequence.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\04MaximalSequence\bin\Debug\04MaximalSequence.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\04MaximalSequence\bin\Debug\04MaximalSequence.pdb
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\04MaximalSequence\obj\Debug\04MaximalSequence.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\04MaximalSequence\obj\Debug\04MaximalSequence.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\04MaximalSequence\obj\Debug\04MaximalSequence.pdb

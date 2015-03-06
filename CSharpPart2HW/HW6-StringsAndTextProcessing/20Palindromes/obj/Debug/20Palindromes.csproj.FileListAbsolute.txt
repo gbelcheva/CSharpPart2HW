@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\20Palindromes\bin\Debug\20Palindromes.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\20Palindromes\bin\Debug\20Palindromes.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\20Palindromes\bin\Debug\20Palindromes.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\20Palindromes\obj\Debug\20Palindromes.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\20Palindromes\obj\Debug\20Palindromes.pdb

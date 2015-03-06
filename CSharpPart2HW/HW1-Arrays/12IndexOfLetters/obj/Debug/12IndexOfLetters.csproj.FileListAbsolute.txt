@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\12IndexOfLetters\bin\Debug\12IndexOfLetters.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\12IndexOfLetters\bin\Debug\12IndexOfLetters.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\12IndexOfLetters\bin\Debug\12IndexOfLetters.pdb
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\12IndexOfLetters\obj\Debug\12IndexOfLetters.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\12IndexOfLetters\obj\Debug\12IndexOfLetters.pdb

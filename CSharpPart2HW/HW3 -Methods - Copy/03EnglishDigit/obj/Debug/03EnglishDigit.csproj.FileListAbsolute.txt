@@ -1,0 +1,5 @@
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\03EnglishDigit\bin\Debug\03EnglishDigit.exe.config
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\03EnglishDigit\bin\Debug\03EnglishDigit.exe
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\03EnglishDigit\bin\Debug\03EnglishDigit.pdb
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\03EnglishDigit\obj\Debug\03EnglishDigit.exe
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\03EnglishDigit\obj\Debug\03EnglishDigit.pdb

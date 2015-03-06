@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\bin\Debug\05HexadecimalToBinary.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\bin\Debug\05HexadecimalToBinary.exe
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\bin\Debug\05HexadecimalToBinary.pdb
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\bin\Debug\01DecimalToBinary.exe
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\bin\Debug\01DecimalToBinary.pdb
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\obj\Debug\05HexadecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\obj\Debug\05HexadecimalToBinary.exe
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\05HexadecimalToBinary\obj\Debug\05HexadecimalToBinary.pdb

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.pdb
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.pdb

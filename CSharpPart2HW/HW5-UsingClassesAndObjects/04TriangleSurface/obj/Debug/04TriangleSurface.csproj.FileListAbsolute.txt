@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\04TriangleSurface\bin\Debug\04TriangleSurface.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\04TriangleSurface\bin\Debug\04TriangleSurface.exe
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\04TriangleSurface\bin\Debug\04TriangleSurface.pdb
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\04TriangleSurface\obj\Debug\04TriangleSurface.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\04TriangleSurface\obj\Debug\04TriangleSurface.exe
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\04TriangleSurface\obj\Debug\04TriangleSurface.pdb

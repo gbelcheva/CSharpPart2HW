@@ -1,0 +1,12 @@
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\07ReverseNumber\bin\Debug\07ReverseNumber.exe.config
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\07ReverseNumber\bin\Debug\07ReverseNumber.exe
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\07ReverseNumber\bin\Debug\07ReverseNumber.pdb
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\07ReverseNumber\obj\Debug\07ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\07ReverseNumber\obj\Debug\07ReverseNumber.exe
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\07ReverseNumber\obj\Debug\07ReverseNumber.pdb
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\07ReverseNumber\bin\Debug\07ReverseNumber.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\07ReverseNumber\obj\Debug\07ReverseNumber.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\07ReverseNumber\obj\Debug\07ReverseNumber.pdb
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\07ReverseNumber\bin\Debug\07ReverseNumber.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\07ReverseNumber\bin\Debug\07ReverseNumber.pdb
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\07ReverseNumber\obj\Debug\07ReverseNumber.csprojResolveAssemblyReference.cache

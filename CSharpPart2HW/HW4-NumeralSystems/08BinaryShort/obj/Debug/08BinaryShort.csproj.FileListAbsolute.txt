@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\08BinaryShort\bin\Debug\08BinaryShort.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\08BinaryShort\bin\Debug\08BinaryShort.exe
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\08BinaryShort\bin\Debug\08BinaryShort.pdb
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\08BinaryShort\obj\Debug\08BinaryShort.exe
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\08BinaryShort\obj\Debug\08BinaryShort.pdb

@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\04HexadecimalToDecimal\bin\Debug\04HexadecimalToDecimal.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\04HexadecimalToDecimal\bin\Debug\04HexadecimalToDecimal.exe
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\04HexadecimalToDecimal\bin\Debug\04HexadecimalToDecimal.pdb
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\04HexadecimalToDecimal\obj\Debug\04HexadecimalToDecimal.exe
+D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\04HexadecimalToDecimal\obj\Debug\04HexadecimalToDecimal.pdb

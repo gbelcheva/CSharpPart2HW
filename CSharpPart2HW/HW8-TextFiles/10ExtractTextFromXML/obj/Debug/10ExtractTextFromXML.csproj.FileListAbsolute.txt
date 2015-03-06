@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\10ExtractTextFromXML\bin\Debug\10ExtractTextFromXML.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\10ExtractTextFromXML\bin\Debug\10ExtractTextFromXML.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\10ExtractTextFromXML\bin\Debug\10ExtractTextFromXML.pdb
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\10ExtractTextFromXML\obj\Debug\10ExtractTextFromXML.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\10ExtractTextFromXML\obj\Debug\10ExtractTextFromXML.pdb

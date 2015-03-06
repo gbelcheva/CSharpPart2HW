@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\16DateDifference\bin\Debug\16DateDifference.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\16DateDifference\bin\Debug\16DateDifference.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\16DateDifference\bin\Debug\16DateDifference.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\16DateDifference\obj\Debug\16DateDifference.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\16DateDifference\obj\Debug\16DateDifference.pdb

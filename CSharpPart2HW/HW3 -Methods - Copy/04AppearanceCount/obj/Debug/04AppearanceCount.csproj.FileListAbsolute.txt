@@ -1,0 +1,6 @@
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\04AppearanceCount\bin\Debug\04AppearanceCount.exe.config
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\04AppearanceCount\bin\Debug\04AppearanceCount.exe
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\04AppearanceCount\bin\Debug\04AppearanceCount.pdb
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\04AppearanceCount\obj\Debug\04AppearanceCount.csprojResolveAssemblyReference.cache
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\04AppearanceCount\obj\Debug\04AppearanceCount.exe
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\04AppearanceCount\obj\Debug\04AppearanceCount.pdb

@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\07ReplaceSub-string\bin\Debug\07ReplaceSub-string.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\07ReplaceSub-string\bin\Debug\07ReplaceSub-string.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\07ReplaceSub-string\bin\Debug\07ReplaceSub-string.pdb
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\07ReplaceSub-string\obj\Debug\07ReplaceSub-string.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\07ReplaceSub-string\obj\Debug\07ReplaceSub-string.pdb

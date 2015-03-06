@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\02ConcatenateTextFiles\bin\Debug\02ConcatenateTextFiles.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\02ConcatenateTextFiles\bin\Debug\02ConcatenateTextFiles.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\02ConcatenateTextFiles\bin\Debug\02ConcatenateTextFiles.pdb
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\02ConcatenateTextFiles\obj\Debug\02ConcatenateTextFiles.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\02ConcatenateTextFiles\obj\Debug\02ConcatenateTextFiles.pdb

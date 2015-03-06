@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\06SumIntegers\bin\Debug\06SumIntegers.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\06SumIntegers\bin\Debug\06SumIntegers.exe
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\06SumIntegers\bin\Debug\06SumIntegers.pdb
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\06SumIntegers\obj\Debug\06SumIntegers.exe
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\06SumIntegers\obj\Debug\06SumIntegers.pdb

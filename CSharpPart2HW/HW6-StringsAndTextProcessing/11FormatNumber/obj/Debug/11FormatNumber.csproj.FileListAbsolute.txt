@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\11FormatNumber\bin\Debug\11FormatNumber.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\11FormatNumber\bin\Debug\11FormatNumber.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\11FormatNumber\bin\Debug\11FormatNumber.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\11FormatNumber\obj\Debug\11FormatNumber.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\11FormatNumber\obj\Debug\11FormatNumber.pdb
