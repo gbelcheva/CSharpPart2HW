@@ -1,9 +1,0 @@
-C:\Users\softwareacademy\Desktop\444\HW3 -Methods\01SayHello\bin\Debug\01SayHello.exe.config
-C:\Users\softwareacademy\Desktop\444\HW3 -Methods\01SayHello\bin\Debug\01SayHello.exe
-C:\Users\softwareacademy\Desktop\444\HW3 -Methods\01SayHello\bin\Debug\01SayHello.pdb
-C:\Users\softwareacademy\Desktop\444\HW3 -Methods\01SayHello\obj\Debug\01SayHello.csprojResolveAssemblyReference.cache
-C:\Users\softwareacademy\Desktop\444\HW3 -Methods\01SayHello\obj\Debug\01SayHello.exe
-C:\Users\softwareacademy\Desktop\444\HW3 -Methods\01SayHello\obj\Debug\01SayHello.pdb
-D:\Ger\Dropbox\SOFTUNI\HW3 -Methods\01SayHello\bin\Debug\01SayHello.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW3 -Methods\01SayHello\obj\Debug\01SayHello.exe
-D:\Ger\Dropbox\SOFTUNI\HW3 -Methods\01SayHello\obj\Debug\01SayHello.pdb
