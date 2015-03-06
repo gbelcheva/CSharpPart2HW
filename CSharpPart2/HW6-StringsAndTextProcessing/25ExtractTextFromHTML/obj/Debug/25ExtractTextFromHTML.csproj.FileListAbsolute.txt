@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\25ExtractTextFromHTML\bin\Debug\25ExtractTextFromHTML.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\25ExtractTextFromHTML\bin\Debug\25ExtractTextFromHTML.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\25ExtractTextFromHTML\bin\Debug\25ExtractTextFromHTML.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\25ExtractTextFromHTML\obj\Debug\25ExtractTextFromHTML.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\25ExtractTextFromHTML\obj\Debug\25ExtractTextFromHTML.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\25ExtractTextFromHTML\obj\Debug\25ExtractTextFromHTML.pdb

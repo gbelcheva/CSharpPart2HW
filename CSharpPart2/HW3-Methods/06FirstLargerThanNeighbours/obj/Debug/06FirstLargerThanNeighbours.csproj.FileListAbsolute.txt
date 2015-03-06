@@ -1,0 +1,7 @@
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\06FirstLargerThanNeighbours\bin\Debug\06FirstLargerThanNeighbours.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\06FirstLargerThanNeighbours\bin\Debug\06FirstLargerThanNeighbours.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\06FirstLargerThanNeighbours\bin\Debug\06FirstLargerThanNeighbours.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\06FirstLargerThanNeighbours\bin\Debug\06FirstLargerThanNeighbours.pdb
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\06FirstLargerThanNeighbours\obj\Debug\06FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\06FirstLargerThanNeighbours\obj\Debug\06FirstLargerThanNeighbours.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\06FirstLargerThanNeighbours\obj\Debug\06FirstLargerThanNeighbours.pdb

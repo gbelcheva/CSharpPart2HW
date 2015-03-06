@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\07Homework\11CountLetters\bin\Debug\11CountLetters.exe.config
+D:\Ger\Dropbox\SOFTUNI\07Homework\11CountLetters\bin\Debug\11CountLetters.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\11CountLetters\bin\Debug\11CountLetters.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\11CountLetters\obj\Debug\11CountLetters.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\07Homework\11CountLetters\obj\Debug\11CountLetters.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\11CountLetters\obj\Debug\11CountLetters.pdb

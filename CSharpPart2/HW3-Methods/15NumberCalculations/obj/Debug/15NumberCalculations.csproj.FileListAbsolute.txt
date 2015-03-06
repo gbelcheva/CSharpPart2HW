@@ -1,0 +1,7 @@
+C:\Users\softwareacademy\Desktop\444\HW3 -Methods\15NumberCalculations\bin\Debug\15NumberCalculations.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\15NumberCalculations\bin\Debug\15NumberCalculations.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\15NumberCalculations\bin\Debug\15NumberCalculations.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\15NumberCalculations\bin\Debug\15NumberCalculations.pdb
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\15NumberCalculations\obj\Debug\15NumberCalculations.exe
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\15NumberCalculations\obj\Debug\15NumberCalculations.pdb
+D:\Ger\Dropbox\SOFTUNI\HW3-Methods\15NumberCalculations\obj\Debug\15NumberCalculations.csprojResolveAssemblyReference.cache

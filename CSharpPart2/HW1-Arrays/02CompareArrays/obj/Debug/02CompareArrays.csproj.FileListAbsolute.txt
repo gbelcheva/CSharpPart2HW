@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\02CompareArrays\bin\Debug\02CompareArrays.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\02CompareArrays\bin\Debug\02CompareArrays.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\02CompareArrays\bin\Debug\02CompareArrays.pdb
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\02CompareArrays\obj\Debug\02CompareArrays.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\02CompareArrays\obj\Debug\02CompareArrays.pdb
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\02CompareArrays\obj\Debug\02CompareArrays.csprojResolveAssemblyReference.cache

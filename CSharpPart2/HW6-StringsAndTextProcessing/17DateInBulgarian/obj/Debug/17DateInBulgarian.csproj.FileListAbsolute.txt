@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\17DateInBulgarian\bin\Debug\17DateInBulgarian.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\17DateInBulgarian\bin\Debug\17DateInBulgarian.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\17DateInBulgarian\bin\Debug\17DateInBulgarian.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\17DateInBulgarian\obj\Debug\17DateInBulgarian.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\17DateInBulgarian\obj\Debug\17DateInBulgarian.pdb

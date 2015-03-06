@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\08MaximalSum\bin\Debug\08MaximalSum.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\08MaximalSum\bin\Debug\08MaximalSum.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\08MaximalSum\bin\Debug\08MaximalSum.pdb
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\08MaximalSum\obj\Debug\08MaximalSum.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\08MaximalSum\obj\Debug\08MaximalSum.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\08MaximalSum\obj\Debug\08MaximalSum.pdb

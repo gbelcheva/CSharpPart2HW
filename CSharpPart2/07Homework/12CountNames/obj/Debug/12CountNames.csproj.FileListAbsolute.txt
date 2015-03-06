@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\07Homework\12CountNames\bin\Debug\12CountNames.exe.config
+D:\Ger\Dropbox\SOFTUNI\07Homework\12CountNames\bin\Debug\12CountNames.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\12CountNames\bin\Debug\12CountNames.pdb
+D:\Ger\Dropbox\SOFTUNI\07Homework\12CountNames\obj\Debug\12CountNames.exe
+D:\Ger\Dropbox\SOFTUNI\07Homework\12CountNames\obj\Debug\12CountNames.pdb

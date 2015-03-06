@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\09DeleteOddLines\bin\Debug\09DeleteOddLines.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\09DeleteOddLines\bin\Debug\09DeleteOddLines.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\09DeleteOddLines\bin\Debug\09DeleteOddLines.pdb
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\09DeleteOddLines\obj\Debug\09DeleteOddLines.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\09DeleteOddLines\obj\Debug\09DeleteOddLines.pdb

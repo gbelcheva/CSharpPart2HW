@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\10UnicodeCharacters\bin\Debug\10UnicodeCharacters.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\10UnicodeCharacters\bin\Debug\10UnicodeCharacters.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\10UnicodeCharacters\bin\Debug\10UnicodeCharacters.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\10UnicodeCharacters\obj\Debug\10UnicodeCharacters.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\10UnicodeCharacters\obj\Debug\10UnicodeCharacters.pdb

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\04BinarySearch\bin\Debug\04BinarySearch.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\04BinarySearch\bin\Debug\04BinarySearch.exe
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\04BinarySearch\bin\Debug\04BinarySearch.pdb
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\04BinarySearch\obj\Debug\04BinarySearch.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\04BinarySearch\obj\Debug\04BinarySearch.exe
+D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\04BinarySearch\obj\Debug\04BinarySearch.pdb

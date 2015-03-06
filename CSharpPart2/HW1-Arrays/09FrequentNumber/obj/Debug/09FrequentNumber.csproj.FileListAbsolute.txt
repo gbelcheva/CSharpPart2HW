@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.pdb
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.exe
+D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.pdb

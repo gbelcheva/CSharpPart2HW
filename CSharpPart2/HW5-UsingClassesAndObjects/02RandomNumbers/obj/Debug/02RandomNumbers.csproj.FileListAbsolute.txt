@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\02RandomNumbers\bin\Debug\02RandomNumbers.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\02RandomNumbers\obj\Debug\02RandomNumbers.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\02RandomNumbers\bin\Debug\02RandomNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\02RandomNumbers\bin\Debug\02RandomNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\02RandomNumbers\obj\Debug\02RandomNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\02RandomNumbers\obj\Debug\02RandomNumbers.pdb

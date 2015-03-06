@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\13CountWords\bin\Debug\13CountWords.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\13CountWords\bin\Debug\13CountWords.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\13CountWords\bin\Debug\13CountWords.pdb
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\13CountWords\obj\Debug\13CountWords.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\13CountWords\obj\Debug\13CountWords.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\13CountWords\obj\Debug\13CountWords.pdb

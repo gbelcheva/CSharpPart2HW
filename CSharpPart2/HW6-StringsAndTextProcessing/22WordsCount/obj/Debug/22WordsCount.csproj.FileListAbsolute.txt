@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\22WordsCount\bin\Debug\22WordsCount.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\22WordsCount\bin\Debug\22WordsCount.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\22WordsCount\bin\Debug\22WordsCount.pdb
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\22WordsCount\obj\Debug\22WordsCount.exe
+D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\22WordsCount\obj\Debug\22WordsCount.pdb

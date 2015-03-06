@@ -1,0 +1,15 @@
+﻿1.OddLines
+2.ConcatenateTextFiles
+3.LineNumbers
+4.CompareTextFiles
+5.MaximalAreaSum
+6.SaveSortedNames
+7.ReplaceSub-string
+8.ReplaceWholeWord
+9.DeleteOddLines
+10.ExtractTextFromXML
+11.PrefixTest
+12.RemoveWords
+13.CountWords
+
+

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\11PrefixTest\bin\Debug\11PrefixTest.exe.config
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\11PrefixTest\bin\Debug\11PrefixTest.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\11PrefixTest\bin\Debug\11PrefixTest.pdb
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\11PrefixTest\obj\Debug\11PrefixTest.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\11PrefixTest\obj\Debug\11PrefixTest.exe
+D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\11PrefixTest\obj\Debug\11PrefixTest.pdb
