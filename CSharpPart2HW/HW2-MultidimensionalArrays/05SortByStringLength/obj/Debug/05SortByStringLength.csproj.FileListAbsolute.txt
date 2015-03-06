@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\05SortByStringLength\bin\Debug\05SortByStringLength.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\05SortByStringLength\bin\Debug\05SortByStringLength.exe
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\05SortByStringLength\bin\Debug\05SortByStringLength.pdb
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\05SortByStringLength\obj\Debug\05SortByStringLength.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\05SortByStringLength\obj\Debug\05SortByStringLength.exe
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\05SortByStringLength\obj\Debug\05SortByStringLength.pdb

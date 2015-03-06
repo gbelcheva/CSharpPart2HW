@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\02ReverseString\bin\Debug\02ReverseString.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\02ReverseString\bin\Debug\02ReverseString.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\02ReverseString\bin\Debug\02ReverseString.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\02ReverseString\obj\Debug\02ReverseString.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\02ReverseString\obj\Debug\02ReverseString.pdb

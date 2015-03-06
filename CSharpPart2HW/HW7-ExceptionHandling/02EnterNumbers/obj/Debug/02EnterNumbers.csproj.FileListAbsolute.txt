@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\02EnterNumbers\bin\Debug\02EnterNumbers.pdb
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.pdb
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\02EnterNumbers\obj\Debug\02EnterNumbers.csprojResolveAssemblyReference.cache

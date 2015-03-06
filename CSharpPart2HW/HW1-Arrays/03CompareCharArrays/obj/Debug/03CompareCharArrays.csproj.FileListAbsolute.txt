@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.pdb
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.pdb

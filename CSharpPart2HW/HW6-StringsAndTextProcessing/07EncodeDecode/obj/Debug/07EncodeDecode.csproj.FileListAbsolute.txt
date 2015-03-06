@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\07EncodeDecode\bin\Debug\07EncodeDecode.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\07EncodeDecode\bin\Debug\07EncodeDecode.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\07EncodeDecode\bin\Debug\07EncodeDecode.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\07EncodeDecode\obj\Debug\07EncodeDecode.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\07EncodeDecode\obj\Debug\07EncodeDecode.pdb

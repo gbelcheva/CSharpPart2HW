@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\06StringLength\bin\Debug\06StringLength.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\06StringLength\bin\Debug\06StringLength.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\06StringLength\bin\Debug\06StringLength.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\06StringLength\obj\Debug\06StringLength.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\06StringLength\obj\Debug\06StringLength.pdb

@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\09BinaryFloating-point\bin\Debug\09BinaryFloating-point.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\09BinaryFloating-point\bin\Debug\09BinaryFloating-point.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\09BinaryFloating-point\bin\Debug\09BinaryFloating-point.pdb
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\09BinaryFloating-point\obj\Debug\09BinaryFloating-point.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\09BinaryFloating-point\obj\Debug\09BinaryFloating-point.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\09BinaryFloating-point\obj\Debug\09BinaryFloating-point.pdb

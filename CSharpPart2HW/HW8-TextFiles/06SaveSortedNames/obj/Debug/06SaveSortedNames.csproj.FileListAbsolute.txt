@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\06SaveSortedNames\bin\Debug\06SaveSortedNames.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\06SaveSortedNames\bin\Debug\06SaveSortedNames.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\06SaveSortedNames\bin\Debug\06SaveSortedNames.pdb
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\06SaveSortedNames\obj\Debug\06SaveSortedNames.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\06SaveSortedNames\obj\Debug\06SaveSortedNames.pdb

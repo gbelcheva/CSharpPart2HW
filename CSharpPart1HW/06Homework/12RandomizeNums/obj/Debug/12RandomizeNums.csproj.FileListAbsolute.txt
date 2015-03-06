@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\06Homework\12RandomizeNums\bin\Debug\12RandomizeNums.exe.config
-D:\Ger\Dropbox\SOFTUNI\06Homework\12RandomizeNums\bin\Debug\12RandomizeNums.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\12RandomizeNums\bin\Debug\12RandomizeNums.pdb
-D:\Ger\Dropbox\SOFTUNI\06Homework\12RandomizeNums\obj\Debug\12RandomizeNums.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\12RandomizeNums\obj\Debug\12RandomizeNums.pdb

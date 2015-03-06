@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\09ForbiddenWords\bin\Debug\09ForbiddenWords.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\09ForbiddenWords\bin\Debug\09ForbiddenWords.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\09ForbiddenWords\bin\Debug\09ForbiddenWords.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\09ForbiddenWords\obj\Debug\09ForbiddenWords.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\09ForbiddenWords\obj\Debug\09ForbiddenWords.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\09ForbiddenWords\obj\Debug\09ForbiddenWords.pdb

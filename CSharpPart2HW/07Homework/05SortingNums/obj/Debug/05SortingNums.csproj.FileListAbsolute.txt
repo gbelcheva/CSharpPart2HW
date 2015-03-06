@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\07Homework\05SortingNums\bin\Debug\05SortingNums.exe.config
-D:\Ger\Dropbox\SOFTUNI\07Homework\05SortingNums\bin\Debug\05SortingNums.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\05SortingNums\bin\Debug\05SortingNums.pdb
-D:\Ger\Dropbox\SOFTUNI\07Homework\05SortingNums\obj\Debug\05SortingNums.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\05SortingNums\obj\Debug\05SortingNums.pdb

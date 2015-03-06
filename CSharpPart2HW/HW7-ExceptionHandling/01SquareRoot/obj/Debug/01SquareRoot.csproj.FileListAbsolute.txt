@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\01SquareRoot\bin\Debug\01SquareRoot.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\01SquareRoot\bin\Debug\01SquareRoot.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\01SquareRoot\bin\Debug\01SquareRoot.pdb
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\01SquareRoot\obj\Debug\01SquareRoot.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\01SquareRoot\obj\Debug\01SquareRoot.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\01SquareRoot\obj\Debug\01SquareRoot.pdb

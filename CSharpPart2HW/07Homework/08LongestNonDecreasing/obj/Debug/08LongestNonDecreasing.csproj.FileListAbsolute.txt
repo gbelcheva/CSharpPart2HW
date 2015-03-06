@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\07Homework\08LongestNonDecreasing\bin\Debug\08LongestNonDecreasing.exe.config
-D:\Ger\Dropbox\SOFTUNI\07Homework\08LongestNonDecreasing\bin\Debug\08LongestNonDecreasing.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\08LongestNonDecreasing\bin\Debug\08LongestNonDecreasing.pdb
-D:\Ger\Dropbox\SOFTUNI\07Homework\08LongestNonDecreasing\obj\Debug\08LongestNonDecreasing.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\07Homework\08LongestNonDecreasing\obj\Debug\08LongestNonDecreasing.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\08LongestNonDecreasing\obj\Debug\08LongestNonDecreasing.pdb

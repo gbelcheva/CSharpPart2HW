@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\06Homework\15HexToDec\bin\Debug\15HexToDec.exe.config
-D:\Ger\Dropbox\SOFTUNI\06Homework\15HexToDec\bin\Debug\15HexToDec.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\15HexToDec\bin\Debug\15HexToDec.pdb
-D:\Ger\Dropbox\SOFTUNI\06Homework\15HexToDec\obj\Debug\15HexToDec.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\06Homework\15HexToDec\obj\Debug\15HexToDec.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\15HexToDec\obj\Debug\15HexToDec.pdb

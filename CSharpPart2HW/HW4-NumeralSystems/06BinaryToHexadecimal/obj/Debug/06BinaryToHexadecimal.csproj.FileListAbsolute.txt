@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\06BinaryToHexadecimal\bin\Debug\06BinaryToHexadecimal.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\06BinaryToHexadecimal\bin\Debug\06BinaryToHexadecimal.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\06BinaryToHexadecimal\bin\Debug\06BinaryToHexadecimal.pdb
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\06BinaryToHexadecimal\obj\Debug\06BinaryToHexadecimal.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\06BinaryToHexadecimal\obj\Debug\06BinaryToHexadecimal.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\06BinaryToHexadecimal\obj\Debug\06BinaryToHexadecimal.pdb

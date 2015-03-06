@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\01AllocateArray\bin\Debug\01AllocateArray.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\01AllocateArray\bin\Debug\01AllocateArray.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\01AllocateArray\bin\Debug\01AllocateArray.pdb
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\01AllocateArray\obj\Debug\01AllocateArray.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\01AllocateArray\obj\Debug\01AllocateArray.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\01AllocateArray\obj\Debug\01AllocateArray.pdb

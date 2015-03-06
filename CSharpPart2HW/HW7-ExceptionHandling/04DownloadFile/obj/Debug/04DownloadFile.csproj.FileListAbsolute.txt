@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\04DownloadFile\bin\Debug\04DownloadFile.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\04DownloadFile\bin\Debug\04DownloadFile.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\04DownloadFile\bin\Debug\04DownloadFile.pdb
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\04DownloadFile\obj\Debug\04DownloadFile.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\04DownloadFile\obj\Debug\04DownloadFile.pdb

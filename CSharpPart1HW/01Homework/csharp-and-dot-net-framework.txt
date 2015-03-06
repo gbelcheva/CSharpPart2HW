@@ -1,1 +1,0 @@
-C# is a progrmming language and .NET is an application development framework with runtime (CLR) and an extensive library (FCL). C# is built on the .NET framework and is one of the languages that can be executed in .NET environment.

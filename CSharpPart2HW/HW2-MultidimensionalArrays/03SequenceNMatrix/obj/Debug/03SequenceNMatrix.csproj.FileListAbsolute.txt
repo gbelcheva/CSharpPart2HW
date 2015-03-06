@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\03SequenceNMatrix\bin\Debug\03SequenceNMatrix.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\03SequenceNMatrix\bin\Debug\03SequenceNMatrix.exe
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\03SequenceNMatrix\bin\Debug\03SequenceNMatrix.pdb
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\03SequenceNMatrix\obj\Debug\03SequenceNMatrix.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\03SequenceNMatrix\obj\Debug\03SequenceNMatrix.exe
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\03SequenceNMatrix\obj\Debug\03SequenceNMatrix.pdb

@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\01OddLines\bin\Debug\01OddLines.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\01OddLines\bin\Debug\01OddLines.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\01OddLines\bin\Debug\01OddLines.pdb
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\01OddLines\obj\Debug\01OddLines.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\01OddLines\obj\Debug\01OddLines.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\01OddLines\obj\Debug\01OddLines.pdb

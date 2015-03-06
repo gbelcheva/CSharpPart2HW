@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\23SeriesOfLetters\bin\Debug\23SeriesOfLetters.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\23SeriesOfLetters\bin\Debug\23SeriesOfLetters.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\23SeriesOfLetters\bin\Debug\23SeriesOfLetters.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\23SeriesOfLetters\obj\Debug\23SeriesOfLetters.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\23SeriesOfLetters\obj\Debug\23SeriesOfLetters.pdb

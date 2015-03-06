@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\04Sub-stringInText\bin\Debug\04Sub-stringInText.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\04Sub-stringInText\bin\Debug\04Sub-stringInText.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\04Sub-stringInText\bin\Debug\04Sub-stringInText.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\04Sub-stringInText\obj\Debug\04Sub-stringInText.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\04Sub-stringInText\obj\Debug\04Sub-stringInText.pdb

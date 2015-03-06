@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.03VariableInHEX\bin\Debug\2.03VariableInHEX.exe.config
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.03VariableInHEX\bin\Debug\2.03VariableInHEX.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.03VariableInHEX\bin\Debug\2.03VariableInHEX.pdb
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.03VariableInHEX\obj\Debug\2.03VariableInHEX.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.03VariableInHEX\obj\Debug\2.03VariableInHEX.pdb

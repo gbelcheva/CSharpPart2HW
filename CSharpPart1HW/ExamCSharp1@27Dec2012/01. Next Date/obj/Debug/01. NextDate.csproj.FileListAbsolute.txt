@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\01. Next Date\bin\Debug\_01.Next_Date.exe.config
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\01. Next Date\bin\Debug\_01.Next_Date.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\01. Next Date\bin\Debug\_01.Next_Date.pdb
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\01. Next Date\obj\Debug\01. NextDate.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\01. Next Date\obj\Debug\_01.Next_Date.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\01. Next Date\obj\Debug\_01.Next_Date.pdb

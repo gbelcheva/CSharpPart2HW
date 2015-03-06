@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\02BinaryToDecimal\bin\Debug\02BinaryToDecimal.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\02BinaryToDecimal\bin\Debug\02BinaryToDecimal.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\02BinaryToDecimal\bin\Debug\02BinaryToDecimal.pdb
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\02BinaryToDecimal\obj\Debug\02BinaryToDecimal.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\02BinaryToDecimal\obj\Debug\02BinaryToDecimal.pdb

@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\05MaximalAreaSum\bin\Debug\05MaximalAreaSum.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\05MaximalAreaSum\bin\Debug\05MaximalAreaSum.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\05MaximalAreaSum\bin\Debug\05MaximalAreaSum.pdb
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\05MaximalAreaSum\obj\Debug\05MaximalAreaSum.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\05MaximalAreaSum\obj\Debug\05MaximalAreaSum.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\05MaximalAreaSum\obj\Debug\05MaximalAreaSum.pdb

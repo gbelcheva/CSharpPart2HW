@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\05Workdays\bin\Debug\05Workdays.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\05Workdays\bin\Debug\05Workdays.exe
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\05Workdays\bin\Debug\05Workdays.pdb
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\05Workdays\obj\Debug\05Workdays.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\05Workdays\obj\Debug\05Workdays.exe
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\05Workdays\obj\Debug\05Workdays.pdb

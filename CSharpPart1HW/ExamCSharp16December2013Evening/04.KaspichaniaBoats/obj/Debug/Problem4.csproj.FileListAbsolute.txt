@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem4\bin\Debug\Problem4.exe.config
-D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem4\bin\Debug\Problem4.exe
-D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem4\bin\Debug\Problem4.pdb
-D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem4\obj\Debug\Problem4.exe
-D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem4\obj\Debug\Problem4.pdb
-D:\Ger\Dropbox\SOFTUNI\ExamCSharp1\Problem4\obj\Debug\Problem4.csprojResolveAssemblyReference.cache

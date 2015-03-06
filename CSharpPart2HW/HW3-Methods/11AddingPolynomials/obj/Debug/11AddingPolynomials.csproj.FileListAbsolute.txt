@@ -1,7 +1,0 @@
-C:\Users\softwareacademy\Desktop\444\HW3 -Methods\11AddingPolynomials\bin\Debug\11AddingPolynomials.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW3-Methods\11AddingPolynomials\bin\Debug\11AddingPolynomials.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW3-Methods\11AddingPolynomials\bin\Debug\11AddingPolynomials.exe
-D:\Ger\Dropbox\SOFTUNI\HW3-Methods\11AddingPolynomials\bin\Debug\11AddingPolynomials.pdb
-D:\Ger\Dropbox\SOFTUNI\HW3-Methods\11AddingPolynomials\obj\Debug\11AddingPolynomials.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW3-Methods\11AddingPolynomials\obj\Debug\11AddingPolynomials.exe
-D:\Ger\Dropbox\SOFTUNI\HW3-Methods\11AddingPolynomials\obj\Debug\11AddingPolynomials.pdb

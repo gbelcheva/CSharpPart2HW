@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.13CompareFloats\bin\Debug\2.13CompareFloats.exe.config
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.13CompareFloats\bin\Debug\2.13CompareFloats.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.13CompareFloats\bin\Debug\2.13CompareFloats.pdb
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.13CompareFloats\obj\Debug\2.13CompareFloats.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.13CompareFloats\obj\Debug\2.13CompareFloats.pdb

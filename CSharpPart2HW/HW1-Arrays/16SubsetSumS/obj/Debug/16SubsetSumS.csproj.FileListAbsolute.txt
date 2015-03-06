@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\16SubsetSumS\bin\Debug\16SubsetSumS.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\16SubsetSumS\bin\Debug\16SubsetSumS.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\16SubsetSumS\bin\Debug\16SubsetSumS.pdb
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\16SubsetSumS\obj\Debug\16SubsetSumS.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\16SubsetSumS\obj\Debug\16SubsetSumS.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\16SubsetSumS\obj\Debug\16SubsetSumS.pdb

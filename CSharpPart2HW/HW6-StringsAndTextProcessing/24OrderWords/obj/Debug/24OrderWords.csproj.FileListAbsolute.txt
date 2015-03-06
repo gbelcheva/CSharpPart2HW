@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\24OrderWords\bin\Debug\24OrderWords.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\24OrderWords\bin\Debug\24OrderWords.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\24OrderWords\bin\Debug\24OrderWords.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\24OrderWords\obj\Debug\24OrderWords.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\24OrderWords\obj\Debug\24OrderWords.pdb

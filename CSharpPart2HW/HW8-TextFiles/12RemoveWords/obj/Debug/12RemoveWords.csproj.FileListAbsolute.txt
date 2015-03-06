@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\12RemoveWords\bin\Debug\12RemoveWords.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\12RemoveWords\bin\Debug\12RemoveWords.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\12RemoveWords\bin\Debug\12RemoveWords.pdb
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\12RemoveWords\obj\Debug\12RemoveWords.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\12RemoveWords\obj\Debug\12RemoveWords.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\12RemoveWords\obj\Debug\12RemoveWords.pdb

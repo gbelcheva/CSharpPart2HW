@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\03LineNumbers\bin\Debug\03LineNumbers.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\03LineNumbers\bin\Debug\03LineNumbers.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\03LineNumbers\bin\Debug\03LineNumbers.pdb
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\03LineNumbers\obj\Debug\03LineNumbers.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\03LineNumbers\obj\Debug\03LineNumbers.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\03LineNumbers\obj\Debug\03LineNumbers.pdb

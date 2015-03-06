@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\06Homework\19SpiralMatrix\bin\Debug\19SpiralMatrix.exe.config
-D:\Ger\Dropbox\SOFTUNI\06Homework\19SpiralMatrix\bin\Debug\19SpiralMatrix.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\19SpiralMatrix\bin\Debug\19SpiralMatrix.pdb
-D:\Ger\Dropbox\SOFTUNI\06Homework\19SpiralMatrix\obj\Debug\19SpiralMatrix.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\06Homework\19SpiralMatrix\obj\Debug\19SpiralMatrix.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\19SpiralMatrix\obj\Debug\19SpiralMatrix.pdb

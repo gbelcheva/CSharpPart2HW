@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\03ReadFileContents\bin\Debug\03ReadFileContents.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\03ReadFileContents\bin\Debug\03ReadFileContents.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\03ReadFileContents\bin\Debug\03ReadFileContents.pdb
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\03ReadFileContents\obj\Debug\03ReadFileContents.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\03ReadFileContents\obj\Debug\03ReadFileContents.exe
-D:\Ger\Dropbox\SOFTUNI\HW7-ExceptionHandling\03ReadFileContents\obj\Debug\03ReadFileContents.pdb

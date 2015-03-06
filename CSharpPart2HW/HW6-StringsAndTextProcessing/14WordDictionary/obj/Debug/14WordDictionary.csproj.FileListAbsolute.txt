@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\14WordDictionary\bin\Debug\14WordDictionary.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\14WordDictionary\bin\Debug\14WordDictionary.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\14WordDictionary\bin\Debug\14WordDictionary.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\14WordDictionary\obj\Debug\14WordDictionary.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\14WordDictionary\obj\Debug\14WordDictionary.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\14WordDictionary\obj\Debug\14WordDictionary.pdb

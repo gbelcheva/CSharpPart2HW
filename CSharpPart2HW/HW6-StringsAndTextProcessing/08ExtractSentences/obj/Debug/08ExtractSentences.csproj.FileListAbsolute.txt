@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\08ExtractSentences\bin\Debug\08ExtractSentences.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\08ExtractSentences\bin\Debug\08ExtractSentences.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\08ExtractSentences\bin\Debug\08ExtractSentences.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\08ExtractSentences\obj\Debug\08ExtractSentences.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\08ExtractSentences\obj\Debug\08ExtractSentences.pdb

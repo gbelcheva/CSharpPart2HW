@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\01StringsInCSharp\bin\Debug\01StringsInCSharp.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\01StringsInCSharp\obj\Debug\01StringsInCSharp.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\01StringsInCSharp\bin\Debug\01StringsInCSharp.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\01StringsInCSharp\bin\Debug\01StringsInCSharp.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\01StringsInCSharp\obj\Debug\01StringsInCSharp.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\01StringsInCSharp\obj\Debug\01StringsInCSharp.pdb

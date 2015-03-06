@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\15ReplaceTags\bin\Debug\15ReplaceTags.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\15ReplaceTags\bin\Debug\15ReplaceTags.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\15ReplaceTags\bin\Debug\15ReplaceTags.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\15ReplaceTags\obj\Debug\15ReplaceTags.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\15ReplaceTags\obj\Debug\15ReplaceTags.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\15ReplaceTags\obj\Debug\15ReplaceTags.pdb

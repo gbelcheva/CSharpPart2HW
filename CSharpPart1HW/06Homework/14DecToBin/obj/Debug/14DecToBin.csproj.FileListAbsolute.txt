@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\06Homework\14DecToBin\bin\Debug\14DecToBin.exe.config
-D:\Ger\Dropbox\SOFTUNI\06Homework\14DecToBin\bin\Debug\14DecToBin.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\14DecToBin\bin\Debug\14DecToBin.pdb
-D:\Ger\Dropbox\SOFTUNI\06Homework\14DecToBin\obj\Debug\14DecToBin.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\06Homework\14DecToBin\obj\Debug\14DecToBin.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\14DecToBin\obj\Debug\14DecToBin.pdb

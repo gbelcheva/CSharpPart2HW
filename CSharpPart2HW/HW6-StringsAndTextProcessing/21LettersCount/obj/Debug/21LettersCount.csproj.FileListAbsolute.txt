@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\21LettersCount\bin\Debug\21LettersCount.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\21LettersCount\bin\Debug\21LettersCount.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\21LettersCount\bin\Debug\21LettersCount.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\21LettersCount\obj\Debug\21LettersCount.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\21LettersCount\obj\Debug\21LettersCount.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\21LettersCount\obj\Debug\21LettersCount.pdb

@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\06Homework\18TrailingZeros\bin\Debug\18TrailingZeros.exe.config
-D:\Ger\Dropbox\SOFTUNI\06Homework\18TrailingZeros\bin\Debug\18TrailingZeros.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\18TrailingZeros\bin\Debug\18TrailingZeros.pdb
-D:\Ger\Dropbox\SOFTUNI\06Homework\18TrailingZeros\obj\Debug\18TrailingZeros.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\18TrailingZeros\obj\Debug\18TrailingZeros.pdb

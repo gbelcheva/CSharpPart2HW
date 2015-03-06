@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\06Homework\17GCD\bin\Debug\17GCD.exe.config
-D:\Ger\Dropbox\SOFTUNI\06Homework\17GCD\bin\Debug\17GCD.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\17GCD\bin\Debug\17GCD.pdb
-D:\Ger\Dropbox\SOFTUNI\06Homework\17GCD\obj\Debug\17GCD.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\06Homework\17GCD\obj\Debug\17GCD.exe
-D:\Ger\Dropbox\SOFTUNI\06Homework\17GCD\obj\Debug\17GCD.pdb

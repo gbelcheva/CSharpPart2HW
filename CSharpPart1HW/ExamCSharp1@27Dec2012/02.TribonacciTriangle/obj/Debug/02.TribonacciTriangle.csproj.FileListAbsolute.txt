@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\02.TribonacciTriangle\bin\Debug\02.TribonacciTriangle.exe.config
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\02.TribonacciTriangle\bin\Debug\02.TribonacciTriangle.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\02.TribonacciTriangle\bin\Debug\02.TribonacciTriangle.pdb
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp1@27Dec2012\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.pdb

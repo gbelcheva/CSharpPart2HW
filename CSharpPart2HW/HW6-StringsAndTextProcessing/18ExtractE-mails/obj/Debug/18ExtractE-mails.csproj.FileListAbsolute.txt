@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\18ExtractE-mails\bin\Debug\18ExtractE-mails.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\18ExtractE-mails\obj\Debug\18ExtractE-mails.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\18ExtractE-mails\bin\Debug\18ExtractE-mails.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\18ExtractE-mails\bin\Debug\18ExtractE-mails.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\18ExtractE-mails\obj\Debug\18ExtractE-mails.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\18ExtractE-mails\obj\Debug\18ExtractE-mails.pdb

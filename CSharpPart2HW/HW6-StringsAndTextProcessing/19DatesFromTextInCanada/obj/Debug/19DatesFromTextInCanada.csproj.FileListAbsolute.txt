@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\19DatesFromTextInCanada\bin\Debug\19DatesFromTextInCanada.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\19DatesFromTextInCanada\bin\Debug\19DatesFromTextInCanada.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\19DatesFromTextInCanada\bin\Debug\19DatesFromTextInCanada.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\19DatesFromTextInCanada\obj\Debug\19DatesFromTextInCanada.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\19DatesFromTextInCanada\obj\Debug\19DatesFromTextInCanada.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\19DatesFromTextInCanada\obj\Debug\19DatesFromTextInCanada.pdb

@@ -1,3 +1,0 @@
-C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05FactorialNKKN\bin\Debug\05FactorialNKKN.exe.config
-C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05FactorialNKKN\obj\Debug\05FactorialNKKN.exe
-C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05FactorialNKKN\obj\Debug\05FactorialNKKN.pdb

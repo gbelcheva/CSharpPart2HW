@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\02.Drunken Numbers\bin\Debug\Problem2.exe.config
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\02.Drunken Numbers\obj\Debug\Problem2.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\02.Drunken Numbers\obj\Debug\Problem2.pdb
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\02.Drunken Numbers\bin\Debug\Problem2.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\02.Drunken Numbers\bin\Debug\Problem2.pdb
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\02.Drunken Numbers\obj\Debug\02.Drunken Numbers.csprojResolveAssemblyReference.cache

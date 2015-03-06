@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\07SelectionSort\bin\Debug\07SelectionSort.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\07SelectionSort\bin\Debug\07SelectionSort.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\07SelectionSort\bin\Debug\07SelectionSort.pdb
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\07SelectionSort\obj\Debug\07SelectionSort.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\07SelectionSort\obj\Debug\07SelectionSort.pdb

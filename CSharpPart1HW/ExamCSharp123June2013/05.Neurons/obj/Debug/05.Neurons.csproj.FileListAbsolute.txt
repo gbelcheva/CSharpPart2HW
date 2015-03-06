@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\05.Neurons\bin\Debug\Problem5.exe.config
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\05.Neurons\bin\Debug\Problem5.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\05.Neurons\bin\Debug\Problem5.pdb
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\05.Neurons\obj\Debug\05.Neurons.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\05.Neurons\obj\Debug\Problem5.exe
-D:\Ger\Dropbox\SOFTUNI\Exams\ExamCSharp123June2013\05.Neurons\obj\Debug\Problem5.pdb

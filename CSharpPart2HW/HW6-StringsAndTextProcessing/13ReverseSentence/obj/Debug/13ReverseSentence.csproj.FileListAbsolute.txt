@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\13ReverseSentence\bin\Debug\13ReverseSentence.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\13ReverseSentence\bin\Debug\13ReverseSentence.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\13ReverseSentence\bin\Debug\13ReverseSentence.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\13ReverseSentence\obj\Debug\13ReverseSentence.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\13ReverseSentence\obj\Debug\13ReverseSentence.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\13ReverseSentence\obj\Debug\13ReverseSentence.pdb

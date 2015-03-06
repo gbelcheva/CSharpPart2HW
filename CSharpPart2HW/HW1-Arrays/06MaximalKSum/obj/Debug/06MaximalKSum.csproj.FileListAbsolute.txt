@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.pdb
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.exe
-D:\Ger\Dropbox\SOFTUNI\HW1-Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.pdb

@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.pdb
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.exe
-D:\Ger\Dropbox\SOFTUNI\HW4-NumeralSystems\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.pdb

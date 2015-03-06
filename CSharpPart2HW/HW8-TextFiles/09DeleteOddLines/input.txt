@@ -1,7 +1,0 @@
-2 2.ConcatenateTextFiles
-4 4.CompareTextFiles
-6 6.SaveSortedNames
-8 8.ReplaceWholeWord
-10 10.ExtractTextFromXML
-12 12.RemoveWords
-14 

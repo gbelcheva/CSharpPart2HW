@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\03DayOfWeek\bin\Debug\03DayOfWeek.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\03DayOfWeek\bin\Debug\03DayOfWeek.exe
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\03DayOfWeek\bin\Debug\03DayOfWeek.pdb
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\03DayOfWeek\obj\Debug\03DayOfWeek.exe
-D:\Ger\Dropbox\SOFTUNI\HW5-UsingClassesAndObjects\03DayOfWeek\obj\Debug\03DayOfWeek.pdb

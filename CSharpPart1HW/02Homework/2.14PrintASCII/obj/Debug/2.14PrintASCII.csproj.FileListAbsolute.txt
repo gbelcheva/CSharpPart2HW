@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.14PrintASCII\bin\Debug\2.14PrintASCII.exe.config
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.14PrintASCII\bin\Debug\2.14PrintASCII.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.14PrintASCII\bin\Debug\2.14PrintASCII.pdb
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.14PrintASCII\obj\Debug\2.14PrintASCII.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.14PrintASCII\obj\Debug\2.14PrintASCII.pdb
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.14PrintASCII\obj\Debug\2.14PrintASCII.csprojResolveAssemblyReference.cache

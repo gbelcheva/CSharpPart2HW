@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.04UnicodeCharacter\bin\Debug\2.04UnicodeCharacter.exe.config
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.04UnicodeCharacter\bin\Debug\2.04UnicodeCharacter.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.04UnicodeCharacter\bin\Debug\2.04UnicodeCharacter.pdb
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.04UnicodeCharacter\obj\Debug\2.04UnicodeCharacter.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.04UnicodeCharacter\obj\Debug\2.04UnicodeCharacter.pdb

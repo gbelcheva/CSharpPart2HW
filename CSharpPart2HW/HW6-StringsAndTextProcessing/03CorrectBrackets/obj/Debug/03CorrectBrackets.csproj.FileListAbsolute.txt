@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\03CorrectBrackets\bin\Debug\03CorrectBrackets.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\03CorrectBrackets\bin\Debug\03CorrectBrackets.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\03CorrectBrackets\bin\Debug\03CorrectBrackets.pdb
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\03CorrectBrackets\obj\Debug\03CorrectBrackets.exe
-D:\Ger\Dropbox\SOFTUNI\HW6-StringsAndTextProcessing\03CorrectBrackets\obj\Debug\03CorrectBrackets.pdb

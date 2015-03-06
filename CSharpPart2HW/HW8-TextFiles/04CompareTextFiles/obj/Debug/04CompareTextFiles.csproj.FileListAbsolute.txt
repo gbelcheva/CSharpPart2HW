@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\04CompareTextFiles\bin\Debug\04CompareTextFiles.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\04CompareTextFiles\bin\Debug\04CompareTextFiles.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\04CompareTextFiles\bin\Debug\04CompareTextFiles.pdb
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\04CompareTextFiles\obj\Debug\04CompareTextFiles.exe
-D:\Ger\Dropbox\SOFTUNI\HW8-TextFiles\04CompareTextFiles\obj\Debug\04CompareTextFiles.pdb

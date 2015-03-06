@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\02MaximalSum\bin\Debug\02MaximalSum.exe.config
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\02MaximalSum\bin\Debug\02MaximalSum.exe
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\02MaximalSum\bin\Debug\02MaximalSum.pdb
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\02MaximalSum\obj\Debug\02MaximalSum.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\02MaximalSum\obj\Debug\02MaximalSum.exe
-D:\Ger\Dropbox\SOFTUNI\HW2-MultidimensionalArrays\02MaximalSum\obj\Debug\02MaximalSum.pdb

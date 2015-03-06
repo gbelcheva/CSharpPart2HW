@@ -1,5 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.07Quotes\bin\Debug\2.07Quotes.exe.config
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.07Quotes\bin\Debug\2.07Quotes.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.07Quotes\bin\Debug\2.07Quotes.pdb
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.07Quotes\obj\Debug\2.07Quotes.exe
-D:\Ger\Dropbox\SOFTUNI\02Homework\2.07Quotes\obj\Debug\2.07Quotes.pdb

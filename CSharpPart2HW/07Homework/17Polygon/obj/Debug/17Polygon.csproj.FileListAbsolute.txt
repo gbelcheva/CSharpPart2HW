@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\07Homework\17Polygon\bin\Debug\17Polygon.exe.config
-D:\Ger\Dropbox\SOFTUNI\07Homework\17Polygon\bin\Debug\17Polygon.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\17Polygon\bin\Debug\17Polygon.pdb
-D:\Ger\Dropbox\SOFTUNI\07Homework\17Polygon\obj\Debug\17Polygon.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\07Homework\17Polygon\obj\Debug\17Polygon.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\17Polygon\obj\Debug\17Polygon.pdb

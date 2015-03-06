@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\07Homework\01Fibonacci\bin\Debug\01Fibonacci.exe.config
-D:\Ger\Dropbox\SOFTUNI\07Homework\01Fibonacci\bin\Debug\01Fibonacci.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\01Fibonacci\bin\Debug\01Fibonacci.pdb
-D:\Ger\Dropbox\SOFTUNI\07Homework\01Fibonacci\obj\Debug\01Fibonacci.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\07Homework\01Fibonacci\obj\Debug\01Fibonacci.exe
-D:\Ger\Dropbox\SOFTUNI\07Homework\01Fibonacci\obj\Debug\01Fibonacci.pdb
