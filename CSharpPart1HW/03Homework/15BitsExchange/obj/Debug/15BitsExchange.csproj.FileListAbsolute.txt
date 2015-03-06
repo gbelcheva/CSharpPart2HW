@@ -1,0 +1,12 @@
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\15BitsExchange\bin\Debug\15BitsExchange.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\15BitsExchange\bin\Debug\15BitsExchange.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\15BitsExchange\obj\Debug\15BitsExchange.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\15BitsExchange\obj\Debug\15BitsExchange.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\03Homework\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+D:\Ger\Dropbox\SOFTUNI\03Homework\15BitsExchange\obj\Debug\15BitsExchange.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\15BitsExchange\obj\Debug\15BitsExchange.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\15BitsExchange\bin\Debug\15BitsExchange.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\15BitsExchange\bin\Debug\15BitsExchange.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\15BitsExchange\obj\Debug\15BitsExchange.csprojResolveAssemblyReference.cache

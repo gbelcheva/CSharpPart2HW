@@ -1,0 +1,11 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\06Homework\04NKFactorial\bin\Debug\04NKFactorial.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\06Homework\04NKFactorial\bin\Debug\04NKFactorial.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\06Homework\04NKFactorial\bin\Debug\04NKFactorial.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\06Homework\04NKFactorial\obj\Debug\04NKFactorial.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\06Homework\04NKFactorial\obj\Debug\04NKFactorial.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\bin\Debug\04NKFactorial.exe.config
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\obj\Debug\04NKFactorial.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\obj\Debug\04NKFactorial.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\bin\Debug\04NKFactorial.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\bin\Debug\04NKFactorial.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\04NKFactorial\obj\Debug\04NKFactorial.csprojResolveAssemblyReference.cache

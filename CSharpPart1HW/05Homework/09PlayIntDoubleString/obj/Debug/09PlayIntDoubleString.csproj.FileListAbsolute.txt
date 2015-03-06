@@ -1,0 +1,12 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\09PlayIntDoubleString\bin\Debug\09PlayIntDoubleString.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\09PlayIntDoubleString\bin\Debug\09PlayIntDoubleString.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\09PlayIntDoubleString\bin\Debug\09PlayIntDoubleString.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\09PlayIntDoubleString\obj\Debug\09PlayIntDoubleString.csprojResolveAssemblyReference.cache
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\09PlayIntDoubleString\obj\Debug\09PlayIntDoubleString.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\09PlayIntDoubleString\obj\Debug\09PlayIntDoubleString.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\09PlayIntDoubleString\bin\Debug\09PlayIntDoubleString.exe.config
+D:\Ger\Dropbox\SOFTUNI\05Homework\09PlayIntDoubleString\bin\Debug\09PlayIntDoubleString.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\09PlayIntDoubleString\bin\Debug\09PlayIntDoubleString.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\09PlayIntDoubleString\obj\Debug\09PlayIntDoubleString.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\05Homework\09PlayIntDoubleString\obj\Debug\09PlayIntDoubleString.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\09PlayIntDoubleString\obj\Debug\09PlayIntDoubleString.pdb

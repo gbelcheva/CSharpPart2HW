@@ -1,0 +1,11 @@
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.5SquareRoot\bin\Debug\1.05SquareRoot.exe.config
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.5SquareRoot\bin\Debug\1.05SquareRoot.exe
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.5SquareRoot\bin\Debug\1.05SquareRoot.pdb
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.5SquareRoot\obj\Debug\1.05SquareRoot.exe
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.5SquareRoot\obj\Debug\1.05SquareRoot.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.05SquareRoot\bin\Debug\1.05SquareRoot.exe.config
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.05SquareRoot\obj\Debug\1.05SquareRoot.exe
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.05SquareRoot\obj\Debug\1.05SquareRoot.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.05SquareRoot\bin\Debug\1.05SquareRoot.exe
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.05SquareRoot\bin\Debug\1.05SquareRoot.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.05SquareRoot\obj\Debug\1.05SquareRoot.csprojResolveAssemblyReference.cache

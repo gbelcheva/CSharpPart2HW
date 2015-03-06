@@ -1,0 +1,12 @@
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\05Third7\bin\Debug\05Third7.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\05Third7\bin\Debug\05Third7.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\05Third7\bin\Debug\05Third7.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\05Third7\obj\Debug\05Third7.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\05Third7\obj\Debug\05Third7.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\05Third7\obj\Debug\05Third7.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\05Third7\bin\Debug\05Third7.exe.config
+D:\Ger\Dropbox\SOFTUNI\03Homework\05Third7\obj\Debug\05Third7.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\05Third7\obj\Debug\05Third7.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\05Third7\bin\Debug\05Third7.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\05Third7\bin\Debug\05Third7.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\05Third7\obj\Debug\05Third7.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.1DeclareVariables\bin\Debug\1.1DeclareVariables.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.1DeclareVariables\bin\Debug\1.1DeclareVariables.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.1DeclareVariables\bin\Debug\1.1DeclareVariables.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.1DeclareVariables\obj\Debug\1.1DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.1DeclareVariables\obj\Debug\1.1DeclareVariables.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Homework2\1.1DeclareVariables\obj\Debug\1.1DeclareVariables.pdb
+D:\Ger\Dropbox\SOFTUNI\Homework2\1.1DeclareVariables\bin\Debug\1.1DeclareVariables.exe.config
+D:\Ger\Dropbox\SOFTUNI\Homework2\1.1DeclareVariables\obj\Debug\1.1DeclareVariables.exe
+D:\Ger\Dropbox\SOFTUNI\Homework2\1.1DeclareVariables\obj\Debug\1.1DeclareVariables.pdb
+D:\Ger\Dropbox\SOFTUNI\Homework2\2.01DeclareVariables\bin\Debug\1.1DeclareVariables.exe.config
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.01DeclareVariables\bin\Debug\2.01DeclareVariables.exe.config
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.01DeclareVariables\obj\Debug\2.01DeclareVariables.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.01DeclareVariables\obj\Debug\2.01DeclareVariables.pdb
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.01DeclareVariables\bin\Debug\2.01DeclareVariables.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.01DeclareVariables\bin\Debug\2.01DeclareVariables.pdb
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.01DeclareVariables\obj\Debug\2.01DeclareVariables.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\06Four-Digit\bin\Debug\06Four-Digit.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\06Four-Digit\bin\Debug\06Four-Digit.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\06Four-Digit\bin\Debug\06Four-Digit.pdb
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\06Four-Digit\obj\Debug\06Four-Digit.exe
+C:\Users\UniUser\Desktop\gbelcheva\03Homework\06Four-Digit\obj\Debug\06Four-Digit.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\06Four-Digit\bin\Debug\06Four-Digit.exe.config
+D:\Ger\Dropbox\SOFTUNI\03Homework\06Four-Digit\obj\Debug\06Four-Digit.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\06Four-Digit\obj\Debug\06Four-Digit.pdb
+D:\Ger\Dropbox\SOFTUNI\03Homework\06Four-Digit\bin\Debug\06Four-Digit.exe
+D:\Ger\Dropbox\SOFTUNI\03Homework\06Four-Digit\bin\Debug\06Four-Digit.pdb

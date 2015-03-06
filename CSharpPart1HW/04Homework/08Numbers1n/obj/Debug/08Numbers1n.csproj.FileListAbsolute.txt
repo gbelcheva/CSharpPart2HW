@@ -1,0 +1,11 @@
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\08Numbers1n\bin\Debug\08Numbers1n.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\08Numbers1n\bin\Debug\08Numbers1n.exe
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\08Numbers1n\bin\Debug\08Numbers1n.pdb
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\08Numbers1n\obj\Debug\08Numbers1n.exe
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\08Numbers1n\obj\Debug\08Numbers1n.pdb
+D:\Ger\Dropbox\SOFTUNI\04Homework\08Numbers1n\bin\Debug\08Numbers1n.exe.config
+D:\Ger\Dropbox\SOFTUNI\04Homework\08Numbers1n\obj\Debug\08Numbers1n.exe
+D:\Ger\Dropbox\SOFTUNI\04Homework\08Numbers1n\obj\Debug\08Numbers1n.pdb
+D:\Ger\Dropbox\SOFTUNI\04Homework\08Numbers1n\bin\Debug\08Numbers1n.exe
+D:\Ger\Dropbox\SOFTUNI\04Homework\08Numbers1n\bin\Debug\08Numbers1n.pdb
+D:\Ger\Dropbox\SOFTUNI\04Homework\08Numbers1n\obj\Debug\08Numbers1n.csprojResolveAssemblyReference.cache

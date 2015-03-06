@@ -1,0 +1,17 @@
+Vim
+Open-source text editor originally for Unix, but now also available on Windows, Mac OS X and other platforms. Can be used from command line and in GUI. Highly customisable with many plugins.
+
+Eclipse
+Multi-language alterntive to Visual Studio extending past the .NET framework. Fully customisable, compiles code and is free. Available for Windows, Linux and Mac OS X.
+
+NetBeans
+Largely extensible cross-platform free open-source IDE. Primarily used for Java, but also PHP, C/C++.
+
+ActiveState Komodo
+Free text editor for scripting languages. Supports customisation through macros and plugins. Available for Windows, Linux and Mac OS X.
+
+IntelliJ IDEA
+Cross-platform Java IDE with community and proprietary editions. Preferred for its advanced code navigation and code refactoring capabilities.
+
+KDevelop
+Free IDE for KDE Unix platforms. No compiler, no text editor, completely plugin based, with integrated debugger.

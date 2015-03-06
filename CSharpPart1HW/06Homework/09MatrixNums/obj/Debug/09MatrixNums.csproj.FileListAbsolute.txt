@@ -1,0 +1,10 @@
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\09MatrixNums\bin\Debug\09MatrixNums.exe.config
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\09MatrixNums\bin\Debug\09MatrixNums.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\09MatrixNums\bin\Debug\09MatrixNums.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\09MatrixNums\obj\Debug\09MatrixNums.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\09MatrixNums\obj\Debug\09MatrixNums.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\09MatrixNums\bin\Debug\09MatrixNums.exe.config
+D:\Ger\Dropbox\SOFTUNI\06Homework\09MatrixNums\bin\Debug\09MatrixNums.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\09MatrixNums\bin\Debug\09MatrixNums.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\09MatrixNums\obj\Debug\09MatrixNums.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\09MatrixNums\obj\Debug\09MatrixNums.pdb

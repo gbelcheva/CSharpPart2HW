@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\09SumNNumbers\bin\Debug\09SumNNumbers.exe.config
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\09SumNNumbers\bin\Debug\09SumNNumbers.exe
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\09SumNNumbers\bin\Debug\09SumNNumbers.pdb
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\09SumNNumbers\obj\Debug\09SumNNumbers.exe
+C:\Users\UniUser\Desktop\gbelcheva\04Homework\09SumNNumbers\obj\Debug\09SumNNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\04Homework\09SumNNumbers\bin\Debug\09SumNNumbers.exe.config
+D:\Ger\Dropbox\SOFTUNI\04Homework\09SumNNumbers\obj\Debug\09SumNNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\04Homework\09SumNNumbers\obj\Debug\09SumNNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\04Homework\09SumNNumbers\bin\Debug\09SumNNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\04Homework\09SumNNumbers\bin\Debug\09SumNNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.09ExchangeValues\bin\Debug\2.09ExchangeValues.exe.config
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.09ExchangeValues\bin\Debug\2.09ExchangeValues.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.09ExchangeValues\bin\Debug\2.09ExchangeValues.pdb
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.09ExchangeValues\obj\Debug\2.09ExchangeValues.exe
+D:\Ger\Dropbox\SOFTUNI\02Homework\2.09ExchangeValues\obj\Debug\2.09ExchangeValues.pdb

@@ -1,0 +1,10 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\07SortThreeNums\bin\Debug\07SortThreeNums.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\07SortThreeNums\bin\Debug\07SortThreeNums.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\07SortThreeNums\bin\Debug\07SortThreeNums.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\07SortThreeNums\obj\Debug\07SortThreeNums.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\gbelcheva\05Homework\07SortThreeNums\obj\Debug\07SortThreeNums.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\07SortThreeNums\bin\Debug\07SortThreeNums.exe.config
+D:\Ger\Dropbox\SOFTUNI\05Homework\07SortThreeNums\obj\Debug\07SortThreeNums.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\07SortThreeNums\obj\Debug\07SortThreeNums.pdb
+D:\Ger\Dropbox\SOFTUNI\05Homework\07SortThreeNums\bin\Debug\07SortThreeNums.exe
+D:\Ger\Dropbox\SOFTUNI\05Homework\07SortThreeNums\bin\Debug\07SortThreeNums.pdb

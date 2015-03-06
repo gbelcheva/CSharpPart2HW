@@ -1,0 +1,17 @@
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06Sum\bin\Debug\05Sum.exe.config
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06Sum\bin\Debug\05Sum.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06Sum\bin\Debug\05Sum.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06Sum\obj\Debug\05Sum.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\06Sum\obj\Debug\05Sum.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05Sum\bin\Debug\05Sum.exe.config
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05Sum\obj\Debug\05Sum.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05Sum\obj\Debug\05Sum.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05Sum\bin\Debug\05Sum.exe
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05Sum\bin\Debug\05Sum.pdb
+C:\Users\nathan\Documents\Visual Studio 2013\Projects\06Homework\05Sum\obj\Debug\05Sum.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\06Homework\05Sum\bin\Debug\05Sum.exe.config
+D:\Ger\Dropbox\SOFTUNI\06Homework\05Sum\bin\Debug\05Sum.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\05Sum\bin\Debug\05Sum.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\05Sum\obj\Debug\05Sum.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\06Homework\05Sum\obj\Debug\05Sum.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\05Sum\obj\Debug\05Sum.pdb

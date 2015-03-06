@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\06Homework\16DecToHex\bin\Debug\16DecToHex.exe.config
+D:\Ger\Dropbox\SOFTUNI\06Homework\16DecToHex\bin\Debug\16DecToHex.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\16DecToHex\bin\Debug\16DecToHex.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\16DecToHex\obj\Debug\16DecToHex.exe
+D:\Ger\Dropbox\SOFTUNI\06Homework\16DecToHex\obj\Debug\16DecToHex.pdb
+D:\Ger\Dropbox\SOFTUNI\06Homework\16DecToHex\obj\Debug\16DecToHex.csprojResolveAssemblyReference.cache

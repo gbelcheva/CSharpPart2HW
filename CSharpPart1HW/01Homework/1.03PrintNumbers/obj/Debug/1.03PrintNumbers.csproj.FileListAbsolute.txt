@@ -1,0 +1,11 @@
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.3PrintNumbers\bin\Debug\1.03PrintNumbers.exe.config
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.3PrintNumbers\bin\Debug\1.03PrintNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.3PrintNumbers\bin\Debug\1.03PrintNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.3PrintNumbers\obj\Debug\1.03PrintNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\ProgrammingHomework\1.3PrintNumbers\obj\Debug\1.03PrintNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.03PrintNumbers\bin\Debug\1.03PrintNumbers.exe.config
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.03PrintNumbers\obj\Debug\1.03PrintNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.03PrintNumbers\obj\Debug\1.03PrintNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.03PrintNumbers\bin\Debug\1.03PrintNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.03PrintNumbers\bin\Debug\1.03PrintNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\01Homework\1.03PrintNumbers\obj\Debug\1.03PrintNumbers.csprojResolveAssemblyReference.cache
