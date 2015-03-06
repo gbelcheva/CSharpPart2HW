@@ -1,0 +1,9 @@
+D:\Ger\Dropbox\SOFTUNI\brackets\brackets\bin\Debug\brackets.exe.config
+D:\Ger\Dropbox\SOFTUNI\brackets\brackets\obj\Debug\brackets.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\brackets\brackets\bin\Debug\brackets.exe
+D:\Ger\Dropbox\SOFTUNI\brackets\brackets\bin\Debug\brackets.pdb
+D:\Ger\Dropbox\SOFTUNI\brackets\brackets\obj\Debug\brackets.exe
+D:\Ger\Dropbox\SOFTUNI\brackets\brackets\obj\Debug\brackets.pdb
+D:\Ger\Dropbox\SOFTUNI\C#Part2-2012-2013@5Feb2013\brackets\bin\Debug\brackets.exe.config
+D:\Ger\Dropbox\SOFTUNI\C#Part2-2012-2013@5Feb2013\brackets\obj\Debug\brackets.exe
+D:\Ger\Dropbox\SOFTUNI\C#Part2-2012-2013@5Feb2013\brackets\obj\Debug\brackets.pdb
