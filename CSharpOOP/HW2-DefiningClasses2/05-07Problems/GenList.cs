@@ -2,10 +2,11 @@
 {
     using System;
     using System.Text;
+    using System.Collections.Generic;
 
     class GenList
     {
-        class GenericList<T> where T : IComparable<T> // : IEnumerable<T>
+        class GenericList<T> : IEnumerable<T> where T : System.IComparable<T>
         {
             private const int DEFAULT_CAPACITY = 0;
             private const int INITIAL_CAPACITY = 4;
@@ -155,19 +156,19 @@
                 return sb.ToString();
             }
 
-            //public IEnumerator<T> GetEnumerator()
-            //{
-            //    for (int i = 0; i < this.Count; i++)
-            //    {
-            //        var element = this.GList[i];
-            //        yield return element;
-            //    }
-            //}
+            public IEnumerator<T> GetEnumerator() 
+            {
+                for (int i = 0; i < this.Count; i++)
+                {
+                    var element = this.GList[i];
+                    yield return element;
+                }
+            }
 
-            //System.Collections.IEnumerator System.Collections.IEnumerable.GetEnumerator()
-            //{
-            //    return this.GetEnumerator();
-            //}
+            System.Collections.IEnumerator System.Collections.IEnumerable.GetEnumerator()
+            {
+                return this.GetEnumerator();
+            }
         }
 
 
@@ -189,11 +190,11 @@
             Console.WriteLine(test.Capacity);
             Console.WriteLine("check count");
             Console.WriteLine(test.Count);
-            //Console.WriteLine("check foreach");
-            //foreach (var item in test)
-            //{
-            //    Console.WriteLine(item);
-            //}
+            Console.WriteLine("check foreach");
+            foreach (var item in test)
+            {
+                Console.WriteLine(item);
+            }
             Console.WriteLine("check indexer");
             for (int i = 0; i < test.Count; i++)
             {
