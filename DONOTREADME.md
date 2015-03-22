@@ -9,3 +9,7 @@ $ git remote -v
 - Remove several deleted files at once
  
 $ git rm $(git ls-files --deleted)
+
+- Remove file/dir only from repository, leaving it on filesystem
+
+$ git rm --cached [file]
