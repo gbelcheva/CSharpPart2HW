@@ -31,7 +31,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="550B9B1B:4D95:51F70FF:550F5A11" name="octolytics-dimension-request_id" /><meta content="10212766" name="octolytics-actor-id" /><meta content="gbelcheva" name="octolytics-actor-login" /><meta content="30554f60b67ae38abc6b6ec5fcb79a6e3dd028cd7a79dc162d701ed1df57a1c7" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="550B9B1B:452F:519466B:550F5B54" name="octolytics-dimension-request_id" /><meta content="10212766" name="octolytics-actor-id" /><meta content="gbelcheva" name="octolytics-actor-login" /><meta content="30554f60b67ae38abc6b6ec5fcb79a6e3dd028cd7a79dc162d701ed1df57a1c7" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -40,7 +40,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="Jj68y1gFq2g7gQKtgEZMVLeSNAyLtxxa4CR3KzYRI4ZDqHSxQ+dMHx3UmBn+e3L15RPsJf2Nmr9FxbNf88Eekw==" name="csrf-token" />
+<meta content="6tgJj/aTgUlmvoQccGZruVDHONSO+w7hoLomCkp91+rI8qAWgFdBzB2wVy+rMVjFzFIt+rtTx41TOFqWrk5Z2Q==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-099e0ecc2851c8aca89ef6dafa191df3b0f2a2c8ad34e134c5473ca1ba0a59b2.css" media="all" rel="stylesheet" />
     <link href="https://assets-cdn.github.com/assets/github2-1171344316fc088255ee2a06c271d14240f1a4e06985fe9e897762947872e858.css" media="all" rel="stylesheet" />
@@ -159,7 +159,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BIzYzNOaHspM2p7vIHO1xFwTgEanPYY0zUZYXYrvQK3J7E5EQcJsxkzQJLNBOhHrH8axrszqwSKjYxODUAjvzw==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+6xIld3PrpUWMbXp5eyygNLPngYdg+OUg4FYeyyR1CDwHOOieEMBDCyIAF+LA6xE2mUg+5pag9DeSfckRhislQ==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -188,7 +188,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UJW/ak1uynHMrlPWOxjzXFhFd10dwj3NjKtzQsRMEC6yid8V4lPrBalJTcUcpd0X48thXFbfafhlGHaIZrfIqw==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="28328944" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="nXLSqEBV6ZrM/hDlhEzAZ1oXve7jq+cjDuxcWNmcDRp6dwI0lkPs/Db3hAnkypb8Iv/6OshzNOXmoZ+/qlTmZg==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="28328944" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/TelerikAcademy/CSharp-Part-2/subscription"
@@ -263,7 +263,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+oDgaVmuEhWPOPpV5FGsoz/859My9E9ygHuqhU8zJhy1LP8PJfg5a4hKubPjl8ADzQnCTk6ZkjwXKhRZ66be3w==" /></div>
+    <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hqeKIhrZEYJLJMRm94BbgSAeK5xtqNQugWXe/wp+y0V0moZxbj7igRjhdKYPoijK8KWaKNZcWP2pSnVdoq7a+Q==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar TelerikAcademy/CSharp-Part-2"
@@ -275,7 +275,7 @@
           7
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LxgcQswg33Da0SjX0ScVQr8oGxw+c0CYvbzLr6y6CTh2uNR1KlfdsuDIUrW0J3Gn06Z0Ewhe+G2hPxDvxOU14A==" /></div>
+    <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iYXwbcnO3RKizJDNIQzij4iwsFkfxGEfDKJIedYYdIBrG9/ghFZd0D3N8ZhyyJjIuhgjVVmO0XTF6Dz12VgMRg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star TelerikAcademy/CSharp-Part-2"
@@ -299,7 +299,7 @@
             <span class="octicon octicon-repo-forked"></span>
             Fork
           </a>
-          <a href="/TelerikAcademy/CSharp-Part-2/network" class="social-count">26</a>
+          <a href="/TelerikAcademy/CSharp-Part-2/network" class="social-count">27</a>
 
           <div id="fork-destination-box" style="display: none;">
             <h2 class="facebox-header">Where should we fork this repository?</h2>
@@ -449,9 +449,9 @@
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/TelerikAcademy/CSharp-Part-2/blob/5bb371d4bc5d65ce923bfc68127d0b0f30228227/08.%20Text%20Files/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/TelerikAcademy/CSharp-Part-2/blob/5bb371d4bc5d65ce923bfc68127d0b0f30228227/01.%20Arrays/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:16a469074cf091bcfe2a83645df9c6ec -->
+<!-- blob contrib key: blob_contributors:v21:ea50d0ae75dea5a6d6a1192d6057f1d4 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -496,7 +496,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/TelerikAcademy/CSharp-Part-2/blob/master/08.%20Text%20Files/README.md"
+               href="/TelerikAcademy/CSharp-Part-2/blob/master/01.%20Arrays/README.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -535,36 +535,48 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/TelerikAcademy/CSharp-Part-2" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">CSharp-Part-2</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/TelerikAcademy/CSharp-Part-2/tree/master/08.%20Text%20Files" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">08. Text Files</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/TelerikAcademy/CSharp-Part-2" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">CSharp-Part-2</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/TelerikAcademy/CSharp-Part-2/tree/master/01.%20Arrays" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">01. Arrays</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </div>
 </div>
 
 
   <div class="commit file-history-tease">
     <div class="file-history-tease-header">
-        <img alt="evlogihr" class="avatar" data-user="3619393" height="24" src="https://avatars1.githubusercontent.com/u/3619393?v=3&amp;s=48" width="24" />
-        <span class="author"><a href="/evlogihr" rel="contributor">evlogihr</a></span>
-        <time datetime="2015-01-27T16:17:22Z" is="relative-time">Jan 27, 2015</time>
+        <img alt="@dentia" class="avatar" data-user="7140654" height="24" src="https://avatars3.githubusercontent.com/u/7140654?v=3&amp;s=48" width="24" />
+        <span class="author"><a href="/dentia" rel="contributor">dentia</a></span>
+        <time datetime="2015-02-10T08:28:25Z" is="relative-time">Feb 10, 2015</time>
         <div class="commit-title">
-            <a href="/TelerikAcademy/CSharp-Part-2/commit/3453c2ceb1bc0444cc300307b261fc1bbce2e961" class="message" data-pjax="true" title="Fixed minor issue in problem 5 example">Fixed minor issue in problem 5 example</a>
+            <a href="/TelerikAcademy/CSharp-Part-2/commit/e12e642c582c3f28b269559aeb319b2f30a3f2c7" class="message" data-pjax="true" title="Update README.md">Update README.md</a>
         </div>
     </div>
 
     <div class="participation">
       <p class="quickstat">
         <a href="#blob_contributors_box" rel="facebox">
-          <strong>1</strong>
-           contributor
+          <strong>3</strong>
+           contributors
         </a>
       </p>
-      
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="evlogihr" href="/TelerikAcademy/CSharp-Part-2/commits/master/01.%20Arrays/README.md?author=evlogihr"><img alt="@evlogihr" class="avatar" data-user="3619393" height="20" src="https://avatars3.githubusercontent.com/u/3619393?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="dentia" href="/TelerikAcademy/CSharp-Part-2/commits/master/01.%20Arrays/README.md?author=dentia"><img alt="@dentia" class="avatar" data-user="7140654" height="20" src="https://avatars1.githubusercontent.com/u/7140654?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="NikolayIT" href="/TelerikAcademy/CSharp-Part-2/commits/master/01.%20Arrays/README.md?author=NikolayIT"><img alt="@NikolayIT" class="avatar" data-user="3106986" height="20" src="https://avatars3.githubusercontent.com/u/3106986?v=3&amp;s=40" width="20" /> </a>
+
+
     </div>
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list">
           <li class="facebox-user-list-item">
-            <img alt="evlogihr" data-user="3619393" height="24" src="https://avatars1.githubusercontent.com/u/3619393?v=3&amp;s=48" width="24" />
+            <img alt="@evlogihr" data-user="3619393" height="24" src="https://avatars1.githubusercontent.com/u/3619393?v=3&amp;s=48" width="24" />
             <a href="/evlogihr">evlogihr</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@dentia" data-user="7140654" height="24" src="https://avatars3.githubusercontent.com/u/7140654?v=3&amp;s=48" width="24" />
+            <a href="/dentia">dentia</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@NikolayIT" data-user="3106986" height="24" src="https://avatars1.githubusercontent.com/u/3106986?v=3&amp;s=48" width="24" />
+            <a href="/NikolayIT">NikolayIT</a>
           </li>
       </ul>
     </div>
@@ -575,81 +587,65 @@
     <div class="file-actions">
 
       <div class="btn-group">
-        <a href="/TelerikAcademy/CSharp-Part-2/raw/master/08.%20Text%20Files/README.md" class="btn btn-sm " id="raw-url">Raw</a>
-          <a href="/TelerikAcademy/CSharp-Part-2/blame/master/08.%20Text%20Files/README.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
-        <a href="/TelerikAcademy/CSharp-Part-2/commits/master/08.%20Text%20Files/README.md" class="btn btn-sm " rel="nofollow">History</a>
+        <a href="/TelerikAcademy/CSharp-Part-2/raw/master/01.%20Arrays/README.md" class="btn btn-sm " id="raw-url">Raw</a>
+          <a href="/TelerikAcademy/CSharp-Part-2/blame/master/01.%20Arrays/README.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
+        <a href="/TelerikAcademy/CSharp-Part-2/commits/master/01.%20Arrays/README.md" class="btn btn-sm " rel="nofollow">History</a>
       </div>
 
         <a class="octicon-btn tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/TelerikAcademy/CSharp-Part-2?branch=master&amp;filepath=08.%20Text%20Files%2FREADME.md"
+           href="github-windows://openRepo/https://github.com/TelerikAcademy/CSharp-Part-2?branch=master&amp;filepath=01.%20Arrays%2FREADME.md"
            aria-label="Open this file in GitHub for Windows">
             <span class="octicon octicon-device-desktop"></span>
         </a>
 
-            <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/edit/master/08.%20Text%20Files/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oRucZvnOPbfjGozTdnE4DCiJAQ7TIRj+u+2ml0GvaLZYPdn1WA1/tUoOJ6gIWRtdezBZXy7pu2S3VQNsNtGdBA==" /></div>
+            <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/edit/master/01.%20Arrays/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6ZILNM/sv5J3BZ8LtSEqcKaUi9K1OvtzDqV12WoaSOhoTQuWGnL09KgFQKcDUZDgmhvWhoInwrK1Xow9WNDGtA==" /></div>
               <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Clicking this button will fork this project so you can edit the file" data-hotkey="e" data-disable-with>
                 <span class="octicon octicon-pencil"></span>
               </button>
 </form>
-          <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/delete/master/08.%20Text%20Files/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qoBe4DG5FnaSfO/IkYEQgIGM+o24Gw5brTt2tYzYL33MbW13o92ZpBrjkX/wVbY8ajLFfG4IYnOmE/f52rrLrA==" /></div>
+          <form accept-charset="UTF-8" action="/TelerikAcademy/CSharp-Part-2/delete/master/01.%20Arrays/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+KO5OSJppOKkWVedXTpjpcXITKxdW1ptdZ81AjRU1x5R6eXuQtYokrhpmkcQ23c2V+JqkZw3KnIvLhuZwfDRXw==" /></div>
             <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Fork this project and delete file" data-disable-with>
               <span class="octicon octicon-trashcan"></span>
             </button>
 </form>    </div>
 
     <div class="file-info">
-        70 lines (50 sloc)
+        135 lines (92 sloc)
         <span class="file-info-divider"></span>
-      3.03 kb
+      5.907 kb
     </div>
   </div>
     <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
-<a id="user-content-homework-text-files" class="anchor" href="#homework-text-files" aria-hidden="true"><span class="octicon octicon-link"></span></a>Homework: Text Files</h1>
+<a id="user-content-homework-arrays" class="anchor" href="#homework-arrays" aria-hidden="true"><span class="octicon octicon-link"></span></a>Homework: Arrays</h1>
 
 <h3>
-<a id="user-content-problem-1-odd-lines" class="anchor" href="#problem-1-odd-lines" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 1. Odd lines</h3>
+<a id="user-content-problem-1-allocate-array" class="anchor" href="#problem-1-allocate-array" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 1. Allocate array</h3>
 
 <ul class="task-list">
-<li>  Write a program that reads a text file and prints on the console its odd lines.</li>
+<li>  Write a program that allocates array of <code>20</code> integers and initializes each element by its index multiplied by <code>5</code>.</li>
+<li>  Print the obtained array on the console.</li>
 </ul>
 
 <h3>
-<a id="user-content-problem-2-concatenate-text-files" class="anchor" href="#problem-2-concatenate-text-files" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 2. Concatenate text files</h3>
+<a id="user-content-problem-2-compare-arrays" class="anchor" href="#problem-2-compare-arrays" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 2. Compare arrays</h3>
 
 <ul class="task-list">
-<li>  Write a program that concatenates two text files into another text file.</li>
+<li>  Write a program that reads two <code>integer</code> arrays from the console and compares them element by element.</li>
 </ul>
 
 <h3>
-<a id="user-content-problem-3-line-numbers" class="anchor" href="#problem-3-line-numbers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 3. Line numbers</h3>
+<a id="user-content-problem-3-compare-char-arrays" class="anchor" href="#problem-3-compare-char-arrays" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 3. Compare char arrays</h3>
 
 <ul class="task-list">
-<li>  Write a program that reads a text file and inserts line numbers in front of each of its lines.</li>
-<li>  The result should be written to another text file.</li>
+<li>  Write a program that compares two <code>char</code> arrays lexicographically (letter by letter).</li>
 </ul>
 
 <h3>
-<a id="user-content-problem-4-compare-text-files" class="anchor" href="#problem-4-compare-text-files" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 4. Compare text files</h3>
+<a id="user-content-problem-4-maximal-sequence" class="anchor" href="#problem-4-maximal-sequence" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 4. Maximal sequence</h3>
 
 <ul class="task-list">
-<li>  Write a program that compares two text files line by line and prints the number of lines that are the same and the number of lines that are different.</li>
-<li>  Assume the files have equal number of lines.</li>
-</ul>
-
-<h3>
-<a id="user-content-problem-5-maximal-area-sum" class="anchor" href="#problem-5-maximal-area-sum" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 5. Maximal area sum</h3>
-
-<ul class="task-list">
-<li>  Write a program that reads a text file containing a square matrix of numbers.</li>
-<li>  Find an area of size <code>2 x 2</code> in the matrix, with a maximal sum of its elements.
-
-<ul class="task-list">
-<li>  The first line in the input file contains the size of matrix <code>N</code>.</li>
-<li>  Each of the next <code>N</code> lines contain <code>N</code> numbers separated by space.</li>
-<li>  The output should be a single number in a separate text file.</li>
-</ul>
-</li>
+<li>  Write a program that finds the <strong>maximal sequence</strong> of equal elements in an array.</li>
 </ul>
 
 <p><em>Example:</em></p>
@@ -658,22 +654,22 @@
 <thead>
 <tr>
 <th>input</th>
-<th>output</th>
+<th>result</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>4 <br> 2 3 3 4 <br> 0 2 3 4 <br> 3 7 1 2 <br> 4 3 3 2</td>
-<td>17</td>
+<td>2, 1, 1, 2, 3, 3, <strong>2, 2, 2</strong>, 1</td>
+<td>2, 2, 2</td>
 </tr>
 </tbody>
 </table>
 
 <h3>
-<a id="user-content-problem-6-save-sorted-names" class="anchor" href="#problem-6-save-sorted-names" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 6. Save sorted names</h3>
+<a id="user-content-problem-5-maximal-increasing-sequence" class="anchor" href="#problem-5-maximal-increasing-sequence" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 5. Maximal increasing sequence</h3>
 
 <ul class="task-list">
-<li>  Write a program that reads a text file containing a list of strings, sorts them and saves them to another text file.</li>
+<li>  Write a program that finds the maximal increasing sequence in an array.</li>
 </ul>
 
 <p><em>Example:</em></p>
@@ -681,76 +677,293 @@
 <table>
 <thead>
 <tr>
-<th align="center">input.txt</th>
-<th align="center">output.txt</th>
+<th>input</th>
+<th>result</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">Ivan <br> Peter <br> Maria <br> George</td>
-<td align="center">George <br> Ivan <br> Maria <br> Peter</td>
+<td>3, <strong>2, 3, 4</strong>, 2, 2, 4</td>
+<td>2, 3, 4</td>
 </tr>
 </tbody>
 </table>
 
 <h3>
-<a id="user-content-problem-7-replace-sub-string" class="anchor" href="#problem-7-replace-sub-string" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 7. Replace sub-string</h3>
+<a id="user-content-problem-6-maximal-k-sum" class="anchor" href="#problem-6-maximal-k-sum" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 6. Maximal K sum</h3>
 
 <ul class="task-list">
-<li>  Write a program that replaces all occurrences of the sub-string <code>start</code> with the sub-string <code>finish</code> in a text file.</li>
-<li>  Ensure it will work with large files (e.g. <code>100 MB</code>).</li>
+<li>  Write a program that reads two integer numbers <code>N</code> and <code>K</code> and an array of <code>N</code> elements from the console.</li>
+<li>  Find in the array those <code>K</code> elements that have maximal sum.</li>
 </ul>
 
 <h3>
-<a id="user-content-problem-8-replace-whole-word" class="anchor" href="#problem-8-replace-whole-word" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 8. Replace whole word</h3>
+<a id="user-content-problem-7-selection-sort" class="anchor" href="#problem-7-selection-sort" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 7. Selection sort</h3>
 
 <ul class="task-list">
-<li>  Modify the solution of the previous problem to replace only <strong>whole words</strong> (not strings).</li>
+<li>  <strong>Sorting</strong> an array means to arrange its elements in increasing order. Write a program to sort an array.</li>
+<li>  Use the <a href="http://en.wikipedia.org/wiki/Selection_sort">Selection sort</a> algorithm: Find the smallest element, move it at the first position, find the smallest from the rest, move it at the second position, etc.</li>
 </ul>
 
 <h3>
-<a id="user-content-problem-9-delete-odd-lines" class="anchor" href="#problem-9-delete-odd-lines" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 9. Delete odd lines</h3>
+<a id="user-content-problem-8-maximal-sum" class="anchor" href="#problem-8-maximal-sum" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 8. Maximal sum</h3>
 
 <ul class="task-list">
-<li>  Write a program that deletes from given text file all odd lines.</li>
-<li>  The result should be in the same file.</li>
-</ul>
-
-<h3>
-<a id="user-content-problem-10-extract-text-from-xml" class="anchor" href="#problem-10-extract-text-from-xml" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 10. Extract text from XML</h3>
-
-<ul class="task-list">
-<li>  Write a program that extracts from given XML file all the text without the tags.</li>
+<li>  Write a program that finds the sequence of maximal sum in given array.</li>
 </ul>
 
 <p><em>Example:</em></p>
 
-<p><code>&lt;?xml version="1.0"&gt;&lt;student&gt;&lt;name&gt;Pesho&lt;/name&gt;&lt;age&gt;21&lt;/age&gt;&lt;interests count="3"&gt;&lt;interest&gt;Games&lt;/interest&gt;&lt;interest&gt;C#&lt;/interest&gt;&lt;interest&gt;Java&lt;/interest&gt;&lt;/interests&gt;&lt;/student&gt;</code></p>
-
-<h3>
-<a id="user-content-problem-11-prefix-test" class="anchor" href="#problem-11-prefix-test" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 11. Prefix "test"</h3>
+<table>
+<thead>
+<tr>
+<th>input</th>
+<th>result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2, 3, -6, -1, <strong>2, -1, 6, 4</strong>, -8, 8</td>
+<td>2, -1, 6, 4</td>
+</tr>
+</tbody>
+</table>
 
 <ul class="task-list">
-<li>  Write a program that deletes from a text file all words that start with the prefix <code>test</code>.</li>
-<li>  Words contain only the symbols <code>0…9</code>, <code>a…z</code>, <code>A…Z</code>, <code>_</code>.</li>
+<li>  <em>Can you do it with only one loop (with single scan through the elements of the array)?</em>
+</li>
 </ul>
 
 <h3>
-<a id="user-content-problem-12-remove-words" class="anchor" href="#problem-12-remove-words" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 12. Remove words</h3>
+<a id="user-content-problem-9-frequent-number" class="anchor" href="#problem-9-frequent-number" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 9. Frequent number</h3>
 
 <ul class="task-list">
-<li>  Write a program that removes from a text file all words listed in given another text file.</li>
-<li>  Handle all possible exceptions in your methods.</li>
+<li>  Write a program that finds the most frequent number in an array.</li>
+</ul>
+
+<p><em>Example:</em></p>
+
+<table>
+<thead>
+<tr>
+<th>input</th>
+<th>result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>4</strong>, 1, 1, <strong>4</strong>, 2, 3, <strong>4</strong>, <strong>4</strong>, 1, 2, <strong>4</strong>, 9, 3</td>
+<td>4 (5 times)</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="user-content-problem-10-find-sum-in-array" class="anchor" href="#problem-10-find-sum-in-array" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 10. Find sum in array</h3>
+
+<ul class="task-list">
+<li>  Write a program that finds in given array of integers a sequence of given sum <code>S</code> (if present).</li>
+</ul>
+
+<p><em>Example:</em></p>
+
+<table>
+<thead>
+<tr>
+<th>array</th>
+<th>S</th>
+<th>result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4, 3, 1, <strong>4, 2, 5</strong>, 8</td>
+<td>11</td>
+<td>4, 2, 5</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="user-content-problem-11-binary-search" class="anchor" href="#problem-11-binary-search" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 11. Binary search</h3>
+
+<ul class="task-list">
+<li>  Write a program that finds the index of given element in a sorted array of integers by using the <a href="http://en.wikipedia.org/wiki/Binary_search_algorithm">Binary search</a> algorithm.</li>
 </ul>
 
 <h3>
-<a id="user-content-problem-13-count-words" class="anchor" href="#problem-13-count-words" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 13. Count words</h3>
+<a id="user-content-problem-12-index-of-letters" class="anchor" href="#problem-12-index-of-letters" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 12. Index of letters</h3>
 
 <ul class="task-list">
-<li>  Write a program that reads a list of words from the file <code>words.txt</code> and finds how many times each of the words is contained in another file <code>test.txt</code>.</li>
-<li>  The result should be written in the file <code>result.txt</code> and the words should be sorted by the number of their occurrences in descending order.</li>
-<li>  Handle all possible exceptions in your methods.</li>
+<li>  Write a program that creates an array containing all letters from the alphabet (<code>A-Z</code>).</li>
+<li>  Read a word from the console and print the index of each of its letters in the array.</li>
 </ul>
+
+<h3>
+<a id="user-content-problem-13--merge-sort" class="anchor" href="#problem-13--merge-sort" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 13.*  Merge sort</h3>
+
+<ul class="task-list">
+<li>  Write a program that sorts an array of integers using the <a href="http://en.wikipedia.org/wiki/Merge_sort">Merge sort</a> algorithm.</li>
+</ul>
+
+<h3>
+<a id="user-content-problem-14-quick-sort" class="anchor" href="#problem-14-quick-sort" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 14. Quick sort</h3>
+
+<ul class="task-list">
+<li>  Write a program that sorts an array of integers using the <a href="http://en.wikipedia.org/wiki/Quicksort">Quick sort</a> algorithm.</li>
+</ul>
+
+<h3>
+<a id="user-content-problem-15-prime-numbers" class="anchor" href="#problem-15-prime-numbers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 15. Prime numbers</h3>
+
+<ul class="task-list">
+<li>  Write a program that finds all prime numbers in the range [<code>1...10 000 000</code>]. Use the <a href="http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Sieve of Eratosthenes</a> algorithm.</li>
+</ul>
+
+<h3>
+<a id="user-content-problem-16-subset-with-sum-s" class="anchor" href="#problem-16-subset-with-sum-s" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 16.* Subset with sum S</h3>
+
+<ul class="task-list">
+<li>  We are given an array of integers and a number <code>S</code>.</li>
+<li>  Write a program to find if there exists a subset of the elements of the array that has a sum <code>S</code>.</li>
+</ul>
+
+<p><em>Example:</em></p>
+
+<table>
+<thead>
+<tr>
+<th align="center">input array</th>
+<th align="center">S</th>
+<th align="center">result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">2, <strong>1</strong>, <strong>2</strong>, 4, 3, <strong>5</strong>, 2, <strong>6</strong>
+</td>
+<td align="center">14</td>
+<td align="center">yes</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="user-content-problem-17-subset-k-with-sum-s" class="anchor" href="#problem-17-subset-k-with-sum-s" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 17.* Subset K with sum S</h3>
+
+<ul class="task-list">
+<li>  Write a program that reads three integer numbers <code>N</code>, <code>K</code> and <code>S</code> and an array of <code>N</code> elements from the console.</li>
+<li>  Find in the array a subset of <code>K</code> elements that have sum <code>S</code> or indicate about its absence.</li>
+</ul>
+
+<h3>
+<a id="user-content-problem-18-remove-elements-from-array" class="anchor" href="#problem-18-remove-elements-from-array" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 18.* Remove elements from array</h3>
+
+<ul class="task-list">
+<li>  Write a program that reads an array of integers and removes from it a minimal number of elements in such a way that the remaining array is sorted in increasing order.</li>
+<li>  Print the remaining sorted array.</li>
+</ul>
+
+<p><em>Example:</em></p>
+
+<table>
+<thead>
+<tr>
+<th align="center">input</th>
+<th align="center">result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">6, <strong>1</strong>, 4, <strong>3</strong>, 0, <strong>3</strong>, 6, <strong>4</strong>, <strong>5</strong>
+</td>
+<td align="center">1, 3, 3, 4, 5</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="user-content-problem-19-permutations-of-set" class="anchor" href="#problem-19-permutations-of-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 19.* Permutations of set</h3>
+
+<ul class="task-list">
+<li>  Write a program that reads a number <code>N</code> and generates and prints all the permutations of the numbers [<code>1 … N</code>].</li>
+</ul>
+
+<p><em>Example:</em></p>
+
+<table>
+<thead>
+<tr>
+<th align="center">N</th>
+<th align="center">result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">3</td>
+<td align="center">
+<code>{1, 2, 3}</code> <br> <code>{1, 3, 2}</code> <br> <code>{2, 1, 3}</code> <br> <code>{2, 3, 1}</code> <br> <code>{3, 1, 2}</code> <br> <code>{3, 2, 1}</code>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="user-content-problem-20-variations-of-set" class="anchor" href="#problem-20-variations-of-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 20.* Variations of set</h3>
+
+<ul class="task-list">
+<li>  Write a program that reads two numbers <code>N</code> and <code>K</code> and generates all the variations of <code>K</code> elements from the set [<code>1..N</code>].</li>
+</ul>
+
+<p><em>Example:</em></p>
+
+<table>
+<thead>
+<tr>
+<th align="center">N</th>
+<th align="center">K</th>
+<th align="center">result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">3</td>
+<td align="center">2</td>
+<td align="center">
+<code>{1, 1}</code> <br> <code>{1, 2}</code> <br> <code>{1, 3}</code> <br> <code>{2, 1}</code> <br> <code>{2, 2}</code> <br> <code>{2, 3}</code> <br> <code>{3, 1}</code> <br> <code>{3, 2}</code> <br> <code>{3, 3}</code>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="user-content-problem-21-combinations-of-set" class="anchor" href="#problem-21-combinations-of-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem 21.* Combinations of set</h3>
+
+<ul class="task-list">
+<li>  Write a program that reads two numbers <code>N</code> and <code>K</code> and generates all the combinations of <code>K</code> distinct elements from the set [<code>1..N</code>].</li>
+</ul>
+
+<p><em>Example:</em></p>
+
+<table>
+<thead>
+<tr>
+<th align="center">N</th>
+<th align="center">K</th>
+<th align="center">result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">5</td>
+<td align="center">2</td>
+<td align="center">
+<code>{1, 2}</code> <br> <code>{1, 3}</code> <br> <code>{1, 4}</code> <br> <code>{1, 5}</code> <br> <code>{2, 3}</code> <br> <code>{2, 4}</code> <br> <code>{2, 5}</code> <br> <code>{3, 4}</code> <br> <code>{3, 5}</code> <br> <code>{4, 5}</code>
+</td>
+</tr>
+</tbody>
+</table>
 </article>
   </div>
 
@@ -790,7 +1003,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.05574s from github-fe134-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.05564s from github-fe122-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
