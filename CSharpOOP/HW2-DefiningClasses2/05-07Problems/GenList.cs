@@ -174,9 +174,7 @@
 
 
 
-
-
-        static void Main(string[] args)
+        static void Main()
         {
             GenericList<int> test = new GenericList<int>();
             test.Add(1);

@@ -134,7 +134,7 @@
             }
 
         }
-        static void Main(string[] args)
+        static void Main()
         {
             var m1 = new Matrix<int>(2, 4);
             for (int i = 0; i < m1.Row; i++)
