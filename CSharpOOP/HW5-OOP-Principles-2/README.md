@@ -22,5 +22,3 @@
 ### Problem 3. Range Exceptions
 *	Define a class `InvalidRangeException<T>` that holds information about an error condition related to invalid range. It should hold error message and a range definition [`start … end`].
 *	Write a sample application that demonstrates the `InvalidRangeException<int>` and `InvalidRangeException<DateTime>` by entering numbers in the range [`1..100`] and dates in the range [`1.1.1980 … 31.12.2013`].
-ctors and methods. Dogs, frogs and cats are `Animals`. All animals can produce sound (specified by the `ISound` interface). Kittens and tomcats are cats. All animals are described by age, name and sex. Kittens can be only female and tomcats can be only male. Each animal produces a specific sound.
-*	Create arrays of different kinds of animals and calculate the average age of each kind of animal using a static method (you may use LINQ).
