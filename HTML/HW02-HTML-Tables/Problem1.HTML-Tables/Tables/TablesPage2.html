@@ -1,0 +1,65 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Table Page</title>
+
+    <style type="text/css">
+        table {
+            border: 1px inset;
+            width: 98%;
+            height: 98%;
+            position:absolute;
+        }
+
+        td {
+            padding: 5px;
+            border: 1px inset;
+            width:20%;
+            text-align:center
+        }
+
+        .tab th {
+            font-size: 200%;
+            border: 1px inset;
+        }
+    </style>
+</head>
+<body>
+    <table class="tab" cellspacing="1" cellpadding="2">
+        <thead>
+            <tr class="row1">
+
+                <td colspan="3">Title goes here</td>
+                <td>A</td>
+                <td style="text-align:right">B</td>
+            </tr>
+        </thead>
+
+        <tr class="row2">
+            <td rowspan="3" style="text-align:left">C</td>
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+            <td style="text-align:right">G</td>
+        </tr>
+
+        <tr class="row3">
+            <td>H</td>
+            <td colspan="2">I</td>
+            <td rowspan="2" style="text-align:right">J</td>
+        </tr>
+
+        <tr class="row4">
+            <td>K</td>
+            <td>L</td>
+            <td>M</td>
+        </tr>
+
+        <tr class="row5">
+            <td style="text-align:right">N</td>
+            <td colspan="4">O</td>
+        </tr>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Calculator</title>
+
+    <style type="text/css">
+        form {
+            align-self:center;
+        }
+        table {
+            border: 3px solid;
+            width: 300px;
+            height: 180px;
+            border-color: darkslategray;
+        }
+
+        td {
+            padding: 5px;
+            border:none;
+            width: 50px;
+            height: 30px;
+            text-align: center;
+            background-color: mediumaquamarine;
+        }
+        textarea {
+            resize:none;
+            width: 97%;
+            height: 100%;
+            font-size: 2em;
+        }
+        input {
+            width: 100%;
+            height: 100%;
+            border-color:seagreen;
+            background-color:mediumseagreen;
+        }
+        #calculationtext {
+            text-align:right;
+            background-color: azure;
+        }
+        #returnbutton {
+            height: 200%;
+        }
+        #numpadbutton {
+            background-color:lightseagreen;
+        }
+
+    </style>
+</head>
+<body>
+    <form >
+        <table class="tab" cellspacing="0" cellpadding="2">
+            <tr class="row1">
+                <td colspan="5"> <textarea name="calculation" id="calculationtext">0123456789</textarea></td>
+            </tr>
+
+            <tr class="row2">
+                <td> <input type="button" value="MC" /> </td>
+                <td><input type="button" value="MR" /></td>
+                <td><input type="button" value="MS" /></td>
+                <td><input type="button" value="M+" /></td>
+                <td><input type="button" value="M-" /></td>
+            </tr>
+
+            <tr class="row3">
+                <td><input type="button" value=&larr; /></td>
+                <td><input type="button" value="CE" /></td>
+                <td><input type="button" value="C" /></td>
+                <td><input type="button" value=&plusmn; /></td>
+                <td><input type="button" value=&radic; /></td>
+            </tr>
+
+            <tr class="row4">
+                <td><input type="button" id="numpadbutton" value="7" /></td>
+                <td><input type="button" id="numpadbutton" value="8" /></td>
+                <td><input type="button" id="numpadbutton" value="9" /></td>
+                <td><input type="button" value="/" /></td>
+                <td><input type="button" value="%" /></td>
+            </tr>
+
+            <tr class="row5">
+                <td><input type="button" id="numpadbutton" value="4" /></td>
+                <td><input type="button" id="numpadbutton" value="5" /></td>
+                <td><input type="button" id="numpadbutton" value="6" /></td>
+                <td><input type="button" value="*" /></td>
+                <td><input type="button" value="log" /></td>
+            </tr>
+
+            <tr class="row6">
+                <td><input type="button" id="numpadbutton" value="1" /></td>
+                <td><input type="button" id="numpadbutton" value="2" /></td>
+                <td><input type="button" id="numpadbutton" value="3" /></td>
+                <td><input type="button" value="-" /></td>
+                <td rowspan="2"><input type="button" id="returnbutton" value="=" /></td>
+            </tr>
+
+            <tr class="row7">
+                <td colspan="2"><input type="button" id="numpadbutton" value="0" /></td>
+                <td><input type="button" id="numpadbutton" value="." /></td>
+                <td><input type="button" value="+"/></td>
+
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

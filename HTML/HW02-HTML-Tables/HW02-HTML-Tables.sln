@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem1.HTML-Tables", "Problem1.HTML-Tables", "{642D72A1-AD60-4830-A48D-C99A8A2BB5B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem2.HTML-Form", "Problem2.HTML-Form", "{97C3139E-A3BE-46AD-8EC0-3969CAF43F09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem3.Calculator", "Problem3.Calculator", "{451CFF45-E996-407A-AEAC-AF2A8D9020BD}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Tables", "http://localhost:25048", "{2EF3BDC9-BB42-4EBC-8775-175063B68B35}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_25048"
+		Debug.AspNetCompiler.PhysicalPath = "Problem1.HTML-Tables\Tables\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25048\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_25048"
+		Release.AspNetCompiler.PhysicalPath = "Problem1.HTML-Tables\Tables\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25048\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Problem1.HTML-Tables\Tables\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Forms", "http://localhost:25050", "{E3184894-7978-4DFC-B349-54C7DD5C2C0E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_25050"
+		Debug.AspNetCompiler.PhysicalPath = "Problem2.HTML-Form\Forms\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25050\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_25050"
+		Release.AspNetCompiler.PhysicalPath = "Problem2.HTML-Form\Forms\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25050\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Problem2.HTML-Form\Forms\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Calculator", "http://localhost:25052", "{0C639988-766D-4E38-BB27-629DA0D68E75}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_25052"
+		Debug.AspNetCompiler.PhysicalPath = "Problem3.Calculator\Calculator\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25052\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_25052"
+		Release.AspNetCompiler.PhysicalPath = "Problem3.Calculator\Calculator\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_25052\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Problem3.Calculator\Calculator\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF3BDC9-BB42-4EBC-8775-175063B68B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF3BDC9-BB42-4EBC-8775-175063B68B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3184894-7978-4DFC-B349-54C7DD5C2C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3184894-7978-4DFC-B349-54C7DD5C2C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C639988-766D-4E38-BB27-629DA0D68E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C639988-766D-4E38-BB27-629DA0D68E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2EF3BDC9-BB42-4EBC-8775-175063B68B35} = {642D72A1-AD60-4830-A48D-C99A8A2BB5B4}
+		{E3184894-7978-4DFC-B349-54C7DD5C2C0E} = {97C3139E-A3BE-46AD-8EC0-3969CAF43F09}
+		{0C639988-766D-4E38-BB27-629DA0D68E75} = {451CFF45-E996-407A-AEAC-AF2A8D9020BD}
+	EndGlobalSection
+EndGlobal
