@@ -1,0 +1,1 @@
+http://downloads.academy.telerik.com/svn/public/TestSystem/Telerik-Academy-TestSystem.1.0.zip
