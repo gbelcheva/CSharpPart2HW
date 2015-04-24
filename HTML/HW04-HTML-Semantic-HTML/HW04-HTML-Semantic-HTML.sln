@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem1.Refactoring", "Problem1.Refactoring", "{E79C8746-6B90-45E1-A630-EDCD90DD86F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem2.Student-System", "Problem2.Student-System", "{DE36DD04-D678-4B8F-A0AF-19F70288E011}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem3.LinkedIn", "Problem3.LinkedIn", "{63AAA556-A1CB-4A9B-86C2-7E30FBF2892A}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Refactoring", "http://localhost:31208", "{A96ECE95-EC9C-41E1-993E-0A60CDE3E49E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31208"
+		Debug.AspNetCompiler.PhysicalPath = "Refactoring\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31208\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31208"
+		Release.AspNetCompiler.PhysicalPath = "Refactoring\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31208\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Refactoring\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StudentSystem", "http://localhost:31210", "{BFA87F44-10D9-43B1-BB27-D0915B454DF7}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31210"
+		Debug.AspNetCompiler.PhysicalPath = "StudentSystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31210\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31210"
+		Release.AspNetCompiler.PhysicalPath = "StudentSystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31210\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "StudentSystem\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LinkedIn", "http://localhost:31211", "{CF143FA1-3308-410B-91FE-BCBC7A19F40D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31211"
+		Debug.AspNetCompiler.PhysicalPath = "LinkedIn\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31211\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31211"
+		Release.AspNetCompiler.PhysicalPath = "LinkedIn\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31211\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "LinkedIn\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96ECE95-EC9C-41E1-993E-0A60CDE3E49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96ECE95-EC9C-41E1-993E-0A60CDE3E49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA87F44-10D9-43B1-BB27-D0915B454DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA87F44-10D9-43B1-BB27-D0915B454DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF143FA1-3308-410B-91FE-BCBC7A19F40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF143FA1-3308-410B-91FE-BCBC7A19F40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A96ECE95-EC9C-41E1-993E-0A60CDE3E49E} = {E79C8746-6B90-45E1-A630-EDCD90DD86F2}
+		{BFA87F44-10D9-43B1-BB27-D0915B454DF7} = {DE36DD04-D678-4B8F-A0AF-19F70288E011}
+		{CF143FA1-3308-410B-91FE-BCBC7A19F40D} = {63AAA556-A1CB-4A9B-86C2-7E30FBF2892A}
+	EndGlobalSection
+EndGlobal

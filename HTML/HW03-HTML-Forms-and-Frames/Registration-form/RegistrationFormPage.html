@@ -1,0 +1,200 @@
+﻿
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registration Form</title>
+
+    <style type="text/css">
+        form {
+            width: 480px;
+            margin: 0 auto;
+        }
+
+        table {
+            border-collapse: collapse;
+            position: absolute;
+        }
+
+        input {
+            display: inline-block;
+            float: left;
+        }
+
+        td {
+            padding-top:1px;
+            padding-bottom:1px;
+            padding-left: 1px;
+            padding-right: 1px;
+            border: solid 1px;
+            text-align: center;
+            height: 20px;
+        }
+
+        textarea {
+            padding-bottom:10px;
+            display: inline-block;
+            vertical-align: top;
+            white-space: normal;
+            text-align: justify;
+            width: 235px;
+            float: left;
+        }
+        .textareas{
+            vertical-align:top;
+        }
+
+        #name {
+            width: 245px;
+        }
+
+        #city {
+            width: 175px;
+        }
+
+        #state {
+            float:none;
+            width: 45px;
+        }
+
+        #zip {
+            width: 100px;
+        }
+
+        #countrydrop {
+            float:left;
+            width: 150px;
+        }
+
+        #countrycode {
+            float: none;
+            width: 50px;
+        }
+
+        #areacode {
+            float:none;
+            width: 50px;
+        }
+
+        #number {
+            float: none;
+            width: 100px;
+        }
+
+        #telephone {
+            float: none;
+            padding-left: 1px;
+            text-align: left;
+        }
+
+        #email {
+            width: 235px;
+        }
+
+        #birthdate {
+            width: 170px;
+        }
+
+        #gender {
+            resize: none;
+            float: left;
+            width: 25%;
+        }
+
+        #startingdate {
+            text-align: left;
+        }
+        .nofloat{
+            float: none;
+        }
+
+        #lastrow {
+            float:none;
+            background-color: skyblue;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <table class="tab" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="150" />
+            </colgroup>
+            <tr class="row1">
+                <td><strong>Last Name</strong></td>
+                <td><input type="text" name="lastname" id="name" /></td>
+            </tr>
+
+            <tr class="row2">
+                <td><strong>First Name</strong></td>
+                <td><input type="text" name="firstname" id="name" /></td>
+            </tr>
+
+            <tr class="row3">
+                <td><strong>Address</strong></td>
+                <td class="textareas"><textarea rows="3" name="address" id="address"></textarea></td>
+            </tr>
+
+            <tr class="row4">
+                <td><strong>City</strong></td>
+                <td><input type="text" name="city" id="city"> <label for="state"> State</label> <input type="text" name="state" id="state"></td>
+            </tr>
+
+            <tr class="row5">
+                <td><strong>ZIP/Postal Code</strong></td>
+                <td><input type="text" name="address" id="zip"></td>
+            </tr>
+            <tr class="row6">
+                <td><strong>Country</strong></td>
+                <td>
+                    <select id="countrydrop">
+                        <option>Bulgaria</option>
+                        <option>Germany</option>
+                        <option>Malta</option>
+                    </select>
+                </td>
+            </tr>
+            <tr class="row7">
+                <td><strong>Phone(country code, area code, number)</strong></td>
+                <td id="telephone">(+<input type="text" name="countrycode" id="countrycode">) <input type="text" name="areacode" id="areacode"> <input type="text" name="number" id="number"></td>
+            </tr>
+            <tr class="row8">
+                <td><strong>E-mail</strong></td>
+                <td><input type="text" name="email" id="email"></td>
+            </tr>
+            <tr class="row9">
+                <td><strong>Birth date</strong></td>
+                <td><input type="text" name="birthdate" id="birthdate" value="дд. мм. гггг г." /></td>
+            </tr>
+            <tr class="row10">
+
+                <td><strong>Gender</strong></td>
+                <td>
+                    <select id="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr class="row11">
+
+                <td><strong>Starting date</strong></td>
+                <td id="startingdate">
+                    <input type="radio" name="date" class="nofloat" value="Spring2015">
+                    <label for="spring" class="nofloat">Spring 2015</label>
+                    <input type="radio" name="date" class="nofloat" value="=Summer2015">
+                    <label for="summer" class="nofloat">Summer 2015</label>
+                    
+                </td>
+            </tr>
+            <tr class="row12">
+                <td><strong>Comments/Questions</strong></td>
+                <td class="textareas"><textarea rows="5" name="comments" id="comments"></textarea></td>
+            </tr>
+            <tr class="row13">
+                <td colspan="2" id="lastrow"><input type="button" class="nofloat" value="Submit" /> <input type="button" class="nofloat" value="Clean this form" /></td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

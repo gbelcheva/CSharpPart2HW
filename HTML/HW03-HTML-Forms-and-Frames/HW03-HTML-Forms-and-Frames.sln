@@ -1,0 +1,125 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem1.Registration-form", "Problem1.Registration-form", "{C66FBBC7-A5C2-406F-A1D4-B2EE9987B8BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem2.University-grid", "Problem2.University-grid", "{E8F3F5CF-01E8-4D6C-B2A7-9CEFFA674389}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem3.Notebook-store", "Problem3.Notebook-store", "{15FFA09F-38D9-42ED-BAE8-F22177172687}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem4.Grid-component", "Problem4.Grid-component", "{05CD54FA-CACC-4D16-9792-EDBA1EFC08E9}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Registration-form", "http://localhost:31674", "{5863DC7C-6521-46B3-A14E-971785DFC44C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31674"
+		Debug.AspNetCompiler.PhysicalPath = "Registration-form\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31674\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31674"
+		Release.AspNetCompiler.PhysicalPath = "Registration-form\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31674\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Registration-form\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "University-grid", "http://localhost:31676", "{5C93AEBD-D7AB-42C8-B444-2187E6E84271}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31676"
+		Debug.AspNetCompiler.PhysicalPath = "University-grid\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31676\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31676"
+		Release.AspNetCompiler.PhysicalPath = "University-grid\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31676\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "University-grid\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Notebook-store", "http://localhost:31677", "{D3A56534-5E91-4F73-B09E-DEFF02E33EB8}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31677"
+		Debug.AspNetCompiler.PhysicalPath = "Notebook-store\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31677\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31677"
+		Release.AspNetCompiler.PhysicalPath = "Notebook-store\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31677\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Notebook-store\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Grid-component", "http://localhost:31678", "{6BBC693B-FD12-48A9-B3B3-BFA7924A58A1}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31678"
+		Debug.AspNetCompiler.PhysicalPath = "Grid-component\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31678\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31678"
+		Release.AspNetCompiler.PhysicalPath = "Grid-component\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31678\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Grid-component\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5863DC7C-6521-46B3-A14E-971785DFC44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5863DC7C-6521-46B3-A14E-971785DFC44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C93AEBD-D7AB-42C8-B444-2187E6E84271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C93AEBD-D7AB-42C8-B444-2187E6E84271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A56534-5E91-4F73-B09E-DEFF02E33EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A56534-5E91-4F73-B09E-DEFF02E33EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBC693B-FD12-48A9-B3B3-BFA7924A58A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBC693B-FD12-48A9-B3B3-BFA7924A58A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5863DC7C-6521-46B3-A14E-971785DFC44C} = {C66FBBC7-A5C2-406F-A1D4-B2EE9987B8BA}
+		{5C93AEBD-D7AB-42C8-B444-2187E6E84271} = {E8F3F5CF-01E8-4D6C-B2A7-9CEFFA674389}
+		{D3A56534-5E91-4F73-B09E-DEFF02E33EB8} = {15FFA09F-38D9-42ED-BAE8-F22177172687}
+		{6BBC693B-FD12-48A9-B3B3-BFA7924A58A1} = {05CD54FA-CACC-4D16-9792-EDBA1EFC08E9}
+	EndGlobalSection
+EndGlobal
