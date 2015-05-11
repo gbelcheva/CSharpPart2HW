@@ -1,0 +1,41 @@
+﻿html, body{
+    min-height:100%;
+    background-repeat:no-repeat;
+    background:linear-gradient(#D392FE, #9215F2 20%);
+}
+
+body header nav{
+    border:1px solid #000000;
+    border-radius:15px;
+}
+
+body header div#reg-form-container input{
+    background-color:#B35EF3;
+}
+
+body header div#header-container div#reg-form-container button#btn-register{
+    color:white;
+    background-color:#B35EF3;
+    border:2px solid #B675E8;
+    box-shadow:2px 2px  #8539BE;
+}
+
+body section{
+    color:white;
+}
+     body section footer p a{
+        color: #C37CF6;
+     }
+
+body section article{
+    border-radius:15px;
+}
+
+body aside ul li{
+    border-radius:7px;
+}
+
+body footer p {
+        text-align:center;
+}
+       

@@ -1,0 +1,74 @@
+﻿body {
+    font-family:'Arial Narrow', sans-serif;
+    font-size:0.95em;
+    line-height:15px;
+}
+h1 {
+    font-size:18px;
+    font-weight:100;
+    position:relative;
+    top:13px;
+    left:12px;
+}
+#music-categories{
+    background-color:#EEEEEE;
+    width:420px;
+    height:550px;
+    position:relative;
+    top:-11px;
+    left:-7px;
+    border-radius:8px;
+}
+
+.category{
+    display:table;
+    background-color:white;
+    width:396px;
+    height:117px;
+    position:relative;
+    left:12px;
+    top:14px;
+    border:1px solid black;
+    border-collapse:collapse;
+    margin-top:39px;
+}
+
+p {
+    float:right;
+    width:195px;
+    margin-right:29px;
+}
+
+button{
+    font-size:0.78em;
+    position:relative;
+    top:-14px;
+    border:none;
+    color:white;
+
+}
+.listen{
+    background-image:url(Images/button1.png);
+    width:77px;
+    height:26px;
+    margin-left:237px;
+}
+.add{
+    background-image:url(Images/button2.png);
+    width:63px;
+    height:26px;
+    float:right;
+    margin-right:15px;
+}
+
+img{
+    float:left;
+    position:relative;
+    top:15px;
+    left:16px;
+    border:1px solid gray;
+}
+.row3 {
+    position:relative;
+    top:0px;
+}

@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculator</title>
+    <link rel="stylesheet" href="Problem04.css" />
+</head>
+<body>
+    <div id="menu">
+        <div tabindex="0" class="onclick-menu">View</div>
+        <div tabindex="0" class="onclick-menu">
+            Edit
+            <ul class="onclick-menu-content">
+                <li><a onclick="alert('click 1')"><span class="left-align">Copy</span><span class="right-align">Ctrl+C</span></a></li>
+                <li><a onclick="alert('click 2')"><span class="left-align">Paste</span><span class="right-align">Ctrl+V</span></a></li>
+            </ul>
+        </div>
+
+        <div tabindex="0" class="onclick-menu" id="help">
+            Help
+            <ul class="onclick-menu-content">
+                <li><a onclick="alert('click 1')"><span class="left-align">View Help</span><span class="right-align">F1</span></a> <hr /></li>
+                <li><a onclick="alert('click 2')"><span class="left-align">About Calculator</span><span class="right-align"></span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="container">
+        <div id="display">
+            <input type="text" name="display" id="dis" value="8854455" readonly />
+        </div>
+        <div id="binary-helper-display">
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <br />
+            <span class="count-bits-left">63</span>
+            <span class="count-bits-middle">47</span>
+            <span class="count-bits-right">32</span>
+            <br />
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="0000" readonly>
+            <input type="text" name="bite" value="1000" readonly>
+            <input type="text" name="bite" value="0111" readonly>
+            <input type="text" name="bite" value="0001" readonly>
+            <input type="text" name="bite" value="1011" readonly>
+            <input type="text" name="bite" value="1011" readonly>
+            <input type="text" name="bite" value="0111" readonly>
+            <br />
+            <span class="count-bits-left">31</span>
+            <span class="count-bits-middle">15</span>
+            <span class="count-bits-right"> 0</span>
+        </div>
+        <div id="base-radio" class="radio">
+            <label for="hex"><input type="radio" name="base" id="hex" value="Hex" />Hex</label><br />
+            <label for="dec"><input type="radio" name="base" id="dec" value="Dec" />Dec</label><br />
+            <label for="oct"><input type="radio" name="base" id="oct" value="Oct" />Oct</label><br />
+            <label for="bin"><input type="radio" name="base" id="bin" value="Bin" />Bin</label>
+        </div>
+        <div id="data-type-radio" class="radio">
+            <label for="qword"><input type="radio" name="data-type" id="qword" value="Qword" />Qword</label><br />
+            <label for="dword"><input type="radio" name="data-type" id="dword" value="Dword" />Dword</label><br />
+            <label for="word"><input type="radio" name="data-type" id="word" value="Word" />Word</label><br />
+            <label for="byte"><input type="radio" name="data-type" id="byte" value="Byte" />Byte</label>
+        </div>
+        <span id="bitwise-operation-buttons">
+            <input type="button" name="empty" id="empty" class="disabled" value="" disabled />
+            <input type="button" name="mod" id="mod" value="Mod" />
+            <br />
+            <input type="button" name="backet=left" id="bracket-left" value="(" />
+            <input type="button" name="bracket-right" id="bracket-right" value=")" />
+            <br />
+            <input type="button" name="rol" id="rol" value="RoL" />
+            <input type="button" name="ror" id="ror" value="RoR" />
+            <br />
+            <input type="button" name="or" id="or" value="Or" />
+            <input type="button" name="xor" id="xor" value="Xor" />
+            <br />
+            <input type="button" name="lsh" id="lsh" value="Lsh" />
+            <input type="button" name="rsh" id="rsh" value="Rsh" />
+            <br />
+            <input type="button" name="not" id="not" value="Not" />
+            <input type="button" name="and" id="and" value="And" />
+
+        </span>
+        <span id="letter-buttons">
+            <br>
+            <button name="a" id="a" class="disabled" disabled>A</button>
+            <br />
+            <button name="b" id="b" class="disabled" disabled>B</button>
+            <br />
+            <button name="c" id="c" class="disabled" disabled>C</button>
+            <br />
+            <button name="d" id="d" class="disabled" disabled>D</button>
+            <br />
+            <button name="e" id="e" class="disabled" disabled>E</button>
+            <br />
+            <button name="f" id="f" class="disabled" disabled>F</button>
+        </span>
+        <span id="basic-operation-buttons">
+            <br />
+            <button name="backspace" id="backspace"><span id="back-symbol">&#x2190</span></button>
+            <button name="ce" id="ce">CE</button>
+            <button name="cc" id="cc">C</button>
+            <button name="plus-minus" id="plus-minus">&#x00B1</button>
+            <button name="radical" id="radical" class="disabled" disabled>&#x221A</button>
+            <br />
+            <button name="divide" id="divide">/</button>
+            <button name="percent" id="percent" class="disabled" disabled>%</button>
+            <br />
+            <button name="multiply" id="multiply">*</button>
+            <button name="inverse" id="inverse" class="disabled" disabled>1/<span id="x">x</span></button>
+            <br />
+            <button name="minus" id="minus">-</button>
+            <br />
+            <button name="plus" id="plus">+</button>
+            <button name="equals" id="equals">=</button>
+        </span>
+        <span id="digit-buttons">
+            <br />
+            <button name="seven" id="seven">7</button>
+            <button name="eight" id="eight">8</button>
+            <button name="nine" id="nine">9</button>
+            <br />
+            <button name="four" id="four">4</button>
+            <button name="five" id="five">5</button>
+            <button name="six" id="six">6</button>
+            <br />
+            <button name="one" id="one">1</button>
+            <button name="two" id="two">2</button>
+            <button name="three" id="three">3</button>
+            <br />
+            <button name="zero" id="zero">0</button>
+            <button name="point" id="point" class="disabled" disabled>.</button> 
+        </span>
+        <div id="memory-buttons">
+            <button name="mc" id="mc">MC</button>
+            <button name="mr" id="mr">MR</button>
+            <button name="ms" id="ms">MS</button>
+            <button name="m-plus" id="m-plus">M+</button>
+            <button name="m-minus" id="m-minus">M-</button>
+        </div>
+    </div>
+
+</body>
+</html>

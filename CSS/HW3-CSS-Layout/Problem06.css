@@ -1,0 +1,102 @@
+﻿html {
+    background-color: white;
+}
+
+body {
+    background-color:#a5afb3;
+    width: 612px;
+    height:330px;
+    margin-top:-11px;
+    margin-left:-1px;
+}
+
+body div {
+    font-family: Arial,sans-serif;
+    background-color: #1E3741;
+    height: 330px;
+    width: 612px;
+    font-size: 11px;
+    margin-right: 10px;
+    padding-top:10px;
+}
+
+.main-nav {
+    float:left;
+    padding:10px 10px 10px 30px;
+}
+
+a {
+    padding: 8px 12px;
+    color: #93ACB6;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: #4B5F67;
+    display: block;
+    margin: 0 1px 0 0;
+    outline: none;
+    text-decoration: none;
+}
+
+.novinite {
+    background: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    float:left;
+    list-style: none;
+    overflow: hidden;
+    margin-left:-38px;
+}
+
+li {
+    float: left;
+}
+
+hr {
+    height:1px;
+    border:thin #4B5F67;
+    background-color:#4B5F67;
+}
+
+section nav {
+    display: block;
+    float: left;
+    width: 240px;
+    color: #a5afb3;
+    font-weight: bold;
+    margin-top:-10px;
+}
+
+h2 {
+    background-color: #1E3741;
+    font-size: 12px;
+    padding: 1px 15px 0 15px;
+}
+
+section nav h2:first-child {
+    background: #00968c;
+    border-bottom: 1px solid #00968c;
+    height:25px;
+    color: white;
+    padding-top:8px;
+}
+
+#news {
+    float: left;
+    width: 340px;
+    position: relative;
+    height: 255px;
+}
+
+#novinite {
+    background-color: #1E3741;
+    color:white;
+}
+
+#sport {
+    text-decoration:underline;
+}

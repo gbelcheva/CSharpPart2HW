@@ -1,0 +1,43 @@
+﻿body {
+    font-family:Arial, sans-serif;
+    font-weight:lighter;
+    font-stretch:narrower;
+    font-size:larger;
+}
+table, th, td{
+    border:1px inset #D3D2BA;
+    border-collapse:collapse;
+}
+table {
+    width:700px;
+}
+th {
+    color:white;
+    background-color:#56B906;
+    font-weight:lighter;
+    text-align:left;
+    padding:6px 9px;
+}
+td {
+    padding:9px;
+    border-bottom:none; 
+    border-top:none;
+}
+tr:nth-child(2n) {
+    background-color:#ECECD8;
+}
+th:last-child {
+    width:115px;
+}
+img {
+    width:30px;
+    height:20px;
+    vertical-align:middle;
+}
+input{
+    background-color: #545454;
+    box-shadow: 2px 2px 2px #545454 inset;
+    margin-left:6px;
+}
+
+

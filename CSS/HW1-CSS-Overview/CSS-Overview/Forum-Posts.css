@@ -1,0 +1,40 @@
+﻿body {
+    background-color:#A9A9A9;
+    color:black;
+}
+body > header {
+    text-align:center;
+    font-size:20px;
+}
+header{
+    color:#FAFAD2;
+}
+nav ul{
+    font-size:22px;
+    font-weight:bold;
+    list-style-type:none;
+    text-decoration:none;
+}
+nav ul li a {
+    color:#FFFFFF;
+    text-decoration:none;
+}
+#highlighted {
+    background-color:#D3D3D3;
+}
+li:last-child {
+    text-decoration: underline;
+}
+main article header {
+    font-size:19px;
+}
+p {
+    font-size:17px;
+}
+main article footer {
+    font-size:13px;
+}
+body > footer {
+    font-size:17px;
+    text-align:center;
+}

@@ -1,0 +1,211 @@
+﻿body {
+    font-family: Helvetica, Arial ,sans-serif;
+    background-color: #F1F1F1;
+    font-size: 89%;
+    width:930px;
+    letter-spacing:normal;
+    font-stretch:wider !important;
+    line-height:14px;
+    
+
+}
+a {
+    color: #8F0B09;
+}
+
+nav {
+    width: 143px;
+    float: left;
+    margin-right: 1%;
+}
+
+main {
+    width: 533px;
+    float: left;
+    background-color: white;
+    border: 1px solid #838383;
+    padding-left:7px;
+    padding-right:7px;
+    height:590px;
+    padding-top:8px;
+    position:relative;
+    top:-8px;
+}
+
+aside {
+    position:absolute;
+    width: 165px;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    top:2px;
+    letter-spacing:1px !important;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    letter-spacing:normal;
+}
+
+nav a {
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+}
+
+    nav a:before {
+        content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAYAAABroNZJAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAABRMAAAUTAFGjW/LAAAAB3RJTUUH3wUGFwcZ8HRfBAAAAY9JREFUOMvVk8uO2kAQRU9bHRszIAwLhHnMYtD8eX6M3UhoMGXHr8btygJBBhKiRMlmSiqpSq0+feuq2ogI/xoB/yE+AcQYQ1XVVFWNMQYAX9fUdf1nEGMMIjmr1UJfXtZa1y3adXxdLHT1/KzW2t9DzgBhu13r6QTv7x2bTapN0zyUHdwDjkdhu91oUYC1I2azEUXRsV6vtHsAsfeA19czYDRK6PvMdF3HcDjWsml4SiDouHp0o+QjQATG4wTnMgNgraUsCzMex3zLYDhU8ry4BYkIu92OwQBtGjQMp6qq3Kdzjigaal2jg0Gob29viAgiAsfjkTC02rZoGCa/BFyybc+gpkGj6EmrqkJEMCJCFEXEcax935uPClUvfsFkMgHAOUccx+q9N3me/zD2foG89yRJomF47lW/4Jy7PqCqN3fs442FtoXTCaLos3zAm3EOhwN93+O9ByDLziOBkmUZ3nuccz8t2xWSJAnL5VIv/XQ6I00vNaRpej2bz+eo6i0kCAL2+735mxHKsrzW3wHpWfv4Lwd65wAAAABJRU5ErkJggg==);
+        font-weight: bolder;
+        margin-left:1px;
+        margin-right:3px;
+    }
+
+nav ul {
+    margin-bottom: 16px;
+}
+
+.nav-title {
+    font-weight: bold;
+    color: #8F0B09;
+}
+
+header {
+}
+.top {
+    margin-top:-3px;
+}
+#logo {
+    float: left;
+    width:20%;
+    height:20%;
+    padding-right:14px;
+}
+
+section article:first-child {
+    padding-bottom:17px;
+}
+
+section article:first-child a{
+    letter-spacing:normal;
+}
+
+article div p {
+    display: inline;
+}
+section {
+    margin-top:-2px;
+}
+.content {
+    padding-top:6px;
+    padding-right:8px !important;
+}
+main h1 {
+    font-size: 20px;
+    margin-bottom:21px;
+    letter-spacing:1px;
+}
+
+main h2 {
+    background-color: #838383;
+    color: white;
+    font-size: 12px;
+    text-indent: 5px;
+    letter-spacing:1px!important;
+}
+aside h3{
+    background-color: #838383;
+    color: white;
+    font-weight: normal;
+    font-size: 12px;
+    margin-bottom: 0;
+    position: relative;
+    top: -12px;
+    margin-left: 2px;
+    font-weight:700 !important;
+    letter-spacing:1px !important;
+}
+
+.prev .button-arrow {
+    margin-right: 18px;
+    margin-left: -5px;
+}
+
+.next .button-text {
+    margin-left: 33px;
+    margin-right: 26px;
+}
+
+main button {
+    background-color: transparent;
+    border: 1px solid black;
+    margin-right: 4px;
+    height: 22px;
+    font-size: 12px;
+    width:111px;
+    text-align:left;
+}
+
+aside li {
+    background-color: white;
+    margin: 2px;
+    border: 1px solid #838383;
+    padding: 5px 0 5px 0;
+}
+
+    aside li:first-child {
+        background-color: white;
+        margin: 0 2px 2px 2px;
+        border: 1px solid #838383;
+    }
+
+aside ul {
+    position: relative;
+    top: -26px;
+}
+
+h3.web {
+    top: -34px;
+}
+
+ul.web {
+    top: -49px;
+}
+
+#button-advert {
+    margin-left:-5px;
+    margin-bottom: 3px;
+    height: 32px;
+    width: 102px;
+    color: #2FC8FE;
+    font-weight: bold;
+    border: 1px solid white;
+    outline: 2px solid #7CA9CA;
+    background: linear-gradient(90deg, #93D5F5 1%, #D2EEFD 8%, #D2EEFD 92%, #93D5F5 100%);
+}
+
+aside input[type=text] {
+    width: 64%;
+    height: 14px;
+    border: 1px solid #3A6996;
+    margin-bottom:4px;
+}
+
+aside #button-search {
+    border: 1px solid #114779;
+    border-radius: 4px;
+    box-shadow: none;
+    width:20px;
+    font-weight:600;
+    padding-right:1px;
+    padding-left:0;
+    background:linear-gradient(#F5F7F9 80%, #DED4C6 100%);
+
+}
+
+@-moz-document url-prefix() {
+main button {
+    width:118px;
+}
+}

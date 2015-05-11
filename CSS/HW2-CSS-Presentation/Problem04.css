@@ -1,0 +1,470 @@
+﻿body, html {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 11px;
+    color: #223C5E;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+body {
+    width:400px;
+}
+
+div {
+    margin:5px;
+}
+input[type=button], button{
+    margin:0.452em 0px 0px 2px;
+    transition: background 3s !important;
+}
+
+input[type=button]:not(.disabled):hover{
+    background-image:none !important;
+    background-color:none !important;
+    background: linear-gradient(#FEEFDF 50%, #FBDB82 50%) !important;
+    border-color:#F5E269 !important;
+    transition: border-color 2s !important;
+}
+button:not(.disabled):hover{
+    background-image:none !important;
+    background-color:none !important;
+    background: linear-gradient(#FEEFDF 50%, #FBDB82 50%) !important;
+    border-color:#F5E269 !important;
+    transition: border-color .9s !important;
+}
+
+#container {
+    width: 395px;
+    height: 318px;
+    position:relative;
+    left:5px;
+    margin: 0;
+    padding: 5px;
+    background: linear-gradient(#EDF4FC, #D9E4F1 20%);
+    border:1px inset;
+    border-bottom-color:#949EA7;
+    border-right-color:#949EA7;
+    border-left-color:#949EA7;
+}
+
+#menu {
+    font-family:Consolas;
+    color:#44464B;
+    position:relative;
+    width:405px;
+    height:20px;
+    border:1px inset;
+    border-top-color:#949EA7;
+    border-right-color:#949EA7;
+    border-left-color:#949EA7;
+    border-bottom-color:#C4C8D5;
+    top:6px;
+    background:linear-gradient(#FAFBFD 20%, #D3DAED 60%, #D6DCEC 60%)
+}
+.onclick-menu::first-letter{
+    text-decoration:underline;
+}
+
+.radio input[type=radio]{
+    outline:none !important; 
+    outline:hidden !important;
+    vertical-align:middle;
+    margin: 2px 2px 8% 3px;
+}
+
+.radio label{
+    vertical-align:bottom;
+    border: 0;
+    padding-left:1px;
+}
+.radio {
+    border:1px solid #91A1B3;
+    border-radius:3px;
+    width:65px;
+    line-height:17px;
+    padding:4px 4px 4px 4px;
+}
+body div#container div#binary-helper-display {
+    border:1px solid #91A1B3;
+    border-radius:3px;
+    width:384px;
+    line-height:10px;
+    height:60px;
+    box-shadow:0 0 0 1px #EBF1F7 inset;
+}
+
+body div#container div#binary-helper-display input{
+    font-family:Consolas, sans-serif;
+    background-color:transparent;
+    font-size:13px;
+    border:none;
+    text-align: center;
+    width:45px;
+    color:#223C5E;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    -moz-user-select:none;
+    user-select: none;
+    cursor:default;
+}
+    body div#container div#binary-helper-display span {
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    -moz-user-select:none;
+    user-select: none;
+    cursor:default;
+    }
+body div#container div#binary-helper-display .count-bits-left {
+    float:left;
+    margin-left:9px;
+}
+body div#container div#binary-helper-display .count-bits-middle {
+    float:left;
+    margin-left:179px;
+}
+body div#container div#binary-helper-display .count-bits-right {
+    float:right;
+    margin-right:11px;
+    display:inline-block;
+    width:13px;
+}
+body div#container div#binary-helper-display span {
+    font-family:Consolas, sans-serif;
+    font-size:12px;
+    line-height:8px;
+    color:#737A7E;
+    vertical-align:central;
+    text-align:right;
+}
+
+body div#container #bitwise-operation-buttons{
+    position:relative;
+    top:-194px;
+    left:83px;
+    text-align:left;
+}
+body div#container #bitwise-operation-buttons input{
+    width:34px;
+    height:27px;
+    font-size:11px;
+    color: #223C5E;
+    background-color:transparent;
+    border:1px solid #91A1B3;
+    border-radius:3px;
+    position:relative;
+    letter-spacing:0.03em;
+}
+#mod, #bracket-left, #bracket-right, #rol, #ror, #or, #xor, #lsh, #rsh, #not, #and{
+    position:relative;
+    background:linear-gradient(#F5FAFD, #D7E2F0 60%);
+    top:-8px;
+    box-shadow:0 0 0 1px #EBF1F7 inset;
+}
+#mod{
+    position:relative;
+    top:-8px;
+}
+
+body div#container #letter-buttons{
+    position:relative;
+    top:-387px;
+    left:158px;
+
+}
+
+body div#container #letter-buttons input{
+    width:34px;
+    height:27px;
+    font-size:15px;
+    color: #223C5E;
+    background-color:transparent;
+    border:1px solid #BDCBDA;
+    border-radius:3px;
+    margin: 4px 0px 0px 2px;
+}
+
+body div#container #digit-buttons{
+    display:inline;
+    position:relative;
+    top:-730px;
+    left:200px;
+}
+    body div#container #digit-buttons button:not(#point) {
+    background:linear-gradient(#F8FCFF, #E7EDF5 70%, #F8FCFF);
+    }
+    body div#container #digit-buttons #point {
+    background-color:transparent;
+    border:1px solid #BECBD9;
+    border-radius:3px;
+    box-shadow:none;
+    }
+body div#container #digit-buttons button{
+    font-family:Calibri;
+    width:34px;
+    height:27px;
+    font-size:17px;
+    color: #223C5E;
+    border:1px solid #91A1B3;
+    border-radius:3px;
+    margin: 4px 0px 0px 2px;
+    box-shadow:0 0 0 1px #EBF1F7 inset;
+}
+body div#container #digit-buttons #zero{
+    width:73px;
+}
+
+body div#container div#display #dis{
+    font-family:Consolas, sans-serif;
+    font-size:2.2em;
+    text-align:right;
+    width:379px;
+    height:34px;
+    border:1px solid #91A1B3;
+    border-radius:3px;
+    background: linear-gradient(#E5EEFB, white);
+    line-height:30px;
+    vertical-align:bottom;
+    padding-top:10px;
+    padding-bottom:2px;
+    padding-right:4px;
+}
+
+body div#container #basic-operation-buttons{
+    display:inline;
+    position:relative;
+    top:-557px;
+    left:197px;
+    display:table;
+    text-align:right;
+}
+
+
+
+body div#container #basic-operation-buttons input, button{
+    width:34px;
+    height:27px;
+    font-size:11px;
+    color: #223C5E;
+    background-color:transparent;
+    border:1px solid #BECBD9;
+    border-radius:3px;
+    margin: 4px 0px 0px 5px;
+}
+
+body div#container #basic-operation-buttons #backspace, #ce, #cc, #plus-minus, #divide, #multiply, #minus, #plus, #equals {
+    background:linear-gradient(#F4F9FD, #D7E2F0);
+    box-shadow:0 0 0 1px #EBF1F7 inset;
+    border:1px solid #91A1B3;
+}
+body div#container #basic-operation-buttons #equals{
+    font-size:22px;
+    height:58px;
+    position:relative;
+    top:-34px;
+}
+body div#container #basic-operation-buttons #plus-minus, #radical, #percent{
+    position:relative;
+    top:-1px;
+}
+body div#container #basic-operation-buttons #multiply, #inverse, #minus, #divide{
+    position:relative;
+    top:-3px;
+}
+
+body div#container #basic-operation-buttons #plus{
+    position:relative;
+    top:-22px;
+}
+body div#container #basic-operation-buttons #minus{
+    position:relative;
+    left:-39px;
+}
+body div#container #basic-operation-buttons #x{
+    font-family:Vijaya, 'Times New Roman';
+    font-size:16px;
+    font-weight:600;
+}
+body div#container #basic-operation-buttons #inverse{
+    font-family:Consolas;
+    font-size:14px;
+}
+body div#container #basic-operation-buttons #back-symbol{
+    font-family:KaiTi;
+    font-size:14px;
+    text-transform:fullsize-kana;
+    transform:scale(2,3);
+}
+
+body div#container #basic-operation-buttons #cc, #ce{
+    font-family:'Open Sans';
+}
+body div#container #basic-operation-buttons #percent{
+    font-family:'Malgun Gothic';
+    font-size:13px;
+}
+
+body div#container div#memory-buttons{
+    display:inline;
+    position:relative;
+    top:-886px;
+    left:78px;
+}
+
+body div#container div#memory-buttons button{
+    font-family:'Open Sans';
+    width:34px;
+    height:27px;
+    font-size:11px;
+    color: #223C5E;
+    background-color:transparent;
+    border:1px solid #91A1B3;
+    border-radius:3px;
+    margin: 4px 0px 0px 2px;
+    box-shadow:0 0 0 1px #EBF1F7 inset;
+}
+
+@-moz-document url-prefix() {
+  body div#container div#binary-helper-display input {
+    width:43px;
+  }
+  body div#container #bitwise-operation-buttons button{
+    font-size:11px;
+    letter-spacing:0.08em;
+}
+  #mod, #bracket-left, #bracket-right, #rol, #ror, #or, #xor, #lsh, #rsh, #not, #and{
+    position:relative;
+    top:0px;
+}
+  body div#container #bitwise-operation-buttons{
+      top:-197px;
+}
+  body div#container #letter-buttons{
+      top:-388px;
+      left:161px;
+}
+  body div#container #letter-buttons button{
+    margin: 5px 0px 0px 2px;
+}
+body div#container #digit-buttons button{
+    font-size:18px;
+    margin: 5px 0px 0px 2px;
+}
+body div#container #digit-buttons{
+    top:-735px;
+}
+body div#container #basic-operation-buttons{
+    top:-562px;
+    left:200px;
+}
+body div#container #basic-operation-buttons input, button{
+    margin: 5px 0px 0px 2px;
+}
+body div#container #basic-operation-buttons #equals{
+    top:-33px;
+}
+body div#container #basic-operation-buttons #divide{
+    top:0px;
+}
+body div#container #basic-operation-buttons #percent{
+    top:0px;
+}
+body div#container #basic-operation-buttons #radical{
+    top:0px;
+}
+body div#container #basic-operation-buttons #plus-minus{
+    top:0px;
+}
+body div#container #basic-operation-buttons #plus{
+    top:-20px;
+}
+body div#container #basic-operation-buttons #minus{
+    top:-1px;
+    left:-39px;
+}
+body div#container #basic-operation-buttons #multiply{
+    top:-1px;
+}
+body div#container #basic-operation-buttons #inverse{
+    top:0px;
+}
+body div#container div#memory-buttons{
+    top:-897px;
+}
+}
+
+.onclick-menu-content a, hr{
+    position:relative;
+    left:-30px;
+}
+
+.left-align{
+    position:relative;
+    line-height:25px;
+}
+.right-align{
+    float:right;
+    line-height:25px;
+}
+.onclick-menu {
+    position: relative;
+    display: inline-block;
+}
+.onclick-menu:focus .onclick-menu-content {
+    display: block;
+}
+hr {
+    border-style:inset;
+}
+.onclick-menu-content {
+    position: absolute;
+    z-index: 1;
+    width:100px;
+    background-color:#F1F1F1;
+    display: none;
+    list-style:none;
+    border-collapse:collapse;
+    border: #898C8F 1px solid;
+    box-shadow: #898C8F 2px 2px 2px;
+}
+
+.onclick-menu:focus .onclick-menu-content {
+    /* content is visible if menu is 'opened' */
+    visibility: visible;
+}
+.onclick-menu-content {
+    position: absolute;
+    z-index: 1;
+
+    /* disable visibility by default, delay to enable clicks */
+    visibility: hidden;
+    transition: visibility 0.5s;
+}
+
+.onclick-menu {
+    position: relative;
+    display: inline-block;
+}
+.onclick-menu:focus {
+    /* clicking on label should toggle the menu */
+    pointer-events: none;
+}
+.onclick-menu:focus .onclick-menu-content {
+    /*  opacity is 1 in opened state (see below) */
+    opacity: 1;
+    visibility: visible;
+
+    /* don't let pointer-events affect descendant elements */
+    pointer-events: auto;
+}
+.onclick-menu-content {
+    position: absolute;
+    z-index: 1;
+
+    /* use opacity to fake immediate toggle */
+    opacity: 0;
+    visibility: hidden;
+    transition: visibility 0.5s;
+}
