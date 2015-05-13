@@ -1,0 +1,25 @@
+﻿body ul li body {
+  padding: 0;
+  margin: 0;
+}
+body ul {
+  width: 1270px;
+  padding-left: 50px;
+  list-style: none;
+  display: block;
+  position: relative;
+}
+body ul li {
+  display: inline-block;
+  margin: 2px;
+}
+body ul li > img {
+  margin-top: 30px;
+  display: none;
+  position: absolute;
+  left: 50px;
+}
+body ul li > img:target {
+  display: block;
+}
+/*# sourceMappingURL=Problem02.css.map */

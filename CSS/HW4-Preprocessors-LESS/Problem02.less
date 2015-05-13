@@ -1,0 +1,30 @@
+﻿body ul li body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    ul {
+        width: 1270px;
+        padding-left: 50px;
+        list-style: none;
+        display: block;
+        position: relative;
+
+        li {
+            display: inline-block;
+            margin: 2px;
+
+            > img {
+                margin-top: 30px;
+                display: none;
+                position: absolute;
+                left: 50px;
+
+                &:target {
+                    display: block;
+                }
+            }
+        }
+    }
+}
