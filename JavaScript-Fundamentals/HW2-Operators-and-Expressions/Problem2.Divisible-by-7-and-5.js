@@ -27,9 +27,9 @@ var numbers = [
     number6];
 
 for (var index in numbers) {
-    console.log('Is ' + numbers[index] + ' divisible by 5 and 7? -> ' + isDivisibleBy7And5(numbers[index]));
+    console.log('Is ' + numbers[index] + ' divisible by 5 and 7? -> ' + isDivisibleBy5And7(numbers[index]));
 }
 
-function isDivisibleBy7And5(number) {
+function isDivisibleBy5And7(number) {
     return (!(number % 5) && !(number % 7));
 }
