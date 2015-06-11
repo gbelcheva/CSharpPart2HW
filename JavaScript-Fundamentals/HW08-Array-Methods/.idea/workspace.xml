@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Problem3-Deep-copy.js" line="30" />
-    <bookmark url="file://$PROJECT_DIR$/Problem3-Deep-copy.js" line="23" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="652c4e7e-b8f8-4704-aec3-3dad80324944" name="Default" comment="" />
-    <ignored path="HW07-Using-Objects.iws" />
+    <list default="true" id="3a6c596e-e15e-4e34-8662-b48ea1d5e4b7" name="Default" comment="" />
+    <ignored path="HW08-Array-Methods.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,15 +17,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="HW07-Using-Objects" />
+    <favorites_list name="HW08-Array-Methods" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Problem1-Planar-coordinates.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem1-Planar-coordinates.js">
+      <file leaf-file-name="Problem1-Make-person.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem1-Make-person.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+              <caret line="14" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -37,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem2-Remove-elements.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem2-Remove-elements.js">
+      <file leaf-file-name="Problem2-People-of-age.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem2-People-of-age.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <caret line="15" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="58" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -49,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem3-Deep-copy.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem3-Deep-copy.js">
+      <file leaf-file-name="Problem3-Underage-people.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem3-Underage-people.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="20" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -61,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem4-Has-property.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem4-Has-property.js">
+      <file leaf-file-name="Problem4-Average-age-of-females.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem4-Average-age-of-females.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="54" />
+              <caret line="18" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -77,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/Problem5-Youngest-person.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="21" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -85,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem6.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem6.js">
+      <file leaf-file-name="Problem6-Group-people.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem6-Group-people.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9315069">
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.72773975">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -109,12 +105,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Problem1-Planar-coordinates.js" />
-        <option value="$PROJECT_DIR$/Problem2-Remove-elements.js" />
-        <option value="$PROJECT_DIR$/Problem3-Deep-copy.js" />
-        <option value="$PROJECT_DIR$/Problem4-Has-property.js" />
+        <option value="$PROJECT_DIR$/Problem3-Underage-people.js" />
+        <option value="$PROJECT_DIR$/Problem2-People-of-age.js" />
+        <option value="$PROJECT_DIR$/Problem1-Make-person.js" />
+        <option value="$PROJECT_DIR$/Problem4-Average-age-of-females.js" />
         <option value="$PROJECT_DIR$/Problem5-Youngest-person.js" />
-        <option value="$PROJECT_DIR$/Problem6.js" />
+        <option value="$PROJECT_DIR$/Problem6-Group-people.js" />
       </list>
     </option>
   </component>
@@ -154,50 +150,51 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW07-Using-Objects" />
+              <option name="myItemId" value="HW08-Array-Methods" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW07-Using-Objects" />
+              <option name="myItemId" value="HW08-Array-Methods" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW07-Using-Objects" />
+              <option name="myItemId" value="HW08-Array-Methods" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.Problem6.js">
-    <configuration default="false" name="Problem2-Remove-elements.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem2-Remove-elements.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.Problem6-Group-people.js">
+    <configuration default="false" name="Problem2-People-of-age.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem2-People-of-age.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="Problem3-Deep-copy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem3-Deep-copy.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="Problem3-Underage-people.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem3-Underage-people.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="Problem4-Has-property.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem4-Has-property.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="Problem4-Average-age-of-females.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem4-Average-age-of-females.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="false" name="Problem5-Youngest-person.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem5-Youngest-person.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="Problem6.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem6.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="Problem6-Group-people.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="Problem6-Group-people.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -233,29 +230,29 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Problem2-Remove-elements.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Problem3-Deep-copy.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Problem4-Has-property.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Problem2-People-of-age.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Problem3-Underage-people.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Problem4-Average-age-of-females.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.Problem5-Youngest-person.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Problem6.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Problem6-Group-people.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Problem6.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Problem6-Group-people.js" />
         <item index="1" class="java.lang.String" itemvalue="Node.js.Problem5-Youngest-person.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Problem4-Has-property.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Problem3-Deep-copy.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Problem2-Remove-elements.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Problem4-Average-age-of-females.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Problem3-Underage-people.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Problem2-People-of-age.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="652c4e7e-b8f8-4704-aec3-3dad80324944" name="Default" comment="" />
-      <created>1433758632381</created>
+      <changelist id="3a6c596e-e15e-4e34-8662-b48ea1d5e4b7" name="Default" comment="" />
+      <created>1433785127458</created>
       <option name="number" value="Default" />
-      <updated>1433758632381</updated>
+      <updated>1433785127458</updated>
     </task>
     <servers />
   </component>
@@ -263,7 +260,7 @@
     <frame x="840" y="30" width="840" height="1020" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14684466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -287,35 +284,45 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem1-Planar-coordinates.js">
+    <entry file="file://$PROJECT_DIR$/Problem3-Underage-people.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <caret line="20" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem2-Remove-elements.js">
+    <entry file="file://$PROJECT_DIR$/Problem2-People-of-age.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <caret line="15" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="58" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem3-Deep-copy.js">
+    <entry file="file://$PROJECT_DIR$/Problem1-Make-person.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="14" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem4-Average-age-of-females.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -325,27 +332,17 @@
     <entry file="file://$PROJECT_DIR$/Problem5-Youngest-person.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="21" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem4-Has-property.js">
+    <entry file="file://$PROJECT_DIR$/Problem6-Group-people.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="54" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9315069">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.72773975">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
