@@ -46,13 +46,8 @@ String.prototype.bind = function (str, obj) {
                     case 'content':
                         result = result.replace('<\/', obj[keys[i]] + '<\/');
                         break;
-                    case 'href':
-                        result = result.replace('>', ' href=\"' + obj[keys[i]] + '\">');
-                        break;
-                    case 'class':
-                        result = result.replace('>', ' class=\"' + obj[keys[i]] + '\">');
-                        break;
                     default:
+                        result = result.replace('>', ' ' + attrPlace + '=\"' + obj[keys[i]] + '\">');
                         break;
                 }
             }
