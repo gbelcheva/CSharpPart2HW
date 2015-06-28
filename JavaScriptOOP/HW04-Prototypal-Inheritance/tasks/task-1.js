@@ -154,6 +154,7 @@ function solve() {
 			},
 			get innerHTML() {
 				this._innerHTML = constructInnerHTML(this);
+
 				return this._innerHTML;
 			},
 			get parent() {
@@ -191,6 +192,7 @@ function solve() {
 				else {
 				  throw new Error('Attribute does not exist.')
 				}
+
 				return this;
 			}
 		};
