@@ -186,12 +186,11 @@ function solve() {
 				return this;
 			},
 			removeAttribute: function (attribute) {
-				if (this.attributes.hasOwnProperty(attribute)) {
+				if (!this.attributes.hasOwnProperty(attribute)) {
+					throw new Error('Attribute does not exist.')
+				}
+
 					delete this.attributes[attribute];
-				}
-				else {
-				  throw new Error('Attribute does not exist.')
-				}
 
 				return this;
 			}
