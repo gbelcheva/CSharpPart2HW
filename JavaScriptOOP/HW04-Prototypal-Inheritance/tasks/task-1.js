@@ -91,7 +91,7 @@ function solve() {
 			return obj._innerHTML;
 		}
 
-		var innerHTMLresult = '<' + obj.type;
+		var innerHTMLResult = '<' + obj.type;
 		var attributesKeys = Object.keys(obj.attributes);
 		if (attributesKeys.length !== 0) {
 			attributesKeys.sort(function (k1, k2) {
@@ -100,20 +100,20 @@ function solve() {
 			for (var key of attributesKeys)
 			{
 				if (obj.attributes.hasOwnProperty(key)) {
-					innerHTMLresult += ' ' + key + '=\"' + obj.attributes[key] + '\"';
+					innerHTMLResult += ' ' + key + '=\"' + obj.attributes[key] + '\"';
 				}
 			}
 		}
 
-		innerHTMLresult += '>' + obj.content;
+		innerHTMLResult += '>' + obj.content;
 		for (var child of obj.children)
 		{
-			innerHTMLresult += constructInnerHTML(child);
+			innerHTMLResult += constructInnerHTML(child);
 		}
 
-		innerHTMLresult += '</' + obj.type + '>';
+		innerHTMLResult += '</' + obj.type + '>';
 
-		return innerHTMLresult;
+		return innerHTMLResult;
 	}
 
 	var domElement = (function () {
