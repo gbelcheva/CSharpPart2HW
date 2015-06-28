@@ -92,12 +92,12 @@ function solve() {
 		}
 
 		var innerHTMLresult = '<' + obj.type;
-		var keys = Object.keys(obj.attributes);
-		if (keys.length !== 0) {
-			keys.sort(function (k1, k2) {
+		var attributesKeys = Object.keys(obj.attributes);
+		if (attributesKeys.length !== 0) {
+			attributesKeys.sort(function (k1, k2) {
 				return k1.toLowerCase().localeCompare(k2.toLowerCase());
 			});
-			for (var key of keys)
+			for (var key of attributesKeys)
 			{
 				if (obj.attributes.hasOwnProperty(key)) {
 					innerHTMLresult += ' ' + key + '=\"' + obj.attributes[key] + '\"';
@@ -112,6 +112,7 @@ function solve() {
 		}
 
 		innerHTMLresult += '</' + obj.type + '>';
+
 		return innerHTMLresult;
 	}
 
@@ -133,7 +134,7 @@ function solve() {
 			},
 			set type(value) {
 				if (!validateType(value)) {
-					throw new Error('Invalid type');
+					throw new Error('Invalid type.');
 				}
 				this._type = value;
 			},
