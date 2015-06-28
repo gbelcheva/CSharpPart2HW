@@ -140,9 +140,6 @@ function solve() {
 			get attributes() {
 				return this._attributes;
 			},
-			set attributes(value) {
-				this._attributes = value;
-			},
 			get children() {
 				return this._children;
 			},
