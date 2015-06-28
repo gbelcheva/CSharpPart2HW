@@ -70,7 +70,7 @@ function solve() {
 		return false;
 	}
 
-	function validateAttribute(name, value){
+	function validateAttribute(name){
 		if (name !== '' && /^[a-z0-9\-]+$/.test(name.toLowerCase())) {
 			return true;
 		}
@@ -177,7 +177,7 @@ function solve() {
 				return this;
 			},
 			addAttribute: function (name, value) {
-				if (!validateAttribute(name, value)) {
+				if (!validateAttribute(name)) {
 					throw new Error('Invalid attribute.');
 				}
 
