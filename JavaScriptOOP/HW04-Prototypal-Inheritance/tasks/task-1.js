@@ -71,7 +71,7 @@ function solve() {
 	}
 
 	function validateAttribute(name, value){
-		if (name !== '' && /^[a-z0-9\-]+$/.test(name)) {
+		if (name !== '' && /^[a-z0-9\-]+$/.test(name.toLowerCase())) {
 			return true;
 		}
 
