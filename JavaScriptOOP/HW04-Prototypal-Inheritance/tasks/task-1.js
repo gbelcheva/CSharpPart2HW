@@ -86,6 +86,14 @@ function solve() {
 		return false;
 	}
 
+	function validateParent(parent){
+		if (parent instanceof domElement.constructor) {
+			return true;
+		}
+
+		return false;
+	}
+
 	function constructInnerHTML(obj){
 		if (typeof obj._innerHTML !== 'undefined') {
 			return obj._innerHTML;
@@ -124,8 +132,6 @@ function solve() {
 				this._attributes = {};
 				this._children = [];
 				this._content = '';
-				this._innerHTML;
-				this._parent;
 
 				return this;
 			},
@@ -161,6 +167,9 @@ function solve() {
 				return this._parent;
 			},
 			set parent(value) {
+				if (!validateParent(value)) {
+					throw new Error("Invalid parent element.");
+				}
 				this._parent = value;
 			},
 			appendChild: function (child) {
