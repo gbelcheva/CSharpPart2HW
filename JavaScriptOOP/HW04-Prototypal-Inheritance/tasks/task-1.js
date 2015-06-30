@@ -101,7 +101,7 @@ function solve() {
 
 		var innerHTMLResult = '<' + obj.type;
 		var attributesKeys = Object.keys(obj.attributes);
-		if (attributesKeys.length !== 0) {
+		if (attributesKeys.length > 0) {
 			attributesKeys.sort(function (k1, k2) {
 				return k1.toLowerCase().localeCompare(k2.toLowerCase());
 			});
@@ -142,6 +142,7 @@ function solve() {
 				if (!validateType(value)) {
 					throw new Error('Invalid type.');
 				}
+
 				this._type = value;
 			},
 			get attributes() {
@@ -170,6 +171,7 @@ function solve() {
 				if (!validateParent(value)) {
 					throw new Error("Invalid parent element.");
 				}
+
 				this._parent = value;
 			},
 			appendChild: function (child) {
@@ -180,6 +182,7 @@ function solve() {
 				if (typeof child === 'string') {
 					child = {_innerHTML: child};
 				}
+
 				this.children.push(child);
 				child.parent = this;
 
@@ -199,7 +202,7 @@ function solve() {
 					throw new Error('Attribute does not exist.')
 				}
 
-					delete this.attributes[attribute];
+				delete this.attributes[attribute];
 
 				return this;
 			}
