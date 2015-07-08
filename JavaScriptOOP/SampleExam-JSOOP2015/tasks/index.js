@@ -203,6 +203,38 @@ function solve(){
                 }
             });
 
+            Object.defineProperty(player, 'contains', {
+                value: function(playable, playlist){
+                    var playlistId = getID(playlist),
+                        playableId = getID(playable);
+
+                    return this.slice()
+                        .filter(function(currentPlaylist){ return playlistId === currentPlaylist.id;})[0]
+                        .some(function(currentPlayable){ return playableId === currentPlayable.id});
+                }
+            });
+
+            Object.defineProperty(player, 'search', {
+                value: function(pattern){
+                    var foundPlaylists = this.slice()
+                        .filter(function(playlist){
+                            return playlist.some(function(playable){
+                                return RegExp(pattern.toLowerCase()).test(playable.title.toLowerCase());
+                            })
+                        });
+
+                    if (foundPlaylists.length < 1) {
+                        return [];
+                    }
+
+                    return foundPlaylists.map(function(playlist){
+                        return {
+                            id: playlist.id,
+                            name: playlist.name
+                        }})
+                }
+            });
+
             return player;
         }());
 
