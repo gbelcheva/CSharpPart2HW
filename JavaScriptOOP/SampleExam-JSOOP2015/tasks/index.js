@@ -103,12 +103,12 @@ function solve(){
             }
         };
 
-        function getID(playlistOrId){
-            if (typeof playlistOrId === 'number') {
-                return playlistOrId;
+        function getID(itemOrId){
+            if (typeof itemOrId === 'number') {
+                return itemOrId;
             }
 
-            return playlistOrId.id;
+            return itemOrId.id;
         }
 
         function compareByTitleThenById(item1, item2) {
