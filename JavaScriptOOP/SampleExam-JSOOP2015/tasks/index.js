@@ -194,7 +194,7 @@ function solve(){
                     validator.validatePaging(page, size, this.length);
 
                     return this.slice()
-                        .sort(compareByTitleThenById(playlist1, playlist2))
+                        .sort(compareByTitleThenById)
                         .filter(
                         function(playlist, index){
                             return (page * size) <= index &&
@@ -306,21 +306,7 @@ function solve(){
                     validator.validatePaging(page, size, this.length);
 
                     return this.slice()
-                        //.sort(compareByTitleThenById(playable1, playable2))
-                        .sort(
-                        function (playable1, playable2) {
-                            if (playable1.title < playable2.title) {
-                                return -1;
-                            } else if (playable1.title > playable2.title) {
-                                return 1;
-                            }
-
-                            if (playable1.id < playable2.id) {
-                                return -1;
-                            } else if (playable1.id > playable2.id) {
-                                return 1;
-                            }
-                        })
+                        .sort(compareByTitleThenById)
                         .filter(
                         function (playable, index) {
                             return (page * size) <= index &&
