@@ -123,7 +123,7 @@ function solve(){
             } else if (item1.id > item2.id) {
                 return 1;
             }
-            
+
             return 0;
         }
 
