@@ -1,0 +1,12 @@
+C:\Users\softwareacademy\Downloads\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\bin\Debug\Task04-Re-factor-and-improve-the-code.exe.config
+C:\Users\softwareacademy\Downloads\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\bin\Debug\Task04-Re-factor-and-improve-the-code.exe
+C:\Users\softwareacademy\Downloads\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\bin\Debug\Task04-Re-factor-and-improve-the-code.pdb
+C:\Users\softwareacademy\Downloads\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+C:\Users\softwareacademy\Downloads\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\obj\Debug\Task04-Re-factor-and-improve-the-code.exe
+C:\Users\softwareacademy\Downloads\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\obj\Debug\Task04-Re-factor-and-improve-the-code.pdb
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\bin\Debug\Task04-Re-factor-and-improve-the-code.exe.config
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\obj\Debug\Task04-Re-factor-and-improve-the-code.exe
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\bin\Debug\Task04-Re-factor-and-improve-the-code.exe
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\bin\Debug\Task04-Re-factor-and-improve-the-code.pdb
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW_gbelcheva_Pravilno-imenuvane_2015-07-10_15-55\Task04-Re-factor-and-improve-the-code\obj\Debug\Task04-Re-factor-and-improve-the-code.pdb

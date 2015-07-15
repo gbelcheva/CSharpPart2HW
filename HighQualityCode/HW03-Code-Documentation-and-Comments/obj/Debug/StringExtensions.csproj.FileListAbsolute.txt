@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW03-Code-Documentation-and-Comments\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW03-Code-Documentation-and-Comments\obj\Debug\StringExtensions.dll
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW03-Code-Documentation-and-Comments\obj\Debug\StringExtensions.pdb
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\StringExtensions.XML
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\StringExtensions.dll
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\StringExtensions.pdb

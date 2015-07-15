@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\bin\Debug\EventsConsoleApplication.exe.config
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\bin\Debug\EventsConsoleApplication.exe
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\bin\Debug\EventsConsoleApplication.pdb
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\bin\Debug\PowerCollections.dll
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\bin\Debug\PowerCollections.xml
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\obj\Debug\EventsConsoleApplication.exe
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\obj\Debug\EventsConsoleApplication.pdb
+D:\Ger\Dropbox\SOFTUNI\Telerik\HighQualityCode\HW01-Code-Formatting\EventsConsoleApplication\obj\Debug\EventsConsoleApplication.csprojResolveAssemblyReference.cache

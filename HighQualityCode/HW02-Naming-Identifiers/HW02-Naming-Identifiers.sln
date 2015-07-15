@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task01-03", "Task01-03", "{3725CBE5-628F-41AA-B2EA-B0CE11BBD2E4}"
+	ProjectSection(SolutionItems) = preProject
+		Task01-class_123-in-CSharp.cs = Task01-class_123-in-CSharp.cs
+		Task02-Make_Чуек-in-CSharp.cs = Task02-Make_Чуек-in-CSharp.cs
+		Task03-_ClickON_TheButton-in-JavaScript.js = Task03-_ClickON_TheButton-in-JavaScript.js
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mines", "Task04-Re-factor-and-improve-the-code\Mines.csproj", "{B53BC28D-EF8A-48BA-BBD0-EF45795ECA3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task04-Re-factor-and-improve-the-code", "Task04-Re-factor-and-improve-the-code", "{73CF1F4A-6095-499A-9068-56CB4C4B619D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53BC28D-EF8A-48BA-BBD0-EF45795ECA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53BC28D-EF8A-48BA-BBD0-EF45795ECA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53BC28D-EF8A-48BA-BBD0-EF45795ECA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53BC28D-EF8A-48BA-BBD0-EF45795ECA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B53BC28D-EF8A-48BA-BBD0-EF45795ECA3C} = {73CF1F4A-6095-499A-9068-56CB4C4B619D}
+	EndGlobalSection
+EndGlobal
