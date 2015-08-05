@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script id="article-template" type="text/x-handlebars-template">
+        <div class="id">
+            <p class="pesho" data-id="{{id}}">Name: {{{name}}}</p>
+            <p>Visitors: {{visitors}}</p>
+            <p>
+                Tags:
+                <ul>
+                    {{#tags}}
+                    <li class="ivan">{{name}}</li>
+                    {{/tags}}
+                </ul>
+
+            </p>
+        </div>
+    </script>
+
+    <script src="bower_components\handlebars\handlebars.js"></script>
+    <script>
+        var html = document.getElementById('article-template').innerHTML;
+        var articleTemplate = Handlebars.compile(html);
+        var article = {
+            id: 5,
+            tags: [{ name: 'dgdfg' }, { name: 'dsfsdf' }, { name: 'sdfsd' }],
+            name: '<h1>telerik</h1>',
+            visitors: 64564
+        }
+
+
+
+
+        var articleResult = articleTemplate(article);
+
+        var body = document.getElementsByTagName('body')[0];
+        body.innerHTML = articleResult;
+    </script>
+</body>
+</html>
