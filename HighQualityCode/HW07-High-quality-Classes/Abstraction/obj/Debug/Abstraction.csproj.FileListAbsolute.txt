@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Abstraction\bin\Debug\Abstraction.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Abstraction\bin\Debug\Abstraction.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Abstraction\obj\Debug\Abstraction.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Abstraction\obj\Debug\Abstraction.pdb

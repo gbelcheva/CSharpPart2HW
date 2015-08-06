@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{313C50B8-94C5-4BBE-9E3C-030466819249}"
+	ProjectSection(SolutionItems) = preProject
+		Task01-Class-Size-in-CSharp.cs = Task01-Class-Size-in-CSharp.cs
+		Task02-Method-PrintStatistics-in-CSharp.cs = Task02-Method-PrintStatistics-in-CSharp.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

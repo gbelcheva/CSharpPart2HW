@@ -1,0 +1,7 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Cohesion-and-Coupling\bin\Debug\Abstraction.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Cohesion-and-Coupling\bin\Debug\Abstraction.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW07-High-quality-Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

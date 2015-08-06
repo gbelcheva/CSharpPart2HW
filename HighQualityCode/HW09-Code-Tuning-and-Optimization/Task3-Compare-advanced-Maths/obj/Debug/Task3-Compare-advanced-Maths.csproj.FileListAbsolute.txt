@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task3-Compare-advanced-Maths\bin\Debug\Task3-Compare-advanced-Maths.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task3-Compare-advanced-Maths\bin\Debug\Task3-Compare-advanced-Maths.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task3-Compare-advanced-Maths\bin\Debug\Task3-Compare-advanced-Maths.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task3-Compare-advanced-Maths\obj\Debug\Task3-Compare-advanced-Maths.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task3-Compare-advanced-Maths\obj\Debug\Task3-Compare-advanced-Maths.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task3-Compare-advanced-Maths\obj\Debug\Task3-Compare-advanced-Maths.csprojResolveAssemblyReference.cache

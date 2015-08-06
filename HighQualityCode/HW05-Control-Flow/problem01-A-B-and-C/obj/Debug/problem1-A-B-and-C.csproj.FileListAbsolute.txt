@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem01-A-B-and-C\bin\Debug\problem01-A-B-and-C.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem01-A-B-and-C\bin\Debug\problem01-A-B-and-C.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem01-A-B-and-C\bin\Debug\problem01-A-B-and-C.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem01-A-B-and-C\obj\Debug\problem01-A-B-and-C.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem01-A-B-and-C\obj\Debug\problem01-A-B-and-C.pdb

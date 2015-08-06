@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\Task2-Compare-simple-Maths\obj\Debug\Task2-Compare-simple-Maths.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\Task2-Compare-simple-Maths\bin\Debug\Task2-Compare-simple-Maths.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\Task2-Compare-simple-Maths\bin\Debug\Task2-Compare-simple-Maths.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\Task2-Compare-simple-Maths\bin\Debug\Task2-Compare-simple-Maths.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\Task2-Compare-simple-Maths\obj\Debug\Task2-Compare-simple-Maths.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\Task2-Compare-simple-Maths\obj\Debug\Task2-Compare-simple-Maths.pdb

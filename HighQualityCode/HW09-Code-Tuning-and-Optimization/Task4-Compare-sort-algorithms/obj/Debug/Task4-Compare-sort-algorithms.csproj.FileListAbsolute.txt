@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task4-Compare-sort-algorithms\bin\Debug\Task4-Compare-sort-algorithms.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task4-Compare-sort-algorithms\bin\Debug\Task4-Compare-sort-algorithms.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task4-Compare-sort-algorithms\bin\Debug\Task4-Compare-sort-algorithms.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task4-Compare-sort-algorithms\obj\Debug\Task4-Compare-sort-algorithms.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task4-Compare-sort-algorithms\obj\Debug\Task4-Compare-sort-algorithms.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW09-Code-Tuning-and-Optimization\Task4-Compare-sort-algorithms\obj\Debug\Task4-Compare-sort-algorithms.pdb

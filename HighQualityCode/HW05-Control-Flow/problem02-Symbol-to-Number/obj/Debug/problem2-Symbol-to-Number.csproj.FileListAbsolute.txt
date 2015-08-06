@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem02-Symbol-to-Number\bin\Debug\problem02-Symbol-to-Number.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem02-Symbol-to-Number\bin\Debug\problem02-Symbol-to-Number.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem02-Symbol-to-Number\bin\Debug\problem02-Symbol-to-Number.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem02-Symbol-to-Number\obj\Debug\problem02-Symbol-to-Number.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem02-Symbol-to-Number\obj\Debug\problem02-Symbol-to-Number.pdb

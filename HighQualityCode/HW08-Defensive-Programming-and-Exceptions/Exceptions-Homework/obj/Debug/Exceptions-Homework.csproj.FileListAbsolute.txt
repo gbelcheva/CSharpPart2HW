@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW08-Defensive-Programmin-and-Exceptions\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW08-Defensive-Programmin-and-Exceptions\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW08-Defensive-Programmin-and-Exceptions\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW08-Defensive-Programmin-and-Exceptions\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW08-Defensive-Programmin-and-Exceptions\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache

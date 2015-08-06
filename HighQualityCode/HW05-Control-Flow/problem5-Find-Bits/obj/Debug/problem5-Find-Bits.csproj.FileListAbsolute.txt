@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem5-Find-Bits\bin\Debug\problem5-Find-Bits.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem5-Find-Bits\bin\Debug\problem5-Find-Bits.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem5-Find-Bits\bin\Debug\problem5-Find-Bits.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem5-Find-Bits\obj\Debug\problem5-Find-Bits.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem5-Find-Bits\obj\Debug\problem5-Find-Bits.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW05-Control-Flow\problem5-Find-Bits\obj\Debug\problem5-Find-Bits.pdb
