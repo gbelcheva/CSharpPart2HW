@@ -1,7 +1,7 @@
 ﻿namespace MatrixWalk.Tests
 {
     using System;
-    using HW13Refactoring;
+    using HW12Refactoring;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     [TestClass]

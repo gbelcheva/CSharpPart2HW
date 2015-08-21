@@ -13,4 +13,3 @@ D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW12-Refactoring\bin\Debug
 D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW12-Refactoring\bin\Debug\GameFifteen.pdb
 D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW12-Refactoring\bin\Debug\log4net.dll
 D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW12-Refactoring\bin\Debug\log4net.xml
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW12-Refactoring\obj\x86\Debug\MatrixRotatingWalk.csprojResolveAssemblyReference.cache
