@@ -1,10 +1,26 @@
 <stylecopresultscache>
   <version>12</version>
+  <project key="1160227982">
+    <configuration>
+    </configuration>
+  </project>
+  <project key="829829376">
+    <configuration>
+    </configuration>
+  </project>
+  <project key="422822526">
+    <configuration>
+    </configuration>
+  </project>
+  <project key="1369126925">
+    <configuration>
+    </configuration>
+  </project>
   <sourcecode name="Task01-class_123-in-CSharp.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014/04/01 10:18:24.000</styleCop>
-      <settingsFile>2015/07/03 21:34:28.211</settingsFile>
-      <sourceFile>2015/07/06 10:36:03.208</sourceFile>
+      <settingsFile>2015/07/10 17:47:38.000</settingsFile>
+      <sourceFile>2015/07/10 17:47:38.000</sourceFile>
       <parser>2014/04/01 10:18:24.000</parser>
       <StyleCop.CSharp.DocumentationRules>2014/04/01 10:18:24.000</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1945363787</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -26,7 +42,7 @@
   <sourcecode name="Task02-Make_Чуек-in-CSharp.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014/04/01 10:18:24.000</styleCop>
-      <settingsFile>2015/07/03 21:34:28.211</settingsFile>
+      <settingsFile>2015/07/10 17:47:38.000</settingsFile>
       <sourceFile>2015/07/06 10:50:30.611</sourceFile>
       <parser>2014/04/01 10:18:24.000</parser>
       <StyleCop.CSharp.DocumentationRules>2014/04/01 10:18:24.000</StyleCop.CSharp.DocumentationRules>
@@ -46,12 +62,4 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1160227982">
-    <configuration>
-    </configuration>
-  </project>
-  <project key="829829376">
-    <configuration>
-    </configuration>
-  </project>
 </stylecopresultscache>

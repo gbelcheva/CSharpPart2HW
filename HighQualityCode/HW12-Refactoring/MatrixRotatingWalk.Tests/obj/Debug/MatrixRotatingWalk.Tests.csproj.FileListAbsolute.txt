@@ -1,0 +1,7 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\MatrixRotatingWalk.Tests\bin\Debug\MatrixWalk.Tests.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\MatrixRotatingWalk.Tests\bin\Debug\MatrixWalk.Tests.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\MatrixRotatingWalk.Tests\bin\Debug\GameFifteen.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\MatrixRotatingWalk.Tests\bin\Debug\GameFifteen.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixRotatingWalk.Tests.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixWalk.Tests.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixWalk.Tests.pdb

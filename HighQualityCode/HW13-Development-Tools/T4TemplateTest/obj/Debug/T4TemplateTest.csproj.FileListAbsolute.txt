@@ -1,0 +1,2 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Development-Tools\T4TemplateTest\bin\Debug\T4TemplateTest.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Development-Tools\T4TemplateTest\bin\Debug\T4TemplateTest.exe.config

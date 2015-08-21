@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\bin\Debug\GameFifteen.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\bin\Debug\GameFifteen.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\obj\x86\Debug\WalkInMatrix.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\obj\x86\Debug\GameFifteen.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW13-Refactoring\obj\x86\Debug\GameFifteen.pdb
