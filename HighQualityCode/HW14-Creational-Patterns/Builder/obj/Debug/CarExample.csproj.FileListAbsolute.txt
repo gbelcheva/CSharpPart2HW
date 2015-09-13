@@ -1,0 +1,12 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\obj\Debug\User.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\obj\Debug\User.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\bin\Debug\User.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\bin\Debug\User.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\bin\Debug\User.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\obj\Debug\CarExample.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\bin\Debug\User.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\obj\Debug\User.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\obj\Debug\User.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Patterns\Builder\bin\Debug\User.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Patterns\Builder\obj\Debug\User.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Patterns\Builder\obj\Debug\User.pdb

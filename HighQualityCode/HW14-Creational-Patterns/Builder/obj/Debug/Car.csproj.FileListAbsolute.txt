@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\obj\Debug\Car.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\bin\Debug\User.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\bin\Debug\User.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\bin\Debug\User.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\obj\Debug\User.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\Builder\User\obj\Debug\User.pdb

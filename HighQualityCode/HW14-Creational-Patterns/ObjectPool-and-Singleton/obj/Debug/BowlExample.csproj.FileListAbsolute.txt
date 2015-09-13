@@ -1,0 +1,14 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\BowlAndSkateExample\bin\Debug\BowlAndSkateExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\BowlAndSkateExample\bin\Debug\BowlAndSkateExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\BowlAndSkateExample\bin\Debug\BowlAndSkateExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\BowlAndSkateExample\obj\Debug\BowlAndSkateExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\BowlAndSkateExample\obj\Debug\BowlAndSkateExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\ObjectPool-and-Singleton\bin\Debug\BowlAndSkateExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\ObjectPool-and-Singleton\obj\Debug\BowlAndSkateExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\ObjectPool-and-Singleton\obj\Debug\BowlAndSkateExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\ObjectPool-and-Singleton\bin\Debug\BowlAndSkateExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\ObjectPool-and-Singleton\bin\Debug\BowlAndSkateExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Pattenrs\ObjectPool-and-Singleton\obj\Debug\BowlExample.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Patterns\ObjectPool-and-Singleton\bin\Debug\BowlAndSkateExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Patterns\ObjectPool-and-Singleton\obj\Debug\BowlAndSkateExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW14-Creational-Patterns\ObjectPool-and-Singleton\obj\Debug\BowlAndSkateExample.pdb
