@@ -1,3 +1,6 @@
+[GitHub Repo Link](https://github.com/gbelcheva/TelerikAcademy/tree/master/HighQualityCode/HW14-Creational-Patterns)
+
+
 # Singleton
 
 Singleton моделът се грижи даден клас да има само една инстанция. Обикновено инициализацията се прави при поискване и първа употреба на класа. Самият singleton клас дава глобален достъп до единствената си инстанция.
@@ -32,8 +35,3 @@ Builder моделът е полезен, когато се работи със 
 ![Object Pool Design Pattern](http://www.blackwasp.co.uk/images/ObjectPool.png)
 
 При използване на този модел трябва да се внимава със състоянието на обектите -- то трябва да се изчиства и слага ръчно, което може да доведе до подаване на обекти с частично инициализирано или грешно състояние.
-
-
-
-
-
