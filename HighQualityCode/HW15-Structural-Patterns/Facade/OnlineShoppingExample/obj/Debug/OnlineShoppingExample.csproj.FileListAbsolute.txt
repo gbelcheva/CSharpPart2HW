@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\OnlineShoppingExample\bin\Debug\OnlineShoppingExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\OnlineShoppingExample\bin\Debug\OnlineShoppingExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\OnlineShoppingExample\bin\Debug\OnlineShoppingExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\OnlineShoppingExample\obj\Debug\OnlineShoppingExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\OnlineShoppingExample\obj\Debug\OnlineShoppingExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Facade\OnlineShoppingExample\bin\Debug\OnlineShoppingExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Facade\OnlineShoppingExample\obj\Debug\OnlineShoppingExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Facade\OnlineShoppingExample\obj\Debug\OnlineShoppingExample.pdb

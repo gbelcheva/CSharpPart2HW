@@ -1,0 +1,9 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\ZooExample\bin\Debug\ZooExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\ZooExample\bin\Debug\ZooExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\ZooExample\bin\Debug\ZooExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\ZooExample\obj\Debug\ZooExample.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\ZooExample\obj\Debug\ZooExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\ZooExample\obj\Debug\ZooExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Adapter\ZooExample\bin\Debug\ZooExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Adapter\ZooExample\obj\Debug\ZooExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Adapter\ZooExample\obj\Debug\ZooExample.pdb

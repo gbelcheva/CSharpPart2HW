@@ -1,0 +1,9 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\CoffeeShopExample\bin\Debug\CoffeeShopExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\CoffeeShopExample\bin\Debug\CoffeeShopExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\CoffeeShopExample\bin\Debug\CoffeeShopExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\CoffeeShopExample\obj\Debug\CoffeeShopExample.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\CoffeeShopExample\obj\Debug\CoffeeShopExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\CoffeeShopExample\obj\Debug\CoffeeShopExample.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Decorator\CoffeeShopExample\bin\Debug\CoffeeShopExample.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Decorator\CoffeeShopExample\obj\Debug\CoffeeShopExample.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW15-Structural-Patterns\Decorator\CoffeeShopExample\obj\Debug\CoffeeShopExample.pdb
