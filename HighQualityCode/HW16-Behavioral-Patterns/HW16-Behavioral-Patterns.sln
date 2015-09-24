@@ -3,8 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneStoreExample", "PhoneStoreExample\PhoneStoreExample.csproj", "{779D1311-3808-4DEB-8543-A6654D250193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StocksExchangeExample", "StocksExchangeExample\StocksExchangeExample.csproj", "{EB113CDB-BA16-4956-979C-B81BB5F6FFA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChainOfResponsibility-Specification", "ChainOfResponsibility-Specification", "{2218FE61-C89E-4951-92E3-779BC2AFAE65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Observer", "Observer", "{87415ED5-D1F9-42A1-A4F4-9525C102CBD3}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779D1311-3808-4DEB-8543-A6654D250193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779D1311-3808-4DEB-8543-A6654D250193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779D1311-3808-4DEB-8543-A6654D250193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779D1311-3808-4DEB-8543-A6654D250193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB113CDB-BA16-4956-979C-B81BB5F6FFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB113CDB-BA16-4956-979C-B81BB5F6FFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB113CDB-BA16-4956-979C-B81BB5F6FFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB113CDB-BA16-4956-979C-B81BB5F6FFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{779D1311-3808-4DEB-8543-A6654D250193} = {2218FE61-C89E-4951-92E3-779BC2AFAE65}
+		{EB113CDB-BA16-4956-979C-B81BB5F6FFA9} = {87415ED5-D1F9-42A1-A4F4-9525C102CBD3}
 	EndGlobalSection
 EndGlobal
