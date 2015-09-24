@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\StocksExchangeExample\bin\Debug\StocksExchangeExample.exe.config
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\StocksExchangeExample\bin\Debug\StocksExchangeExample.exe
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\StocksExchangeExample\bin\Debug\StocksExchangeExample.pdb
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\StocksExchangeExample\obj\Debug\StocksExchangeExample.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\StocksExchangeExample\obj\Debug\StocksExchangeExample.exe
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\StocksExchangeExample\obj\Debug\StocksExchangeExample.pdb
