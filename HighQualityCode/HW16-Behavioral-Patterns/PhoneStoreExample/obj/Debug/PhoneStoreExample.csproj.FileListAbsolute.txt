@@ -1,6 +1,0 @@
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\PhoneStoreExample\bin\Debug\PhoneStoreExample.exe.config
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\PhoneStoreExample\obj\Debug\PhoneStoreExample.csprojResolveAssemblyReference.cache
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\PhoneStoreExample\bin\Debug\PhoneStoreExample.exe
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\PhoneStoreExample\bin\Debug\PhoneStoreExample.pdb
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\PhoneStoreExample\obj\Debug\PhoneStoreExample.exe
-D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\HighQualityCode\HW16-Behavioral-Patterns\PhoneStoreExample\obj\Debug\PhoneStoreExample.pdb
