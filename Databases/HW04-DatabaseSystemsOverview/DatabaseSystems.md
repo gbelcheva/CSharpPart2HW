@@ -100,7 +100,7 @@ A NoSQL database does not rely on relations between tables and data consistency,
     * Open-source.
     
     Cons
-    * Concurrency issues -- no consistency make it unreliable.
+    * Concurrency issues -- no consistency makes it unreliable.
     * Resource-hungry due to indexing. 
     * Manual transaction management.
 
@@ -121,10 +121,12 @@ A NoSQL database does not rely on relations between tables and data consistency,
     * Data replication ensures reliable access.
     * Column-oriented data model.
     * Tunable consistency can be eventual or strong.
-    * Scalable and reliable.
+    * Scalable, distributed and reliable.
     * Robust peer-to-peer architecture.
     * Open-source.
     
     Cons
-    * Not suitable for storing large and/or complex data.
-    * Performance suffers from persistency snapshots and memory fragmentation.
+    * Completely non-relational.
+    * Querying optiones are limited.
+    * Low level of normalization.
+    * Data is modeled around most common queries.
