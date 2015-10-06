@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\bin\Debug\ProcessTelerikRssFeed.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\bin\Debug\ProcessTelerikRssFeed.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\bin\Debug\ProcessTelerikRssFeed.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\obj\Debug\ProcessTelerikRssFeed.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\obj\Debug\ProcessTelerikRssFeed.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\obj\Debug\ProcessTelerikRssFeed.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\bin\Debug\Newtonsoft.Json.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\HW03-JSONProcessingInDotNet\ProcessTelerikRssFeed\bin\Debug\Newtonsoft.Json.xml

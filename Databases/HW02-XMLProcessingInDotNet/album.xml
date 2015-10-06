@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+	<album>
+		<name>80S Greatest Hits</name>
+		<author>Various Artists</author>
+	</album>
+	<album>
+		<name>Sorry For Party Rocking</name>
+		<author>LMFAO</author>
+	</album>
+	<album>
+		<name>Party Rock</name>
+		<author>LMFAO</author>
+	</album>
+</albums>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue.xslt"?>
+<catalogue
+  xmlns:album="urn:albums">
+  <album>
+    <name>80S Greatest Hits</name>
+    <artist>Various Artists</artist>
+    <year>2003</year>
+    <producer>Various Producers</producer>
+    <price>10.99</price>
+    <songs>
+      <song>
+        <title>Do You Really Want To Hurt Me</title>
+        <duration>4:22</duration>
+      </song>
+      <song>
+        <title>Take On Me </title>
+        <duration>3:18</duration>
+      </song>
+      <song>
+        <title>Push It</title>
+        <duration>4:30</duration>
+      </song>
+      <song>
+        <title>Billy Jean</title>
+        <duration>4:54</duration>
+      </song>
+      <song>
+        <title>Livin' on a Prayer</title>
+        <duration>4:11</duration>
+      </song>
+      <song>
+        <title>It's A Sin</title>
+        <duration>4:59</duration>
+      </song>
+      <song>
+        <title>When Doves Cry</title>
+        <duration>3:47</duration>
+      </song>
+      <song>
+        <title>Sweet Child O' Mine</title>
+        <duration>3:47</duration>
+      </song>
+      <song>
+        <title>Summer of '69</title>
+        <duration>3:32</duration>
+      </song>
+      <song>
+        <title>Don't You Forget About Me</title>
+        <duration>4:23</duration>
+      </song>
+      <song>
+        <title>With Or Without You</title>
+        <duration>4:56</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Sorry For Party Rocking</name>
+    <artist>LMFAO</artist>
+    <year>2011</year>
+    <producer>will.i.am.</producer>
+    <price>21.99</price>
+    <songs>
+      <song>
+        <title>Rock the Beat II (Intro)</title>
+        <duration>1:53</duration>
+      </song>
+      <song>
+        <title>Sorry for Party Rocking</title>
+        <duration>3:23</duration>
+      </song>
+      <song>
+        <title>Party Rock Anthem</title>
+        <duration>4:22</duration>
+      </song>
+      <song>
+        <title>Sexy and I Know It</title>
+        <duration>3:19</duration>
+      </song>
+      <song>
+        <title>Champagne Showers</title>
+        <duration>4:23</duration>
+      </song>
+      <song>
+        <title>One Day</title>
+        <duration>3:17</duration>
+      </song>
+      <song>
+        <title>Take It to the Hole</title>
+        <duration>3:36</duration>
+      </song>
+      <song>
+        <title>Best Night</title>
+        <duration>4:58</duration>
+      </song>
+      <song>
+        <title>All Night Long</title>
+        <duration>3:47</duration>
+      </song>
+      <song>
+        <title>With You</title>
+        <duration>4:13</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Party Rock</name>
+    <artist>LMFAO</artist>
+    <year>2009</year>
+    <producer>will.i.am.</producer>
+    <price>20.99</price>
+    <songs>
+      <song>
+        <title>Rock the Beat</title>
+        <duration>0:54</duration>
+      </song>
+      <song>
+        <title>I'm in Miami Bitch</title>
+        <duration>3:48</duration>
+      </song>
+      <song>
+        <title>Get Crazy</title>
+        <duration>3:45</duration>
+      </song>
+      <song>
+        <title>Lil' Hipster Girl</title>
+        <duration>3:21</duration>
+      </song>
+      <song>
+        <title>La La La</title>
+        <duration>3:29</duration>
+      </song>
+      <song>
+        <title>What Happens at the Party</title>
+        <duration>5:54</duration>
+      </song>
+      <song>
+        <title>Leaving U 4 the Groove</title>
+        <duration>3:31</duration>
+      </song>
+      <song>
+        <title>I Don't Wanna Be</title>
+        <duration>3:37</duration>
+      </song>
+      <song>
+        <title>Shots</title>
+        <duration>3:41</duration>
+      </song>
+      <song>
+        <title>Bounce</title>
+        <duration>4:02</duration>
+      </song>
+      <song>
+        <title>I Shake, I Move</title>
+        <duration>3:03</duration>
+      </song>
+      <song>
+        <title>I Am Not a Whore</title>
+        <duration>3:15</duration>
+      </song>
+      <song>
+        <title>Yes</title>
+        <duration>3:03</duration>
+      </song>
+      <song>
+        <title>Scream My Name</title>
+        <duration>4:17</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

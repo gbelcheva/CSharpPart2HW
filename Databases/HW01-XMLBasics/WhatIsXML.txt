@@ -1,0 +1,3 @@
+XML is a markup language used for describing structured information. 
+The Extensible Markup Language uses a set of rules and tags to encode data in bith human-readable and machine-readable format. 
+The XML syntax is useful for storing and transporting data.

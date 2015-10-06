@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students
+  xmlns:student="urn:students">
+  <student>
+    <name>Ivan Ivanov</name>
+    <sex>male</sex>
+    <birth-date>01-10-1990</birth-date>
+    <phone>555-55-22</phone>
+    <email>ivan.ivanov@gmail.com</email>
+    <course>Telerik Academy</course>
+    <speciality>Web Developer</speciality>
+    <faculty-number>5078953</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>C#1</name>
+        <tutor>C# Tutor</tutor>
+        <score>480</score>
+      </exam>
+      <exam>
+        <name>C#2</name>
+        <tutor>C# Tutor</tutor>
+        <score>500</score>
+      </exam>
+    </taken-exams>
+    <enrolment>
+      <date>10-10-2014</date>
+      <exam-score>90</exam-score>
+    </enrolment>
+    <teachers-endorsements>
+      <endorsement>Very good student!</endorsement>
+      <endorsement>Two thumbs up!</endorsement>
+      <endorsement>Exceptional!</endorsement>
+    </teachers-endorsements>
+  </student>
+  <student>
+    <name>Maria Mariova</name>
+    <sex>female</sex>
+    <birth-date>05-11-1985</birth-date>
+    <phone>555-55-11</phone>
+    <email>maria.mariova@gmail.com</email>
+    <course>Telerik Academy</course>
+    <speciality>Mobile Developer</speciality>
+    <faculty-number>8097142</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>C#1</name>
+        <tutor>C# Tutor</tutor>
+        <score>500</score>
+      </exam>
+      <exam>
+        <name>OOP</name>
+        <tutor>OOP Tutor</tutor>
+        <score>485</score>
+      </exam>
+    </taken-exams>
+    <enrolment>
+      <date>10-10-2014</date>
+      <exam-score>91</exam-score>
+    </enrolment>
+    <teachers-endorsements>
+      <endorsement>Brilliant!</endorsement>
+      <endorsement>Very good!</endorsement>
+    </teachers-endorsements>
+  </student>
+</students>

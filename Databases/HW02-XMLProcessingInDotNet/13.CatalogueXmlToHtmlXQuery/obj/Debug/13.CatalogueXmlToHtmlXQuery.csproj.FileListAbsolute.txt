@@ -1,0 +1,17 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\13.CatalogueXmlToHtmlXQuery.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\13.CatalogueXmlToHtmlXQuery.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\13.CatalogueXmlToHtmlXQuery.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\Saxon2.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\saxon9he-api.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\saxon9he.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\IKVM.Runtime.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\Saxon2.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\bin\Debug\saxon9he-api.xml
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\obj\Debug\13.CatalogueXmlToHtmlXQuery.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\obj\Debug\13.CatalogueXmlToHtmlXQuery.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\13.CatalogueXmlToHtmlXQuery\obj\Debug\13.CatalogueXmlToHtmlXQuery.pdb

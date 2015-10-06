@@ -1,0 +1,2 @@
+XML namespaces provide uniquely named tags and attributes. 
+This prevents ambiguity between identically named elements or attributes

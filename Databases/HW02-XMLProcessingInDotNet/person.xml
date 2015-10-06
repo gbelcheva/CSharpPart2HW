@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<person xmlns="urn:person">
+  <name>Ivan Ivanov</name>
+  <address>Shipka 6, Sofia 1000, Bulgaria</address>
+  <phone>00359888799565</phone>
+</person>

@@ -1,0 +1,15 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\Saxon2.dll.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\Saxon2.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\Saxon2.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\saxon9he-api.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\saxon9he.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\IKVM.Runtime.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\bin\Debug\saxon9he-api.xml
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\obj\Debug\Saxon2.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\obj\Debug\Saxon2.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Databases\New folder\Saxon2\obj\Debug\Saxon2.pdb
