@@ -127,6 +127,6 @@ A NoSQL database does not rely on relations between tables and data consistency,
     
     Cons
     * Completely non-relational.
-    * Querying optiones are limited.
+    * Querying options are limited.
     * Low level of normalization.
     * Data is modeled around most common queries.
