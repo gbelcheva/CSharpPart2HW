@@ -66,7 +66,7 @@ Cons:
 
 ## 9. What's the main purpose of the SQL language?
 
-The SQL language is used for querying databases. It allows easy manipulation of big relational databases. SQL supports creating, altering and deleting tables and objects. Also, searching, retrieving, modifying and deleting table rows. It consisrs od Data Definition Language (DDL) for CREATE, ALTER and DROP commands, and Data Manipulation Language (DML) for SELECT, INSERT, UPDATE and DELETE commands.
+The SQL language is used for querying databases. It allows easy manipulation of big relational databases. SQL supports creating, altering and deleting tables and objects. Also, searching, retrieving, modifying and deleting table rows. It consisrs of Data Definition Language (DDL) for CREATE, ALTER and DROP commands, and Data Manipulation Language (DML) for SELECT, INSERT, UPDATE and DELETE commands.
 
 ## 10. What are transactions used for?
 
