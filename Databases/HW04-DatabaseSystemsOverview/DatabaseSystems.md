@@ -38,7 +38,7 @@ When a database contains redundant data, it can be normalized by organizing the 
 
 ####    What are the advantages of normalized databases?
 
-* Prevent update anomalies. They minimize logical inconsistencies when data is updated.
+* Prevent update anomalies. Normalization minimizes logical inconsistencies when data is updated.
 * Prevent insertion anomalies, where a record cannot be inserted in the database due to inconsistencies.
 * Prevent deletion anomalies, where the deletion of one piece of data necessitates the deletion of other unrelated data.
 * Allow extending of the database structure without affecting applications that already use it.
