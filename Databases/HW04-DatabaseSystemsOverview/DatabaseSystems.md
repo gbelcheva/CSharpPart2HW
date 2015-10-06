@@ -82,11 +82,11 @@ A NoSQL database does not rely on relations between tables and data consistency,
 
 ## 12. Explain the classical non-relational data models.
 
-* Document model -- data is stored in a set document objects.
-* Key-value model -- data is stored in a set of key-value pairs.
-* Hierarchical key-value model -- data is stored in a hierarchical structure of key-value pairs.
-* Wide-column model -- 
-* Object model -- data is stored in a set of OOP objects.
+* Document model -- Data is stored in a set document objects.
+* Key-value model -- Data is stored in a set of key-value pairs.
+* Hierarchical key-value model -- Data is stored in a hierarchical structure of key-value pairs.
+* Wide-column model -- Data is stored in records withan ability to hold very large numbers of dynamic columns.
+* Object model -- Data is stored in a set of OOP objects.
 
 ## 13. Give few examples of NoSQL databases and their pros and cons.
 
