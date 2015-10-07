@@ -15,8 +15,8 @@
 ![4](https://github.com/gbelcheva/TelerikAcademy/raw/master/Databases/HW05-SqlServerMySqlIntroduction/04.north-restored-from-northwind-backup.jpg)
 
 ##### Export the entire `Northwind` database as SQL script
-* #####	Use `[Tasks]` > `[Generate Scripts]`
-* #####	Ensure you have exported table data rows (not only the schema).
+##### * 	Use `[Tasks]` > `[Generate Scripts]`
+##### *	Ensure you have exported table data rows (not only the schema).
 
 ##### Create a database NW and execute the script in it to create the database and populate table data.
 ![5](https://github.com/gbelcheva/TelerikAcademy/raw/master/Databases/HW05-SqlServerMySqlIntroduction/05.nw-populated.jpg)
