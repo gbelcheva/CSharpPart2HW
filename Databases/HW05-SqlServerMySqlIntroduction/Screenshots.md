@@ -1,4 +1,5 @@
 ## SQL Server and MySQL - Introduction
+-------
 
 ##### Create a new database `Pubs` and create new login with permissions to connect to it. 
 
