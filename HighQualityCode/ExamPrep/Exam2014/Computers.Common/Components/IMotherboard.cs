@@ -1,7 +1,7 @@
 namespace Computers.Common.Components
 {
     /// <summary>
-    /// 
+    /// Defines motherboard functionality.
     /// </summary>
     public interface IMotherboard 
     { 

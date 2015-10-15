@@ -2,11 +2,11 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
     using Computers.Common.Components;
     using Computers.Common.Components.CPUs;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
     using Moq;
-    using System.Linq;
 
     [TestClass]
     public class CpuRandTests

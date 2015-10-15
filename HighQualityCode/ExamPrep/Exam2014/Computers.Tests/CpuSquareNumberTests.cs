@@ -24,7 +24,6 @@
                 .Verify(x => x.DrawOnVideoCard(It.Is<string>(param => param.Contains("12321"))));
         }
 
-
         [TestMethod]
         public void ShouldShowNumberTooLowMessageWhenNumberLessThan0()
         {

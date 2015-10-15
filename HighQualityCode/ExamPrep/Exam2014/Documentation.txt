@@ -26,9 +26,10 @@ Found bugs:
 	* 
 
 Single responsibility principle
-	* SomeClass is doing exactly one job.
+	* SomeClass is doing exactly one job and has exactly one reason to change.
 
 Open/closed principle
+	* open for extension, closed for modification.
 	* new implementations can be added and are interchangeable with the old ones without modifying the existing code.
 
 Liskov substitution principle
@@ -39,3 +40,4 @@ Interface segregation principle
 
 Dependency inversion principle
 	* SomeClass accepts an abstract interface and so it doesn't depend on a specific implementation.
+	* all dependencies of SomeClass are passed by the classes that use it
