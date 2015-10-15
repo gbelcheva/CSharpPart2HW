@@ -21,3 +21,9 @@
 * [opencover](https://github.com/OpenCover/opencover/releases/download/4.6.210-rc/opencover.4.6.210.msi)
 * OpenCover UI
 * C:\Users\My-User\AppData\Local\Apps\OpenCover\OpenCover.Console.exe
+
+## Moq
+
+## Pinned tabs separate line
+
+## [assembly: InternalsVisibleTo("Computers.Tests")]

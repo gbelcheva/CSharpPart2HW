@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E99C3E0-0479-4D26-AEFB-3F0ECF150061}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Computers.Common</RootNamespace>
+    <AssemblyName>Computers.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\CPUs\Cpu.cs" />
+    <Compile Include="Components\CPUs\Cpu128.cs" />
+    <Compile Include="Components\CPUs\Cpu32.cs" />
+    <Compile Include="Components\CPUs\Cpu64.cs" />
+    <Compile Include="Components\HardDrives\HardDrive.cs" />
+    <Compile Include="Components\HardDrives\RaidArray.cs" />
+    <Compile Include="Components\HardDrives\SingleHardDrive.cs" />
+    <Compile Include="Components\IMotherboardComponent.cs" />
+    <Compile Include="Components\LaptopBattery.cs" />
+    <Compile Include="Components\Motherboard.cs" />
+    <Compile Include="Components\Ram.cs" />
+    <Compile Include="Components\VideoCard.cs" />
+    <Compile Include="ComputerTypes\Computer.cs" />
+    <Compile Include="ComputerTypes\Laptop.cs" />
+    <Compile Include="ComputerTypes\PersonalComputer.cs" />
+    <Compile Include="ComputerTypes\Server.cs" />
+    <Compile Include="Components\IMotherboard.cs" />
+    <Compile Include="InvalidArgumentException.cs" />
+    <Compile Include="Manufacturers\Contracts\IComputersManufacturer.cs" />
+    <Compile Include="Manufacturers\DellComputersManufacturer.cs" />
+    <Compile Include="Manufacturers\HpComputersManufacturer.cs" />
+    <Compile Include="Manufacturers\LenovoComputersManufacturer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
