@@ -11,7 +11,7 @@
 
 2.	What is Transact-SQL (T-SQL)?
 
-Transact-SQL is high-level extension of SQL. It is standardly used in MS SQL Server. Some of the extended features are if-statements, loops and exceptions. It allows writing stored procedures, triggers, etc.
+    Transact-SQL is high-level extension of SQL. It is standardly used in MS SQL Server. Some of the extended features are if-statements, loops and exceptions. It allows writing stored procedures, triggers, etc.
 
 3.	Start SQL Management Studio and connect to the database TelerikAcademy. Examine the major tables in the "TelerikAcademy" database.
 4.	Write a SQL query to find all information about all departments (use "TelerikAcademy" database).
