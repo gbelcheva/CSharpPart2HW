@@ -3,10 +3,10 @@
 
 1.	What is SQL? What is DML? What is DDL? Recite the most important SQL commands.
 
-* SQL stands for Structured Query Language. It is used for querying databases - selecting, inserting, updating and deleting data.
-* DML stands for Data Manipulation Language. It is part of the SQL syntax that is used to manipulate the data. Sample commands: SELECT, INSERT, UPDATE, DELETE.
-* DDL stands for Data Definition Language. It is part of the SQL syntax that is used to manipulate the schema(design) of the database. Sample commands: CREATE, DROP, ALTER, GRANT, REVOKE.
-* Most important commands - SELECT
+    * SQL stands for Structured Query Language. It is used for querying databases - selecting, inserting, updating and deleting data.
+    * DML stands for Data Manipulation Language. It is part of the SQL syntax that is used to manipulate the data. Sample commands: SELECT, INSERT, UPDATE, DELETE.
+    * DDL stands for Data Definition Language. It is part of the SQL syntax that is used to manipulate the schema(design) of the database. Sample commands: CREATE, DROP, ALTER, GRANT, REVOKE.
+    * Most important commands - SELECT
 
 
 2.	What is Transact-SQL (T-SQL)?
@@ -24,12 +24,12 @@ SELECT * FROM TelerikAcademy.dbo.Departments
 5.	Write a SQL query to find all department names.
 6.	Write a SQL query to find the salary of each employee.
 7.	Write a SQL to find the full name of each employee.
-8.	Write a SQL query to find the email addresses of each employee (by his first and last name). Consider that the mail domain is telerik.com. Emails should look like “John.Doe@telerik.com". The produced column should be named "Full Email Addresses".
+8.	Write a SQL query to find the email addresses of each employee (by his first and last name). Consider that the mail domain is telerik.com. Emails should look like John.Doe@telerik.com". The produced column should be named "Full Email Addresses".
 9.	Write a SQL query to find all different employee salaries.
-10.	Write a SQL query to find all information about the employees whose job title is “Sales Representative“.
+10.	Write a SQL query to find all information about the employees whose job title is Sales Representative.
 11.	Write a SQL query to find the names of all employees whose first name starts with "SA".
 12.	Write a SQL query to find the names of all employees whose last name contains "ei".
-13.	Write a SQL query to find the salary of all employees whose salary is in the range [20000…30000].
+13.	Write a SQL query to find the salary of all employees whose salary is in the range [2000030000].
 14.	Write a SQL query to find the names of all employees whose salary is 25000, 14000, 12500 or 23600.
 15.	Write a SQL query to find all employees that do not have manager.
 16.	Write a SQL query to find all employees that have salary more than 50000. Order them in decreasing order by salary.
