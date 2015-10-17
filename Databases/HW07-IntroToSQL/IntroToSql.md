@@ -40,7 +40,7 @@
 7.	Write a SQL to find the full name of each employee.
     
     ```SQL
-    SELECT e.FirstName + ' ' + e.LastName AS FullName 
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name' 
     FROM TelerikAcademy.dbo.Employees e
     ```
     
@@ -70,7 +70,7 @@
     ```SQL
     SELECT e.FirstName + ' ' + e.LastName AS 'Full Name'
     FROM TelerikAcademy.dbo.Employees e
-    WHERE e.FirstName LIKE 'SA%'
+    WHERE e.FirstName LIKE 'Sa%'
     ```
     
 12.	Write a SQL query to find the names of all employees whose last name contains "ei".
@@ -78,7 +78,7 @@
     ```SQL
     SELECT e.FirstName + ' ' + e.LastName AS 'Full Name'
     FROM TelerikAcademy.dbo.Employees e
-    WHERE e.LastName LIKE '%AI%'
+    WHERE e.LastName LIKE '%ai%'
     ```
 
 13.	Write a SQL query to find the salary of all employees whose salary is in the range [2000030000].
@@ -92,43 +92,60 @@
 14.	Write a SQL query to find the names of all employees whose salary is 25000, 14000, 12500 or 23600.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name', e.Salary
+    FROM TelerikAcademy.dbo.Employees e
+    WHERE e.Salary IN (25000, 14000, 12500, 23600)
     ```
     
 15.	Write a SQL query to find all employees that do not have manager.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name', e.ManagerID
+    FROM TelerikAcademy.dbo.Employees e
+    WHERE e.ManagerID IS NULL
     ```
     
 16.	Write a SQL query to find all employees that have salary more than 50000. Order them in decreasing order by salary.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name', e.Salary
+    FROM TelerikAcademy.dbo.Employees e
+    WHERE e.Salary > 50000
+    ORDER BY e.Salary DESC
     ```
     
 17.	Write a SQL query to find the top 5 best paid employees.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT TOP(5) e.FirstName + ' ' + e.LastName AS 'Full Name', e.Salary
+    FROM TelerikAcademy.dbo.Employees e
+    ORDER BY e.Salary DESC
     ```
 
 18.	Write a SQL query to find all employees along with their address. Use inner join with `ON` clause.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name', a.AddressText
+    FROM TelerikAcademy.dbo.Employees e
+		JOIN TelerikAcademy.dbo.Addresses a
+			ON e.AddressID = a.AddressID
     ```
     
 19.	Write a SQL query to find all employees and their address. Use equijoins (conditions in the `WHERE` clause).
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name', a.AddressText
+    FROM TelerikAcademy.dbo.Employees e, TelerikAcademy.dbo.Addresses a
+	WHERE e.AddressID = a.AddressID
     ```
     
 20.	Write a SQL query to find all employees along with their manager.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Employee Full Name', 
+		m.FirstName + ' ' + m.LastName AS 'Manager Full Name'
+    FROM TelerikAcademy.dbo.Employees e JOIN TelerikAcademy.dbo.Employees m
+	ON e.ManagerID = m.EmployeeID
     ```
     
 21.	Write a SQL query to find all employees, along with their manager and their address. Join the 3 tables: `Employees e`, `Employees m` and `Addresses a`.
