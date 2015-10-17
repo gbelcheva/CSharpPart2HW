@@ -47,36 +47,46 @@
 8.	Write a SQL query to find the email addresses of each employee (by his first and last name). Consider that the mail domain is telerik.com. Emails should look like John.Doe@telerik.com". The produced column should be named "Full Email Addresses".
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + e.LastName + '@telerik.com' AS 'Full Email Addresses'
+    FROM TelerikAcademy.dbo.Employees e
     ```
     
 9.	Write a SQL query to find all different employee salaries.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT DISTINCT e.Salary 
+    FROM TelerikAcademy.dbo.Employees e
     ```
     
 10.	Write a SQL query to find all information about the employees whose job title is Sales Representative.
     
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT *
+    FROM TelerikAcademy.dbo.Employees e
+    WHERE e.JobTitle = 'Sales Representative'
     ```
 11.	Write a SQL query to find the names of all employees whose first name starts with "SA".
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name'
+    FROM TelerikAcademy.dbo.Employees e
+    WHERE e.FirstName LIKE 'SA%'
     ```
     
 12.	Write a SQL query to find the names of all employees whose last name contains "ei".
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name'
+    FROM TelerikAcademy.dbo.Employees e
+    WHERE e.LastName LIKE '%AI%'
     ```
 
 13.	Write a SQL query to find the salary of all employees whose salary is in the range [2000030000].
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.Salary
+    FROM TelerikAcademy.dbo.Employees e
+    WHERE (20000 <= e.Salary) AND (e.Salary <= 30000)
     ```
 
 14.	Write a SQL query to find the names of all employees whose salary is 25000, 14000, 12500 or 23600.
