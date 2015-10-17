@@ -127,7 +127,7 @@
     SELECT e.FirstName + ' ' + e.LastName AS 'Full Name', a.AddressText
     FROM TelerikAcademy.dbo.Employees e
 		JOIN TelerikAcademy.dbo.Addresses a
-			ON e.AddressID = a.AddressID
+		ON e.AddressID = a.AddressID
     ```
     
 19.	Write a SQL query to find all employees and their address. Use equijoins (conditions in the `WHERE` clause).
@@ -143,7 +143,8 @@
     ```SQL
     SELECT e.FirstName + ' ' + e.LastName AS 'Employee Full Name', 
 		m.FirstName + ' ' + m.LastName AS 'Manager Full Name'
-    FROM TelerikAcademy.dbo.Employees e JOIN TelerikAcademy.dbo.Employees m
+    FROM TelerikAcademy.dbo.Employees e 
+    JOIN TelerikAcademy.dbo.Employees m
 	ON e.ManagerID = m.EmployeeID
     ```
     
