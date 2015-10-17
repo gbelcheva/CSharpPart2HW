@@ -151,22 +151,53 @@
 21.	Write a SQL query to find all employees, along with their manager and their address. Join the 3 tables: `Employees e`, `Employees m` and `Addresses a`.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Employee Full Name', 
+		m.FirstName + ' ' + m.LastName AS 'Manager Full Name',
+		a.AddressText
+    FROM TelerikAcademy.dbo.Employees e 
+	JOIN TelerikAcademy.dbo.Employees m
+	ON e.ManagerID = m.EmployeeID
+	JOIN TelerikAcademy.dbo.Addresses a
+	ON e.AddressID = a.AddressID
+
     ```
     
 22.	Write a SQL query to find all departments and all town names as a single list. Use `UNION`.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT d.Name
+    FROM TelerikAcademy.dbo.Departments d
+    UNION
+    SELECT t.Name
+    FROM TelerikAcademy.dbo.Towns t
     ```
 23.	Write a SQL query to find all the employees and the manager for each of them along with the employees that do not have manager. Use right outer join. Rewrite the query to use left outer join.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name',
+		m.FirstName + ' ' + m.LastName AS 'Manager Full Name'
+	FROM TelerikAcademy.dbo.Employees m
+	RIGHT OUTER JOIN TelerikAcademy.dbo.Employees e
+	ON e.ManagerID = m.EmployeeID
+    ```
+
+    ```SQL
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name',
+		m.FirstName + ' ' + m.LastName AS 'Manager Full Name'
+	FROM TelerikAcademy.dbo.Employees e
+	LEFT OUTER JOIN TelerikAcademy.dbo.Employees m
+	ON e.ManagerID = m.EmployeeID
     ```
     
 24.	Write a SQL query to find the names of all employees from the departments "Sales" and "Finance" whose hire year is between 1995 and 2005.
 
     ```SQL
-    SELECT * FROM TelerikAcademy.dbo.Departments
+    SELECT e.FirstName + ' ' + e.LastName AS 'Full Name', 
+		e.HireDate, 
+		d.Name AS 'Department'
+	FROM TelerikAcademy.dbo.Employees e
+    JOIN TelerikAcademy.dbo.Departments d
+    ON e.DepartmentID = d.DepartmentID
+	WHERE d.Name IN ('Sales', 'Finance') AND
+		1995 <= YEAR(e.HireDate) AND YEAR(e.HireDate) <= 2005
     ```
