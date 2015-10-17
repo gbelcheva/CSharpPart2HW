@@ -6,8 +6,7 @@
     * SQL stands for Structured Query Language. It is used for querying databases - selecting, inserting, updating and deleting data.
     * DML stands for Data Manipulation Language. It is part of the SQL syntax that is used to manipulate the data. Sample commands: SELECT, INSERT, UPDATE, DELETE.
     * DDL stands for Data Definition Language. It is part of the SQL syntax that is used to manipulate the schema(design) of the database. Sample commands: CREATE, DROP, ALTER, GRANT, REVOKE.
-    * Most important commands - SELECT
-
+    * Most important commands - SELECT, INSERT, UPDATE, DELETE
 
 2.	What is Transact-SQL (T-SQL)?
 
