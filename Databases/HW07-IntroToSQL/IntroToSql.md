@@ -199,5 +199,5 @@
     JOIN TelerikAcademy.dbo.Departments d
     ON e.DepartmentID = d.DepartmentID
 	WHERE d.Name IN ('Sales', 'Finance') AND
-		1995 <= YEAR(e.HireDate) AND YEAR(e.HireDate) <= 2005
+		1995 < YEAR(e.HireDate) AND YEAR(e.HireDate) < 2005
     ```
