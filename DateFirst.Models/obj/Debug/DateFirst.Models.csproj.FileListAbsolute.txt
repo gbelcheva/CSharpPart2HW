@@ -1,0 +1,14 @@
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.csprojResolveAssemblyReference.cache
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.dll.config
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.dll
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.pdb
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.dll
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.xml
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.dll
+c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.pdb
