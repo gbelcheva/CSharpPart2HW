@@ -17,7 +17,7 @@
             this.repositories = new Dictionary<Type, object>();
         }
 
-        public IRepository<Department> Department
+        public IRepository<Department> Departments
         {
             get
             {
@@ -25,7 +25,7 @@
             }
         }
 
-        public IRepository<Hobby> Hobby
+        public IRepository<Hobby> Hobbies
         {
             get
             {
@@ -33,7 +33,7 @@
             }
         }
 
-        public IRepository<Image> Image
+        public IRepository<Image> Images
         {
             get
             {
@@ -41,7 +41,7 @@
             }
         }
 
-        public IRepository<Notification> Notification
+        public IRepository<Notification> Notifications
         {
             get
             {
@@ -49,7 +49,7 @@
             }
         }
 
-        public IRepository<Post> Post
+        public IRepository<Post> Posts
         {
             get
             {
@@ -57,7 +57,7 @@
             }
         }
 
-        public IRepository<Town> Town
+        public IRepository<Town> Towns
         {
             get
             {
@@ -65,7 +65,7 @@
             }
         }
 
-        public IRepository<User> User
+        public IRepository<User> Users
         {
             get
             {
@@ -73,7 +73,7 @@
             }
         }
 
-        public IRepository<UserProfile> UserProfile
+        public IRepository<UserProfile> UserProfiles
         {
             get
             {

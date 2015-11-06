@@ -5,21 +5,21 @@
 
     public interface IDateFirstData
     {
-        IRepository<Department> Department { get; }
+        IRepository<Department> Departments { get; }
 
-        IRepository<Hobby> Hobby { get; }
+        IRepository<Hobby> Hobbies { get; }
 
-        IRepository<Image> Image { get; }
+        IRepository<Image> Images { get; }
 
-        IRepository<Notification> Notification { get; }
+        IRepository<Notification> Notifications { get; }
 
-        IRepository<Post> Post { get; }
+        IRepository<Post> Posts { get; }
 
-        IRepository<Town> Town { get; }
+        IRepository<Town> Towns { get; }
 
-        IRepository<User> User { get; }
+        IRepository<User> Users { get; }
 
-        IRepository<UserProfile> UserProfile { get; }
+        IRepository<UserProfile> UserProfiles { get; }
 
         int SaveChanges();
     }
