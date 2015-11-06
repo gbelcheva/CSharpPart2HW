@@ -1,243 +1,99 @@
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\csc.exe
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\System.Collections.Immutable.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\vbc.exe
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\VBCSCompiler.exe
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\roslyn\VBCSCompiler.exe.config
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\DateFirst.Service.dll.config
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\DateFirst.Service.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\DateFirst.Service.pdb
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Antlr3.Runtime.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\EntityFramework.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\EntityFramework.SqlServer.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Google.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Web.Infrastructure.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Newtonsoft.Json.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Owin.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Net.Http.Formatting.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Helpers.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Http.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Http.Owin.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Http.WebHost.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Mvc.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Optimization.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Razor.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Deployment.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.WebPages.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Razor.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\WebGrease.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Newtonsoft.Json.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Net.Http.Formatting.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Helpers.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Http.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Http.WebHost.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Mvc.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Optimization.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Razor.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.WebPages.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Deployment.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Razor.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Antlr3.Runtime.pdb
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\EntityFramework.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\EntityFramework.SqlServer.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Google.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\System.Web.Http.Owin.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\obj\Debug\DateFirst.Service.csprojResolveAssemblyReference.cache
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\obj\Debug\DateFirst.Service.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\obj\Debug\DateFirst.Service.pdb
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\DateFirst.Data.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\DateFirst.Models.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\DateFirst.Data.pdb
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Service\bin\DateFirst.Models.pdb
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\csc.exe
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\vbc.exe
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\VBCSCompiler.exe
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\DateFirst.Service.dll.config
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\DateFirst.Service.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\DateFirst.Service.pdb
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Antlr3.Runtime.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\DateFirst.Data.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\DateFirst.Models.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\EntityFramework.SqlServer.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Newtonsoft.Json.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Owin.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Net.Http.Formatting.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Helpers.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Http.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Http.Owin.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Http.WebHost.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Mvc.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Optimization.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Razor.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.WebPages.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.WebPages.Razor.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\WebGrease.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\DateFirst.Data.pdb
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\DateFirst.Models.pdb
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Newtonsoft.Json.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Net.Http.Formatting.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Helpers.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Http.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Http.WebHost.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Mvc.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Optimization.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Razor.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.WebPages.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.WebPages.Razor.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Antlr3.Runtime.pdb
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\EntityFramework.SqlServer.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\bin\System.Web.Http.Owin.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\obj\Debug\DateFirst.Service.csprojResolveAssemblyReference.cache
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\obj\Debug\DateFirst.Service.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Service\obj\Debug\DateFirst.Service.pdb
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\csc.exe
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\vbc.exe
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\VBCSCompiler.exe
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\DateFirst.Service.dll.config
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\DateFirst.Service.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\DateFirst.Service.pdb
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Antlr3.Runtime.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\DateFirst.Data.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\DateFirst.Models.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\EntityFramework.SqlServer.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Newtonsoft.Json.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Owin.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Net.Http.Formatting.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Helpers.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Http.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Http.Owin.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Http.WebHost.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Mvc.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Optimization.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Razor.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.WebPages.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.WebPages.Razor.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\WebGrease.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\DateFirst.Data.pdb
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\DateFirst.Models.pdb
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Newtonsoft.Json.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Net.Http.Formatting.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Helpers.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Http.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Http.WebHost.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Mvc.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Optimization.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Razor.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.WebPages.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.WebPages.Razor.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Antlr3.Runtime.pdb
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\EntityFramework.SqlServer.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\bin\System.Web.Http.Owin.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\obj\Debug\DateFirst.Service.csprojResolveAssemblyReference.cache
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\obj\Debug\DateFirst.Service.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Service\obj\Debug\DateFirst.Service.pdb
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\csc.exe
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\vbc.exe
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Service.dll.config
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Service.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Service.pdb
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Antlr3.Runtime.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\AutoMapper.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Data.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Models.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Service.DataTransferModels.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\EntityFramework.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Newtonsoft.Json.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.Common.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.WebApi.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Owin.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Helpers.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Http.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Http.Owin.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Mvc.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Optimization.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Razor.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.WebPages.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\WebGrease.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Data.pdb
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Models.pdb
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\DateFirst.Service.DataTransferModels.pdb
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\AutoMapper.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.Common.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.WebApi.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Newtonsoft.Json.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Helpers.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Http.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Mvc.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Optimization.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Razor.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.WebPages.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Antlr3.Runtime.pdb
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\EntityFramework.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\bin\System.Web.Http.Owin.xml
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\obj\Debug\DateFirst.Service.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\obj\Debug\DateFirst.Service.dll
+C:\Users\John\Documents\GitHub\DateFirst\DateFirst.Service\obj\Debug\DateFirst.Service.pdb

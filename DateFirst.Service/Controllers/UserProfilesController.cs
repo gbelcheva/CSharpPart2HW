@@ -1,25 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Http;
-using System.Web.Mvc;
-using AutoMapper;
-using AutoMapper.QueryableExtensions;
-using DateFirst.Data;
-using DateFirst.Models;
-using DateFirst.Service.DataTransferModels;
-
-namespace DateFirst.Service.Controllers
+﻿namespace DateFirst.Service.Controllers
 {
+    using System.Linq;
+    using System.Web.Http;
+    using AutoMapper;
+    using AutoMapper.QueryableExtensions;
+    using Data;
+    using Data.Repositories;
+    using DateFirst.Models;
+    using DateFirst.Service.DataTransferModels;
+
+
     public class UserProfilesController : ApiController
     {
-        private DateFirstDbContext db = new DateFirstDbContext();
+        private readonly IDateFirstData data;
+
+        public UserProfilesController(IDateFirstData data)
+        {
+            this.data = data;
+        }
 
         // GET: UserProfiles
         public IHttpActionResult Get()
         {
-            var res = db.UserProfiles
+            var res = data.UserProfiles
+                .All()
                 .ProjectTo<UserTransferModel>()
                 .ToList();
 
@@ -41,8 +45,8 @@ namespace DateFirst.Service.Controllers
             //    Department = dept,
             //};
 
-            db.UserProfiles.Add(user);
-            db.SaveChanges();
+            data.UserProfiles.Add(user);
+            data.SaveChanges();
 
             return this.Ok(user);
         }
