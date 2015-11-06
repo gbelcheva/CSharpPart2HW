@@ -10,7 +10,7 @@
 
         public AdditionalInfo()
         {
-            this.Hobbies = this.hobbies;
+            this.Hobbies = new HashSet<Hobby>();
         }
 
         public int Id { get; set; }

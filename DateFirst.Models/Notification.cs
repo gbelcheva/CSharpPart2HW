@@ -18,8 +18,8 @@
         [MaxLength(150)]
         public string Content { get; set; }
 
-        public virtual UserProfile Receiver { get; set; }
+        public virtual User Receiver { get; set; }
 
-        public virtual UserProfile Sender { get; set; }
+        public virtual User Sender { get; set; }
     }
 }

@@ -11,9 +11,9 @@
 
         public UserProfile()
         {
-            this.Images = this.images;
-            this.Posts = this.posts;
-            this.Notifications = this.notifications;
+            this.Images = new HashSet<Image>();
+            this.Posts = new HashSet<Post>();
+            this.Notifications = new HashSet<Notification>();
         }
 
         public int Id { get; set; }
