@@ -333,6 +333,10 @@
       <Project>{8ba7a294-ea48-4bba-a31f-e58715dd0732}</Project>
       <Name>DateFirst.Api.DataTransferModels</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DateFirst.Services\DateFirst.Services.csproj">
+      <Project>{bd198312-5bb5-49e8-8802-3961fc3a7d17}</Project>
+      <Name>DateFirst.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

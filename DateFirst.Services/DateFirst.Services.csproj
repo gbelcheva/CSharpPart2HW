@@ -41,6 +41,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserProfilesService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DateFirst.Data\DateFirst.Data.csproj">
+      <Project>{ac851188-a2bf-439e-8f06-a01d06aaf134}</Project>
+      <Name>DateFirst.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DateFirst.Models\DateFirst.Models.csproj">
+      <Project>{4cf239ba-5b21-4a9e-bce5-daf49999c418}</Project>
+      <Name>DateFirst.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

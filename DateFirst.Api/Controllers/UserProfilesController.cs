@@ -1,5 +1,6 @@
 ﻿namespace DateFirst.Api.Controllers
 {
+    using System.Collections.Generic;
     using System.Linq;
     using System.Web.Http;
 
@@ -8,45 +9,40 @@
     using Data.Repositories;
     using DataTransferModels;
     using DateFirst.Models;
+    using Services;
 
     public class UserProfilesController : ApiController
     {
-        private readonly IDateFirstData data;
+        private const string UserSuccessfullyAddedMessage = "User successfully added";
+        private const string InvalidUserToAddMessage = "Invalid user";
+
+        private readonly UserProfilesService users;
 
         public UserProfilesController(IDateFirstData data)
         {
-            this.data = data;
+            this.users = new UserProfilesService(data);
         }
-
-        // GET: UserProfiles
+        
+        [HttpGet]
         public IHttpActionResult Get()
         {
-            var res = this.data.UserProfiles.All()
+            IEnumerable<UserTransferModel> res = this.users.GetAllUsers()
                 .ProjectTo<UserTransferModel>()
                 .ToList();
-
             return this.Ok(res);
         }
 
+        [HttpPost]
         public IHttpActionResult Post([FromBody]UserTransferModel value)
         {
-            var user = Mapper.Map<UserTransferModel, UserProfile>(value);
-            //var dept = new Department
-            //{
-            //    Name = value.DepartmentName
-            //};
+            if (value == null || !this.ModelState.IsValid)
+            {
+                return this.BadRequest(InvalidUserToAddMessage);
+            }
 
-            //var userProfile = new UserProfile
-            //{
-            //    Gender = value.Gender,
-
-            //    Department = dept,
-            //};
-
-            data.UserProfiles.Add(user);
-            data.SaveChanges();
-
-            return this.Ok(user);
+            UserProfile user = Mapper.Map<UserTransferModel, UserProfile>(value);
+            int changesMade = this.users.AddUser(user);
+            return this.Ok(UserSuccessfullyAddedMessage);
         }
 
     }

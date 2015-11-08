@@ -11,9 +11,9 @@
 
         public Gender Gender { get; set; }
 
-        public string TownName { get; set; }
+        public Town Town { get; set; }
 
-        public string DepartmentName { get; set; }
+        public DepartmentTransferModel Department { get; set; }
 
         public ICollection<ImageTransferModel> Images { get; set; }
 

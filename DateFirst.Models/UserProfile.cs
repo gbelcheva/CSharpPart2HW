@@ -18,17 +18,25 @@
 
         public int Id { get; set; }
 
-        [Index]
+        [Index(IsClustered = false)]
         public int Flirts { get; set; }
+
+        public int AdditionalInfoId { get; set; }
 
         public virtual AdditionalInfo AdditionalInfo { get; set; }
 
-        [Index]
+        [Index(IsClustered = false)]
         public virtual Gender Gender { get; set; }
+
+        public int UserId { get; set; }
 
         public virtual User User { get; set; }
 
+        public int TownId { get; set; }
+
         public virtual Town Town { get; set; }
+
+        public int DepartmentId { get; set; }
 
         public virtual Department Department { get; set; }
 

@@ -15,6 +15,10 @@
 
         public int Id { get; set; }
 
+        public int UserProfileId { get; set; }
+
+        public virtual UserProfile UserProfile { get; set; }
+
         [Index]
         [Range(0, int.MaxValue)]
         public decimal? Salary { get; set; }

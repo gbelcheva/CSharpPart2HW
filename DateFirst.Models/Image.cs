@@ -10,6 +10,8 @@
         [MaxLength(242)]
         public string Url { get; set; }
 
-        public virtual User User { get; set; }
+        public int UserProfileId { get; set; }
+
+        public virtual UserProfile UserProfile { get; set; }
     }
 }

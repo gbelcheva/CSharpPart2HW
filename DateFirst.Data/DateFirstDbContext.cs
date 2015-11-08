@@ -35,6 +35,35 @@
         
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder
+                .Entity<AdditionalInfo>()
+                .HasRequired(ai => ai.UserProfile)
+                .WithOptional(up => up.AdditionalInfo);
+
+            modelBuilder
+                .Entity<Notification>()
+                .HasRequired(n => n.Sender)
+                .WithOptional()
+                .WillCascadeOnDelete(true);
+
+            modelBuilder
+                .Entity<Notification>()
+                .HasRequired(n => n.Receiver)
+                .WithOptional()
+                .WillCascadeOnDelete(true);
+
+            modelBuilder
+                .Entity<Post>()
+                .HasRequired(n => n.Sender)
+                .WithOptional()
+                .WillCascadeOnDelete(true);
+
+            modelBuilder
+                .Entity<Post>()
+                .HasRequired(n => n.Receiver)
+                .WithOptional()
+                .WillCascadeOnDelete(true);
+
             base.OnModelCreating(modelBuilder);
         }
     }

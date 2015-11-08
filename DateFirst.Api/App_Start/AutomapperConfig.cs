@@ -13,15 +13,15 @@
             Mapper.CreateMap<Town, TownTransferModel>();
             Mapper.CreateMap<Department, DepartmentTransferModel>();
             Mapper.CreateMap<Image, ImageTransferModel>()
-                .ForMember(i => i.Username, opt => opt.MapFrom(i => i.User.UserName));
+                .ForMember(i => i.Username, opt => opt.MapFrom(i => i.UserProfile.User.UserName));
             Mapper.CreateMap<AdditionalInfo, AdditionalInfoTransferModel>();
             Mapper.CreateMap<UserProfile, UserTransferModel>().ReverseMap();
             Mapper.CreateMap<Notification, NotificationTransferModel>()
-                .ForMember(n => n.ReceiverUsername, opt => opt.MapFrom(n => n.Receiver.UserName))
-                .ForMember(n => n.SenderUsername, opt => opt.MapFrom(n => n.Sender.UserName));
+                .ForMember(n => n.ReceiverUsername, opt => opt.MapFrom(n => n.Receiver.User.UserName))
+                .ForMember(n => n.SenderUsername, opt => opt.MapFrom(n => n.Sender.User.UserName));
             Mapper.CreateMap<Post, PostTransferModel>()
-                .ForMember(p => p.ReceiverUsername, opt => opt.MapFrom(p => p.Receiver.UserName))
-                .ForMember(p=>p.SenderUsername, opt => opt.MapFrom(p => p.Sender.UserName));
+                .ForMember(p => p.ReceiverUsername, opt => opt.MapFrom(p => p.Receiver.User.UserName))
+                .ForMember(p=>p.SenderUsername, opt => opt.MapFrom(p => p.Sender.User.UserName));
         }
     }
 }
