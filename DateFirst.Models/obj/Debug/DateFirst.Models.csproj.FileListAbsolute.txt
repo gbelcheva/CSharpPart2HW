@@ -11,3 +11,4 @@ D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.
 D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.dll
 D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.pdb
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.csprojResolveAssemblyReference.cache

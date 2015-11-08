@@ -20,10 +20,12 @@
 
         public int ReceiverId { get; set; }
 
+        [Required]
         public virtual UserProfile Receiver { get; set; }
 
         public int SenderId { get; set; }
 
+        [Required]
         public virtual UserProfile Sender { get; set; }
     }
 }

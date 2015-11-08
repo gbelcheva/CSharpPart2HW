@@ -1,6 +1,7 @@
 ﻿namespace DateFirst.Models
 {
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
 
     public class UserProfile
@@ -28,8 +29,10 @@
         [Index(IsClustered = false)]
         public virtual Gender Gender { get; set; }
 
-        public int UserId { get; set; }
+        public string UserId { get; set; }
 
+        [Required]
+        [ForeignKey("UserId")]
         public virtual User User { get; set; }
 
         public int TownId { get; set; }

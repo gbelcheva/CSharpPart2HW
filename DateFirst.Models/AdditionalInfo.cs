@@ -4,6 +4,7 @@
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
 
+    [Table("AdditionalInfos")]
     public class AdditionalInfo
     {
         private ICollection<Hobby> hobbies;
@@ -17,6 +18,7 @@
 
         public int UserProfileId { get; set; }
 
+        [Required]
         public virtual UserProfile UserProfile { get; set; }
 
         [Index]
