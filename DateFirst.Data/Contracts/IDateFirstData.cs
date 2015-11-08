@@ -1,7 +1,7 @@
 ﻿namespace DateFirst.Data.Repositories
 {
-    using DateFirst.Data.Contracts;
-    using DateFirst.Models;
+    using Contracts;
+    using Models;
 
     public interface IDateFirstData
     {

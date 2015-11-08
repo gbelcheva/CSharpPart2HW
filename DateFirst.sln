@@ -3,13 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Service", "DateFirst.Service\DateFirst.Service.csproj", "{E8B1703A-BB99-4EE3-A5FF-337DCE3C7508}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Api", "DateFirst.Api\DateFirst.Api.csproj", "{E8B1703A-BB99-4EE3-A5FF-337DCE3C7508}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Models", "DateFirst.Models\DateFirst.Models.csproj", "{4CF239BA-5B21-4A9E-BCE5-DAF49999C418}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Data", "DateFirst.Data\DateFirst.Data.csproj", "{AC851188-A2BF-439E-8F06-A01D06AAF134}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Service.DataTransferModels", "DateFirst.Service.DataTransferModels\DateFirst.Service.DataTransferModels.csproj", "{8BA7A294-EA48-4BBA-A31F-E58715DD0732}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Api.DataTransferModels", "DateFirst.Api.DataTransferModels\DateFirst.Api.DataTransferModels.csproj", "{8BA7A294-EA48-4BBA-A31F-E58715DD0732}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9C88615D-899B-4D2F-86FD-F60217994CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Data.Tests", "DateFirst.Data.Tests\DateFirst.Data.Tests.csproj", "{92520D8E-6AF4-4F15-9F2D-DAA058BFE17E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{9910765C-E85C-407E-B2B0-5AAF70A2431C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{A3A127C7-3699-4A9B-992C-F01824ED10A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8C1013E6-30DC-4AD8-9C22-7E059A1B967E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFirst.Services", "DateFirst.Services\DateFirst.Services.csproj", "{BD198312-5BB5-49E8-8802-3961FC3A7D17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +45,24 @@ Global
 		{8BA7A294-EA48-4BBA-A31F-E58715DD0732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA7A294-EA48-4BBA-A31F-E58715DD0732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA7A294-EA48-4BBA-A31F-E58715DD0732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92520D8E-6AF4-4F15-9F2D-DAA058BFE17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92520D8E-6AF4-4F15-9F2D-DAA058BFE17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92520D8E-6AF4-4F15-9F2D-DAA058BFE17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92520D8E-6AF4-4F15-9F2D-DAA058BFE17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD198312-5BB5-49E8-8802-3961FC3A7D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD198312-5BB5-49E8-8802-3961FC3A7D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD198312-5BB5-49E8-8802-3961FC3A7D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD198312-5BB5-49E8-8802-3961FC3A7D17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E8B1703A-BB99-4EE3-A5FF-337DCE3C7508} = {A3A127C7-3699-4A9B-992C-F01824ED10A0}
+		{4CF239BA-5B21-4A9E-BCE5-DAF49999C418} = {9910765C-E85C-407E-B2B0-5AAF70A2431C}
+		{AC851188-A2BF-439E-8F06-A01D06AAF134} = {9910765C-E85C-407E-B2B0-5AAF70A2431C}
+		{8BA7A294-EA48-4BBA-A31F-E58715DD0732} = {A3A127C7-3699-4A9B-992C-F01824ED10A0}
+		{92520D8E-6AF4-4F15-9F2D-DAA058BFE17E} = {9C88615D-899B-4D2F-86FD-F60217994CBD}
+		{BD198312-5BB5-49E8-8802-3961FC3A7D17} = {8C1013E6-30DC-4AD8-9C22-7E059A1B967E}
 	EndGlobalSection
 EndGlobal

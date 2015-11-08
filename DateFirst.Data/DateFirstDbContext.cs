@@ -1,15 +1,20 @@
 ﻿namespace DateFirst.Data
 {
     using System.Data.Entity;
-    using Microsoft.AspNet.Identity.EntityFramework;
 
+    using Contracts;
+    using Microsoft.AspNet.Identity.EntityFramework;
+    using Migrations;
     using Models;
 
-    public class DateFirstDbContext : IdentityDbContext<User>
+    public class DateFirstDbContext : IdentityDbContext<User>, IDateFirstDbContext
     {
+        private const string DbConnectionName = "DateFirstDbConnection";
+
         public DateFirstDbContext()
-            : base("DefaultConnection")
+            : base(DbConnectionName)
         {
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<DateFirstDbContext, Configuration>());
         }
 
         public virtual IDbSet<AdditionalInfo> AdditionalInfo { get; set; }
@@ -27,12 +32,7 @@
         public virtual IDbSet<Town> Towns { get; set; }
 
         public virtual IDbSet<UserProfile> UserProfiles { get; set; }
-
-        public static DateFirstDbContext Create()
-        {
-            return new DateFirstDbContext();
-        }
-
+        
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

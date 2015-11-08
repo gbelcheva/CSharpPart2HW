@@ -1,42 +1,13 @@
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.csprojResolveAssemblyReference.cache
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.dll.config
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.pdb
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.dll
-c:\users\alexandrina\documents\visual studio 2015\Projects\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.pdb
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\DateFirst.Models.dll.config
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\DateFirst.Models.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\DateFirst.Models.pdb
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\obj\Debug\DateFirst.Models.csprojResolveAssemblyReference.cache
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\obj\Debug\DateFirst.Models.dll
-C:\Users\Adrian Apostolov\Desktop\Web Services Teamwork\DateFirst.Models\obj\Debug\DateFirst.Models.pdb
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\DateFirst.Models.dll.config
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\DateFirst.Models.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\DateFirst.Models.pdb
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\obj\Debug\DateFirst.Models.csprojResolveAssemblyReference.cache
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\obj\Debug\DateFirst.Models.dll
-C:\Users\Adrian Apostolov\Desktop\WEB TEAM WORK\DateFirst.Models\obj\Debug\DateFirst.Models.pdb
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.dll.config
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.dll
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\DateFirst.Models.pdb
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.dll
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.xml
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.dll
+D:\Telerik Academy\GitHub\DateFirst\DateFirst.Models\obj\Debug\DateFirst.Models.pdb

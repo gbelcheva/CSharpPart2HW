@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contracts\IDateFirstData.cs" />
+    <Compile Include="Contracts\IDateFirstDbContext.cs" />
     <Compile Include="Contracts\IRepository.cs" />
     <Compile Include="DateFirstDbContext.cs" />
     <Compile Include="Migrations\Configuration.cs" />

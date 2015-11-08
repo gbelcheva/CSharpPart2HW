@@ -2,78 +2,79 @@
 {
     using System;
     using System.Data.Entity;
+    using System.Data.Entity.Infrastructure;
     using System.Linq;
 
     using Contracts;
 
-    public class EfRepository<T> : IRepository<T> where T : class
+    public class EfRepository<TEntity> : IRepository<TEntity>
+        where TEntity : class
     {
-        public EfRepository(DateFirstDbContext context)
+        private readonly IDateFirstDbContext context;
+        private readonly IDbSet<TEntity> set;
+
+        public EfRepository(IDateFirstDbContext context)
         {
             if (context == null)
             {
                 throw new ArgumentException("An instance of DbContext is required to use this repository.", "context");
             }
 
-            this.Context = context;
-            this.DbSet = this.Context.Set<T>();
+            this.context = context;
+            this.set = this.context.Set<TEntity>();
         }
 
-        protected IDbSet<T> DbSet { get; set; }
-
-        protected DateFirstDbContext Context { get; set; }
-
-        public virtual IQueryable<T> All()
+        public virtual IQueryable<TEntity> All()
         {
-            return this.DbSet.AsQueryable();
+            return this.set;
         }
 
-        public virtual T GetById(object id)
+        public virtual TEntity GetById(object id)
         {
-            return this.DbSet.Find(id);
+            return this.set.Find(id);
         }
 
-        public virtual void Add(T entity)
+        public virtual void Add(TEntity entity)
         {
-            var entry = this.Context.Entry(entity);
+            DbEntityEntry<TEntity> entry = this.context.Entry(entity);
             if (entry.State != EntityState.Detached)
             {
                 entry.State = EntityState.Added;
             }
             else
             {
-                this.DbSet.Add(entity);
+                this.set.Add(entity);
             }
         }
 
-        public virtual void Update(T entity)
+        public virtual void Update(TEntity entity)
         {
-            var entry = this.Context.Entry(entity);
+            DbEntityEntry<TEntity> entry = this.context.Entry(entity);
             if (entry.State == EntityState.Detached)
             {
-                this.DbSet.Attach(entity);
+                this.set.Attach(entity);
             }
 
             entry.State = EntityState.Modified;
         }
 
-        public virtual void Delete(T entity)
+        public virtual void Delete(TEntity entity)
         {
-            var entry = this.Context.Entry(entity);
+            DbEntityEntry<TEntity> entry = this.context.Entry(entity);
             if (entry.State != EntityState.Deleted)
             {
                 entry.State = EntityState.Deleted;
             }
             else
             {
-                this.DbSet.Attach(entity);
-                this.DbSet.Remove(entity);
+                this.set.Attach(entity);
+                this.set.Remove(entity);
             }
         }
 
         public virtual void Delete(object id)
         {
-            var entity = this.GetById(id);
+            TEntity entity = this.GetById(id);
 
             if (entity != null)
             {
@@ -81,25 +82,25 @@
             }
         }
 
-        public virtual T Attach(T entity)
+        public virtual TEntity Attach(TEntity entity)
         {
-            return this.Context.Set<T>().Attach(entity);
+            return this.context.Set<TEntity>().Attach(entity);
         }
 
-        public virtual void Detach(T entity)
+        public virtual void Detach(TEntity entity)
         {
-            var entry = this.Context.Entry(entity);
+            DbEntityEntry<TEntity> entry = this.context.Entry(entity);
             entry.State = EntityState.Detached;
         }
 
         public int SaveChanges()
         {
-            return this.Context.SaveChanges();
+            return this.context.SaveChanges();
         }
 
         public void Dispose()
         {
-            this.Context.Dispose();
+            this.context.Dispose();
         }
     }
 }
