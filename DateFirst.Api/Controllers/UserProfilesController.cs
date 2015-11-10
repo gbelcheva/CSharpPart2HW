@@ -26,24 +26,35 @@
         [HttpGet]
         public IHttpActionResult Get()
         {
-            IEnumerable<UserTransferModel> res = this.users.GetAllUsers()
-                .ProjectTo<UserTransferModel>()
+            IEnumerable<UserProfileTransferModel> res = this.users.GetAllUsers()
+                .ProjectTo<UserProfileTransferModel>()
                 .ToList();
             return this.Ok(res);
         }
 
-        [HttpPost]
-        public IHttpActionResult Post([FromBody]UserTransferModel value)
+        [HttpGet]
+        public IHttpActionResult Get(string id)
         {
-            if (value == null || !this.ModelState.IsValid)
-            {
-                return this.BadRequest(InvalidUserToAddMessage);
-            }
+            var res = this.users.GetAllUsers()
+                .Where(u => u.User.Id == id)
+                .ProjectTo<UserProfileTransferModel>()
+                .FirstOrDefault();
 
-            UserProfile user = Mapper.Map<UserTransferModel, UserProfile>(value);
-            int changesMade = this.users.AddUser(user);
-            return this.Ok(UserSuccessfullyAddedMessage);
+            return this.Ok(res);
         }
+
+        //[HttpPost]
+        //public IHttpActionResult Post([FromBody]UserProfileTransferModel value)
+        //{
+        //    if (value == null || !this.ModelState.IsValid)
+        //    {
+        //        return this.BadRequest(InvalidUserToAddMessage);
+        //    }
+
+        //    UserProfile user = Mapper.Map<UserProfileTransferModel, UserProfile>(value);
+        //    int changesMade = this.users.AddUser(user);
+        //    return this.Ok(UserSuccessfullyAddedMessage);
+        //}
 
     }
 }

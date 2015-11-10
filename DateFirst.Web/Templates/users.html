@@ -1,0 +1,8 @@
+﻿<h1>All Users Page</h1>
+<div id="users-container">
+    <ul>
+        {{#each this}}
+        <li><a href="#/users/{{User.Id}}">{{User.FirstName}} {{User.LastName}}</a></li>
+        {{/each}}
+    </ul>
+</div>

@@ -1,0 +1,63 @@
+﻿<div class="col-md-4" id="search-container">
+    <p>Search box</p>
+    <!--gender: dropdown
+    age: 2 dropdowns
+    town: string/dropdown?-->
+</div>
+
+<div id="users-container">
+    <div class="panel panel-info col-md-8" id="best-male-daters-container">
+        <div class="panel-heading">
+            <h3 class="panel-title">Best male users</h3>
+        </div>
+        <div class="panel-body">
+            <ul>
+                {{#each this.males}}
+                <li>
+                    <a href="#/users/{{User.Id}}">
+                        <img src="http://community.playstarbound.com/data/attachments/61/61716-71ca9c4b63cf4c7405525340e6ac6aaf.jpg" alt="Alternate Text" />
+                        <h4>{{User.FirstName}} {{User.LastName}}</h4>
+                    </a>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+        <a href="#/male-users">Browse all male users</a>
+    </div>
+    <div class="panel panel-info col-md-8" id="best-female-daters-container">
+        <div class="panel-heading">
+            <h3 class="panel-title">Best female users</h3>
+        </div>
+        <div class="panel-body">
+            <ul>
+                {{#each this.females}}
+                <li>
+                    <a href="#/users/{{User.Id}}">
+                        <img src="http://community.playstarbound.com/data/attachments/61/61716-71ca9c4b63cf4c7405525340e6ac6aaf.jpg" alt="Alternate Text" />
+                        <h4>{{User.FirstName}} {{User.LastName}}</h4>
+                    </a>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+        <a href="#/female-users">Browse all female users</a>
+    </div>
+    <div class="panel panel-info col-md-8" id="newest-daters-container">
+        <div class="panel-heading">
+            <h3 class="panel-title">Newest users</h3>
+        </div>
+        <div class="panel-body">
+            <ul>
+                {{#each this.newest}}
+                <li>
+                    <a href="#/users/{{User.Id}}">
+                        <img src="http://community.playstarbound.com/data/attachments/61/61716-71ca9c4b63cf4c7405525340e6ac6aaf.jpg" alt="Alternate Text" />
+                        <h4>{{User.FirstName}} {{User.LastName}}</h4>
+                    </a>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+        <a href="#/users">Browse all users</a>
+    </div>
+</div>

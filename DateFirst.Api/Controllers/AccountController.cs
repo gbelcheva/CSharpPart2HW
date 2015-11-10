@@ -1,34 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Security.Claims;
-using System.Security.Cryptography;
-using System.Threading.Tasks;
-using System.Web;
-using System.Web.Http;
-using System.Web.Http.ModelBinding;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.AspNet.Identity.Owin;
-using Microsoft.Owin.Security;
-using Microsoft.Owin.Security.Cookies;
-using Microsoft.Owin.Security.OAuth;
-using DateFirst.Api.Models;
-using DateFirst.Api.Providers;
-using DateFirst.Api.Results;
-using DateFirst.Models;
-
-namespace DateFirst.Api.Controllers
+﻿namespace DateFirst.Api.Controllers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Net.Http;
+    using System.Security.Claims;
+    using System.Security.Cryptography;
+    using System.Threading.Tasks;
+    using System.Web;
+    using System.Web.Http;
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.EntityFramework;
+    using Microsoft.AspNet.Identity.Owin;
+    using Microsoft.Owin.Security;
+    using Microsoft.Owin.Security.Cookies;
+    using Microsoft.Owin.Security.OAuth;
+    using DateFirst.Api.Models;
+    using DateFirst.Api.Providers;
+    using DateFirst.Api.Results;
+    using DateFirst.Models;
+    using DateFirst.Data.Repositories;
+
     [Authorize]
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController
     {
         private const string LocalLoginProvider = "Local";
         private ApplicationUserManager _userManager;
+        private readonly IDateFirstData data;
 
-        public AccountController()
+        public AccountController(IDateFirstData data)
         {
+            this.data = data;
         }
 
         public AccountController(ApplicationUserManager userManager,
@@ -51,6 +53,14 @@ namespace DateFirst.Api.Controllers
         }
 
         public ISecureDataFormat<AuthenticationTicket> AccessTokenFormat { get; private set; }
+
+        [Route("LoggedUser")]
+        public IHttpActionResult GetLoggedUserId()
+        {
+            var user = UserManager.FindByName(User.Identity.Name);
+
+            return this.Ok(user);
+        }
 
         // GET api/Account/UserInfo
         [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
@@ -329,11 +339,18 @@ namespace DateFirst.Api.Controllers
                 return BadRequest(ModelState);
             }
 
-            var user = new User() { UserName = model.Email, Email = model.Email };
+            var user = new User() { UserName = model.Email, Email = model.Email, FirstName = model.FirstName, LastName = model.LastName };
+
 
             IdentityResult result = await UserManager.CreateAsync(user, model.Password);
+            if (result.Succeeded)
+            {
+                var userProfile = new UserProfile() { UserId = user.Id, Gender = Gender.Male }; // Passing entire table doesn't seem efficient
 
-            if (!result.Succeeded)
+                this.data.UserProfiles.Add(userProfile);
+                this.data.SaveChanges();
+            }
+            else if (!result.Succeeded)
             {
                 return GetErrorResult(result);
             }

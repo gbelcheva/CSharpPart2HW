@@ -29,17 +29,18 @@
         [Index(IsClustered = false)]
         public virtual Gender Gender { get; set; }
 
+        [ForeignKey("User")]
         public string UserId { get; set; }
 
-        [Required]
-        [ForeignKey("UserId")]
         public virtual User User { get; set; }
 
-        public int TownId { get; set; }
+        [ForeignKey("Town")]
+        public int? TownId { get; set; }
 
         public virtual Town Town { get; set; }
 
-        public int DepartmentId { get; set; }
+        [ForeignKey("Department")]
+        public int? DepartmentId { get; set; }
 
         public virtual Department Department { get; set; }
 

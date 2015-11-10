@@ -1,0 +1,167 @@
+﻿body {
+    color: #888888;
+    font-family: 'Bree Serif',serif;
+    font-size: 16px;
+    /*background-image: url("http://img.photobucket.com/albums/v16/wishuponastar422/blog/layouts/parisholdsthekeybkgcopy.jpg");*/
+}
+
+#image-gallery #links a img{
+    width: 150px;
+    height: 150px;
+}
+
+.well {
+    height: 360px;
+}
+
+#users-container .panel {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+    #users-container .panel ul {
+        padding-left: 0px;
+        margin-bottom: 0px;
+    }
+
+        #users-container .panel ul li {
+            list-style-type: none;
+            display: inline-block;
+        }
+
+.panel .panel-heading {
+    padding: 5px 15px;
+}
+
+.panel .panel-body ul li {
+    padding-left: 25px;
+}
+
+    .panel .panel-body ul li a img {
+        border-radius: 100px;
+        width: 70px;
+        height: 70px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .panel .panel-body ul li a h4 {
+        text-align: center;
+    }
+
+#users-container .panel a {
+    float: right;
+    margin-right: 10px;
+}
+
+.panel-body {
+    padding: 0px;
+    padding-top: 15px;
+}
+
+#search-container {
+    height: 600px;
+    padding: 0px;
+}
+
+#navbar {
+    margin-bottom: 0px;
+}
+
+.logout-container #user-dropdown {
+    margin-right: 15px;
+}
+
+a#user-image {
+    padding: 0px;
+    margin: 0px;
+}
+
+    a#user-image img {
+        border-radius: 100px;
+        width: 40px;
+        height: 40px;
+        margin-top: 5px;
+    }
+
+body #wrapper {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.modal-content {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.login_modal_footer {
+    margin-top: 5px;
+}
+
+.login_modal_header .modal-title {
+    text-align: center;
+    font-family: 'Philosopher',sans-serif;
+}
+
+.form-group {
+    position: relative;
+}
+
+    .form-group .login-field-icon {
+        font-size: 20px;
+        position: absolute;
+        right: 15px;
+        top: 3px;
+        transition: all 0.25s ease 0s;
+        padding-top: 2%;
+    }
+
+.login-modal {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.login_modal_header, .login_modal_footer {
+    background: #00BB64 !important;
+    color: #fff;
+}
+
+.login-modal input {
+    height: 40px;
+    box-shadow: none;
+    border: 1px solid #ddd;
+}
+
+.login-link {
+    padding: 0 20%;
+}
+
+.modal-icons {
+    margin-left: -10px;
+    margin-right: 20px;
+}
+
+#social-icons-conatainer {
+    position: relative;
+}
+
+#center-line {
+    position: absolute;
+    right: 265.7px;
+    top: 80px;
+    background: #ddd;
+    border: 4px solid #DDDDDD;
+    border-radius: 20px;
+}
+
+.modal-login-btn {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+#modal-launcher {
+    margin: 30% 0 0 30%;
+}

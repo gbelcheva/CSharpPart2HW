@@ -15,7 +15,8 @@
             Mapper.CreateMap<Image, ImageTransferModel>()
                 .ForMember(i => i.Username, opt => opt.MapFrom(i => i.UserProfile.User.UserName));
             Mapper.CreateMap<AdditionalInfo, AdditionalInfoTransferModel>();
-            Mapper.CreateMap<UserProfile, UserTransferModel>().ReverseMap();
+            Mapper.CreateMap<User, UserTransferModel>();
+            Mapper.CreateMap<UserProfile, UserProfileTransferModel>().ReverseMap();
             Mapper.CreateMap<Notification, NotificationTransferModel>()
                 .ForMember(n => n.ReceiverUsername, opt => opt.MapFrom(n => n.Receiver.User.UserName))
                 .ForMember(n => n.SenderUsername, opt => opt.MapFrom(n => n.Sender.User.UserName));

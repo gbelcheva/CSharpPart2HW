@@ -49,6 +49,7 @@
     <Compile Include="PostTransferModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TownTransferModel.cs" />
+    <Compile Include="UserProfileTransferModel.cs" />
     <Compile Include="UserTransferModel.cs" />
   </ItemGroup>
   <ItemGroup>

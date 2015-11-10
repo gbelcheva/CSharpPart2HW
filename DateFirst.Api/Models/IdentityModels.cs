@@ -13,7 +13,7 @@ namespace DateFirst.Api.Models
     public class ApplicationDbContext : IdentityDbContext<User>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("DateFirstDbConnection", throwIfV1Schema: false)
         {
         }
         

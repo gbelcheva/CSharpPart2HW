@@ -12,6 +12,7 @@
             this.userProfiles = new HashSet<UserProfile>();
         }
 
+        [Key]
         public int Id { get; set; }
 
         [MinLength(2)]

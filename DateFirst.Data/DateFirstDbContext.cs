@@ -32,7 +32,7 @@
         public virtual IDbSet<Town> Towns { get; set; }
 
         public virtual IDbSet<UserProfile> UserProfiles { get; set; }
-        
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
