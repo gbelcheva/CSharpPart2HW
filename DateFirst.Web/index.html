@@ -54,6 +54,13 @@
             </div><!-- /.container-fluid -->
         </nav>
 
+        <!-- Upload files-->
+        <div>
+            <label for="fileUpload">Select File to Upload:</label>
+            <input id="fileUpload" type="file" />
+            <input id="btnUploadFile" type="button" value="Upload File" />
+        </div>
+
         <!--Modal Window Login Start-->
         <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -145,6 +152,7 @@
         <!-- App scripts -->
         <script src="Scripts/Controllers/homeController.js"></script>
         <script src="Scripts/Controllers/usersController.js"></script>
+        <script src="Scripts/Controllers/uploadFileController.js"></script>
         <script src="Scripts/App/jsonRequester.js"></script>
         <script src="Scripts/App/templates.js"></script>
         <script src="Scripts/Models/homeModel.js"></script>

@@ -97,6 +97,7 @@
     <Content Include="Scripts\bootstrap-image-gallery.min.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\Controllers\homeController.js" />
+    <Content Include="Scripts\Controllers\uploadFileController.js" />
     <Content Include="Scripts\Controllers\usersController.js" />
     <Content Include="Scripts\handlebars-v4.0.4.js" />
     <Content Include="Content\toastr.scss" />
