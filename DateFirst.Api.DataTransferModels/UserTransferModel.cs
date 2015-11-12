@@ -1,5 +1,7 @@
 ﻿namespace DateFirst.Api.DataTransferModels
 {
+    using System;
+
     public class UserTransferModel
     {
         public string Id { get; set; }

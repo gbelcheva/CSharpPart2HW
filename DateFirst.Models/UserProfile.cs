@@ -1,5 +1,6 @@
 ﻿namespace DateFirst.Models
 {
+    using System;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
@@ -12,12 +13,17 @@
 
         public UserProfile()
         {
+            this.CreatedOn = DateTime.Now;
             this.Images = new HashSet<Image>();
             this.Posts = new HashSet<Post>();
             this.Notifications = new HashSet<Notification>();
         }
 
         public int Id { get; set; }
+
+        public string AvatarUrl{ get; set; }
+
+        public DateTime CreatedOn { get; set; }
 
         [Index(IsClustered = false)]
         public int Flirts { get; set; }

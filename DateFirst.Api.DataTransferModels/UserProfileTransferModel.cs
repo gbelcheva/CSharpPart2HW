@@ -1,10 +1,16 @@
 ﻿namespace DateFirst.Api.DataTransferModels
 {
+    using System;
     using System.Collections.Generic;
+
     using Models;
 
     public class UserProfileTransferModel
     {
+        public string AvatarUrl { get; set; }
+
+        public DateTime CreatedOn { get; set; }
+
         public int Flirts { get; set; }
 
         public AdditionalInfoTransferModel AdditionalInfo { get; set; }
