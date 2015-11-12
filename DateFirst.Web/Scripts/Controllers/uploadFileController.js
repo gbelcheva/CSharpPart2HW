@@ -15,7 +15,8 @@
                 url: "http://localhost:9941//api/FileUpload",
                 contentType: false,
                 processData: false,
-                data: data
+                data: data,
+                headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
             });
 
             ajaxRequest.done(function (xhr, textStatus) {

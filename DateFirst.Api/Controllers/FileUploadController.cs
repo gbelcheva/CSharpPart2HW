@@ -11,6 +11,8 @@
     using Spring.IO;
     using Spring.Social.Dropbox.Api;
     using Spring.Social.Dropbox.Connect;
+    using System.Net.Http;
+    using Microsoft.AspNet.Identity.Owin;
 
     public class FileUploadController : ApiController
     {
@@ -27,6 +29,7 @@
             this.data = data;
         }
 
+        [Authorize]
         [HttpPost]
         public void UploadFile()
         {
@@ -54,15 +57,21 @@
             var link = dropbox.GetMediaLinkAsync(string.Format("/DateFirstImagesDb/{0}", name));
             var UrlForDb = link.Result.Url;
 
-            //var image = new Image()
-            //{
-            //    Url = UrlForDb
-            //};
+            var userManager = Request.GetOwinContext().GetUserManager<ApplicationUserManager>();
+            var user = userManager.FindByName(User.Identity.Name);
+
+            var userProfileId = this.data.UserProfiles.All().Where(u => u.UserId == user.Id).FirstOrDefault();
+
+            var image = new Image()
+            {
+                UserProfileId = userProfileId.Id,
+                Url = UrlForDb
+            };
 
 
 
-            //data.Images.Add(image);
-            //data.SaveChanges();
+            data.Images.Add(image);
+            data.SaveChanges();
         }
     }
 }
