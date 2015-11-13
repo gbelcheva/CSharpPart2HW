@@ -2,6 +2,7 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
     using System.Net.Http;
     using System.Security.Claims;
     using System.Security.Cryptography;
@@ -19,6 +20,8 @@
     using DateFirst.Api.Results;
     using DateFirst.Models;
     using DateFirst.Data.Repositories;
+    using DataTransferModels;
+    using AutoMapper;
 
     [Authorize]
     [RoutePrefix("api/Account")]
@@ -54,10 +57,37 @@
 
         public ISecureDataFormat<AuthenticationTicket> AccessTokenFormat { get; private set; }
 
+        [HttpPut]
+        [Route("UpdateUserInfo")]
+        public IHttpActionResult Put([FromBody]AdditionalInfoTransferModel additionaInfo)
+        {
+            if (additionaInfo == null || !this.ModelState.IsValid)
+            {
+                return this.BadRequest();
+            }
+
+            AdditionalInfo info = Mapper.Map<AdditionalInfoTransferModel, AdditionalInfo>(additionaInfo);
+
+            var existingInfo = this.data.AdditionalInfos.GetById(additionaInfo.Id);
+            if (existingInfo != null)
+            {
+                // TODO : Find a way to update instead of delete/add.
+                this.data.AdditionalInfos.Delete(existingInfo);
+                this.data.SaveChanges();
+            }
+
+            this.data.AdditionalInfos.Add(info);
+            this.data.SaveChanges();
+
+            return this.Ok();
+        }
+
         [Route("LoggedUser")]
         public IHttpActionResult GetLoggedUserId()
         {
-            var user = UserManager.FindByName(User.Identity.Name);
+            var user = UserManager
+                .FindByName(User.Identity.Name)
+                .Id;
 
             return this.Ok(user);
         }
@@ -136,7 +166,7 @@
 
             IdentityResult result = await UserManager.ChangePasswordAsync(User.Identity.GetUserId(), model.OldPassword,
                 model.NewPassword);
-            
+
             if (!result.Succeeded)
             {
                 return GetErrorResult(result);
@@ -269,9 +299,9 @@
             if (hasRegistered)
             {
                 Authentication.SignOut(DefaultAuthenticationTypes.ExternalCookie);
-                
-                 ClaimsIdentity oAuthIdentity = await user.GenerateUserIdentityAsync(UserManager,
-                    OAuthDefaults.AuthenticationType);
+
+                ClaimsIdentity oAuthIdentity = await user.GenerateUserIdentityAsync(UserManager,
+                   OAuthDefaults.AuthenticationType);
                 ClaimsIdentity cookieIdentity = await user.GenerateUserIdentityAsync(UserManager,
                     CookieAuthenticationDefaults.AuthenticationType);
 
@@ -341,16 +371,9 @@
 
             var user = new User() { UserName = model.Email, Email = model.Email, FirstName = model.FirstName, LastName = model.LastName };
 
-
             IdentityResult result = await UserManager.CreateAsync(user, model.Password);
-            if (result.Succeeded)
-            {
-                var userProfile = new UserProfile() { UserId = user.Id, Gender = Gender.Male }; // Passing entire table doesn't seem efficient
 
-                this.data.UserProfiles.Add(userProfile);
-                this.data.SaveChanges();
-            }
-            else if (!result.Succeeded)
+            if (!result.Succeeded)
             {
                 return GetErrorResult(result);
             }
@@ -386,7 +409,7 @@
             result = await UserManager.AddLoginAsync(user.Id, info.Login);
             if (!result.Succeeded)
             {
-                return GetErrorResult(result); 
+                return GetErrorResult(result);
             }
             return Ok();
         }

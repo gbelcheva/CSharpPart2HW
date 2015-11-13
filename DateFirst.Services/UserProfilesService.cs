@@ -13,14 +13,14 @@
             this.data = data;
         }
 
-        public IQueryable<UserProfile> GetAllUsers()
+        public IQueryable<User> GetAllUsers()
         {
-            return this.data.UserProfiles.All();
+            return this.data.Users.All();
         }
 
-        public int AddUser(UserProfile newUserProfile)
+        public int AddUser(User newUserProfile)
         {
-            this.data.UserProfiles.Add(newUserProfile);
+            this.data.Users.Add(newUserProfile);
             return this.data.SaveChanges();
         }
     }

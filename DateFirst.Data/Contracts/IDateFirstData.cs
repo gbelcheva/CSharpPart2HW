@@ -5,6 +5,8 @@
 
     public interface IDateFirstData
     {
+        IRepository<AdditionalInfo> AdditionalInfos { get; }
+
         IRepository<Department> Departments { get; }
 
         IRepository<Hobby> Hobbies { get; }
@@ -18,8 +20,6 @@
         IRepository<Town> Towns { get; }
 
         IRepository<User> Users { get; }
-
-        IRepository<UserProfile> UserProfiles { get; }
 
         int SaveChanges();
     }

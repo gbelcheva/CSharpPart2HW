@@ -23,30 +23,30 @@
         [Route("api/HomePageInfo")]
         public IHttpActionResult GetHomePageInfo()
         {
-            var result = new Dictionary<string, List<UserProfileTransferModel>>();
+            var result = new Dictionary<string, List<UserTransferModel>>();
 
-            var bestMaleDaters = this.data.UserProfiles
+            var bestMaleDaters = this.data.Users
                             .All()
-                            .Where(u => u.Gender == Gender.Male)
+                            .Where(u => u.AdditionalInfo.Gender == Gender.Male)
                             .OrderByDescending(u => u.Flirts)
                             .Take(5)
-                            .ProjectTo<UserProfileTransferModel>()
+                            .ProjectTo<UserTransferModel>()
                             .ToList();
 
-            var bestFemaleDaters = this.data.UserProfiles
+            var bestFemaleDaters = this.data.Users
                             .All()
-                            .Where(u => u.Gender == Gender.Female)
+                            .Where(u => u.AdditionalInfo.Gender == Gender.Female)
                             .OrderByDescending(u => u.Flirts)
                             .Take(5)
-                            .ProjectTo<UserProfileTransferModel>()
+                            .ProjectTo<UserTransferModel>()
                             .ToList();
 
             // TODO: Fix after adding join date to users
-            var newestDaters = this.data.UserProfiles
+            var newestDaters = this.data.Users
                             .All()
-                            .OrderByDescending(u => u.Flirts)
+                            .OrderBy(u => u.Flirts)
                             .Take(5)
-                            .ProjectTo<UserProfileTransferModel>()
+                            .ProjectTo<UserTransferModel>()
                             .ToList();
 
             result.Add("males", bestMaleDaters);

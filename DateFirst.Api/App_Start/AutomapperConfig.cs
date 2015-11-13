@@ -9,20 +9,19 @@
         public static void Initialize()
         {
             //// TODO more custom mapping when final models are decided
-            Mapper.CreateMap<Hobby, HobbyTransferModel>();
-            Mapper.CreateMap<Town, TownTransferModel>();
-            Mapper.CreateMap<Department, DepartmentTransferModel>();
+            Mapper.CreateMap<Hobby, HobbyTransferModel>().ReverseMap();
+            Mapper.CreateMap<Town, TownTransferModel>().ReverseMap();
+            Mapper.CreateMap<Department, DepartmentTransferModel>().ReverseMap();
             Mapper.CreateMap<Image, ImageTransferModel>()
-                .ForMember(i => i.Username, opt => opt.MapFrom(i => i.UserProfile.User.UserName));
-            Mapper.CreateMap<AdditionalInfo, AdditionalInfoTransferModel>();
-            Mapper.CreateMap<User, UserTransferModel>();
-            Mapper.CreateMap<UserProfile, UserProfileTransferModel>().ReverseMap();
+                .ForMember(i => i.Username, opt => opt.MapFrom(i => i.User.UserName));
+            Mapper.CreateMap<AdditionalInfo, AdditionalInfoTransferModel>().ReverseMap();
+            Mapper.CreateMap<User, UserTransferModel>().ReverseMap();
             Mapper.CreateMap<Notification, NotificationTransferModel>()
-                .ForMember(n => n.ReceiverUsername, opt => opt.MapFrom(n => n.Receiver.User.UserName))
-                .ForMember(n => n.SenderUsername, opt => opt.MapFrom(n => n.Sender.User.UserName));
+                .ForMember(n => n.ReceiverUsername, opt => opt.MapFrom(n => n.Receiver.UserName))
+                .ForMember(n => n.SenderUsername, opt => opt.MapFrom(n => n.Sender.UserName));
             Mapper.CreateMap<Post, PostTransferModel>()
-                .ForMember(p => p.ReceiverUsername, opt => opt.MapFrom(p => p.Receiver.User.UserName))
-                .ForMember(p=>p.SenderUsername, opt => opt.MapFrom(p => p.Sender.User.UserName));
+                .ForMember(p => p.ReceiverUsername, opt => opt.MapFrom(p => p.Receiver.UserName))
+                .ForMember(p=>p.SenderUsername, opt => opt.MapFrom(p => p.Sender.UserName));
         }
     }
 }

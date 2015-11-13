@@ -22,6 +22,11 @@
             this.repositories = new Dictionary<Type, object>();
         }
 
+        public IRepository<AdditionalInfo> AdditionalInfos
+        {
+            get { return this.GetRepository<AdditionalInfo>(); }
+        }
+
         public IRepository<Department> Departments
         {
             get { return this.GetRepository<Department>(); }
@@ -55,11 +60,6 @@
         public IRepository<User> Users
         {
             get { return this.GetRepository<User>(); }
-        }
-
-        public IRepository<UserProfile> UserProfiles
-        {
-            get { return this.GetRepository<UserProfile>(); }
         }
 
         public int SaveChanges()

@@ -4,12 +4,11 @@
     using System.Linq;
     using System.Web.Http;
 
-    using AutoMapper;
     using AutoMapper.QueryableExtensions;
     using Data.Repositories;
     using DataTransferModels;
-    using DateFirst.Models;
     using Services;
+    using DateFirst.Models;
 
     public class UserProfilesController : ApiController
     {
@@ -26,9 +25,10 @@
         [HttpGet]
         public IHttpActionResult Get()
         {
-            IEnumerable<UserProfileTransferModel> res = this.users.GetAllUsers()
-                .ProjectTo<UserProfileTransferModel>()
+            IEnumerable<UserTransferModel> res = this.users.GetAllUsers()
+                .ProjectTo<UserTransferModel>()
                 .ToList();
+
             return this.Ok(res);
         }
 
@@ -36,8 +36,8 @@
         public IHttpActionResult Get(string id)
         {
             var res = this.users.GetAllUsers()
-                .Where(u => u.User.Id == id)
-                .ProjectTo<UserProfileTransferModel>()
+                .Where(u => u.Id == id)
+                .ProjectTo<UserTransferModel>()
                 .FirstOrDefault();
 
             return this.Ok(res);

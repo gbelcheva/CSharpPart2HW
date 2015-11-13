@@ -7,6 +7,7 @@
         Blue = 2,
         Brown = 3,
         Hazel = 4,
-        Grey = 5
+        Grey = 5,
+        Unknown = 6
     }
 }

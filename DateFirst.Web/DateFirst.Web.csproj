@@ -109,6 +109,7 @@
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Scripts\sammy.min.js" />
     <Content Include="Scripts\toastr.min.js" />
+    <Content Include="Templates\editProfile.html" />
     <Content Include="Templates\home.html" />
     <Content Include="Templates\userProfile.html" />
     <Content Include="Templates\users.html" />

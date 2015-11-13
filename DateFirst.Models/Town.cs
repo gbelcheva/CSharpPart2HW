@@ -6,11 +6,11 @@
 
     public class Town
     {
-        private ICollection<UserProfile> userProfiles;
+        private ICollection<User> users;
 
         public Town()
         {
-            this.userProfiles = new HashSet<UserProfile>();
+            this.users = new HashSet<User>();
         }
 
         public int Id { get; set; }
@@ -20,10 +20,10 @@
         [Index(IsClustered = false)]
         public string Name { get; set; }
 
-        public virtual ICollection<UserProfile> UserProfiles
+        public virtual ICollection<User> UserProfiles
         {
-            get { return this.userProfiles; }
-            set { this.userProfiles = value; }
+            get { return this.users; }
+            set { this.users = value; }
         }
     }
 }

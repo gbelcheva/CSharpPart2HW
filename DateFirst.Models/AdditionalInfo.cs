@@ -11,21 +11,21 @@
 
         public AdditionalInfo()
         {
-            this.Hobbies = new HashSet<Hobby>();
+            this.hobbies = new HashSet<Hobby>();
         }
 
-        public int Id { get; set; }
+        [Key, ForeignKey("User")]
+        public string Id { get; set; }
 
-        public int UserProfileId { get; set; }
+        public virtual User User { get; set; }
 
-        [Required]
-        public virtual UserProfile UserProfile { get; set; }
+        [Index(IsClustered = false)]
+        public virtual Gender? Gender { get; set; }
 
         [Index]
         [Range(0, int.MaxValue)]
         public decimal? Salary { get; set; }
 
-        [MinLength(2)]
         [MaxLength(50)]
         public string JobTitle { get; set; }
 
@@ -44,11 +44,11 @@
         [MaxLength(500)]
         public string AboutMe { get; set; }
 
-        public virtual StarSign StarSign { get; set; }
+        public virtual StarSign? StarSign { get; set; }
 
-        public virtual EyeColor EyeColor { get; set; }
+        public virtual EyeColor? EyeColor { get; set; }
 
-        public virtual HairColor HairColor { get; set; }
+        public virtual HairColor? HairColor { get; set; }
 
         public ICollection<Hobby> Hobbies
         {

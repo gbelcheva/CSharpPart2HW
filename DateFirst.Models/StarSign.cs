@@ -13,6 +13,7 @@
         Sagittarius = 8,
         Capricorn = 9,
         Aquarius = 10,
-        Pisces = 11
+        Pisces = 11,
+        Unknown = 12
     }
 }

@@ -5,11 +5,11 @@
 
     public class Department
     {
-        private ICollection<UserProfile> userProfiles;
+        private ICollection<User> users;
 
         public Department()
         {
-            this.userProfiles = new HashSet<UserProfile>();
+            this.users = new HashSet<User>();
         }
 
         [Key]
@@ -19,10 +19,10 @@
         [MaxLength(50)]
         public string Name { get; set; }
 
-        public virtual ICollection<UserProfile> UserProfiles
+        public virtual ICollection<User> Users
         {
-            get { return this.userProfiles; }
-            set { this.userProfiles = value; }
+            get { return this.users; }
+            set { this.users = value; }
         }
     }
 }

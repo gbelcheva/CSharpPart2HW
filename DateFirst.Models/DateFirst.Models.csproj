@@ -70,7 +70,6 @@
     <Compile Include="StarSign.cs" />
     <Compile Include="Town.cs" />
     <Compile Include="User.cs" />
-    <Compile Include="UserProfile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -6,10 +6,11 @@
 
     public class AdditionalInfoTransferModel
     {
+        public string Id { get; set; }
+
         [Range(0, int.MaxValue)]
         public decimal? Salary { get; set; }
 
-        [MinLength(2)]
         [MaxLength(50)]
         public string JobTitle { get; set; }
 
@@ -25,11 +26,13 @@
         [MaxLength(500)]
         public string AboutMe { get; set; }
 
-        public StarSign StarSign { get; set; }
+        public Gender? Gender { get; set; }
 
-        public EyeColor EyeColor { get; set; }
+        public StarSign? StarSign { get; set; }
 
-        public HairColor HairColor { get; set; }
+        public EyeColor? EyeColor { get; set; }
+
+        public HairColor? HairColor { get; set; }
 
         public ICollection<HobbyTransferModel> Hobbies { get; set; }
     }

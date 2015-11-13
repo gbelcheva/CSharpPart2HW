@@ -10,6 +10,10 @@
         this.get('#/users', controllers.users.getAllUsersPage);
 
         this.get('#/users/:id', controllers.users.getUserProfilePage);
+
+        this.get('#/users/:id/my-profile', controllers.users.getUserProfilePage);
+
+        this.get('#/users/:id/edit-profile', controllers.users.editUserProfilePage);
     });
 
     $(function () {
@@ -22,10 +26,16 @@
         }
 
         $('#my-profile').on('click', function () {
+            userModel.getLoggedUserId()
+            .then(function (res) {
+                document.location = '/#/users/' + res + '/my-profile';         
+            });
+        });
+
+        $('#edit-profile').on('click', function () {
             userModel.getLoggedUser()
             .then(function (res) {
-                document.location = '/#/users/' + res.Id;
-                console.log($("#btn-edit-profile").text('Value'));              
+                document.location = '/#/users/' + res + '/edit-profile';
             });
         });
 

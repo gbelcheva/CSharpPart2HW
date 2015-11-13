@@ -9,6 +9,7 @@
         Black = 4,
         Grey = 5,
         Colored = 6,
-        Albino = 7
+        Albino = 7,
+        Unknown = 8
     }
 }

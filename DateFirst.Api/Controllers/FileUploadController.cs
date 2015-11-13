@@ -60,11 +60,9 @@
             var userManager = Request.GetOwinContext().GetUserManager<ApplicationUserManager>();
             var user = userManager.FindByName(User.Identity.Name);
 
-            var userProfileId = this.data.UserProfiles.All().Where(u => u.UserId == user.Id).FirstOrDefault();
-
             var image = new Image()
             {
-                UserProfileId = userProfileId.Id,
+                UserId = user.Id,
                 Url = UrlForDb
             };
 

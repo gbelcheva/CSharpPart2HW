@@ -17,7 +17,7 @@
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<DateFirstDbContext, Configuration>());
         }
 
-        public virtual IDbSet<AdditionalInfo> AdditionalInfo { get; set; }
+        public virtual IDbSet<AdditionalInfo> AdditionalInfos { get; set; }
 
         public virtual IDbSet<Department> Departments { get; set; }
 
@@ -31,13 +31,11 @@
 
         public virtual IDbSet<Town> Towns { get; set; }
 
-        public virtual IDbSet<UserProfile> UserProfiles { get; set; }
-
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
                 .Entity<AdditionalInfo>()
-                .HasRequired(ai => ai.UserProfile)
+                .HasRequired(ai => ai.User)
                 .WithOptional(up => up.AdditionalInfo);
 
             modelBuilder
@@ -50,7 +48,7 @@
                 .Entity<Notification>()
                 .HasRequired(n => n.Receiver)
                 .WithOptional()
-                .WillCascadeOnDelete(true);
+                .WillCascadeOnDelete(false);
 
             modelBuilder
                 .Entity<Post>()
@@ -62,7 +60,7 @@
                 .Entity<Post>()
                 .HasRequired(n => n.Receiver)
                 .WithOptional()
-                .WillCascadeOnDelete(true);
+                .WillCascadeOnDelete(false);
 
             base.OnModelCreating(modelBuilder);
         }
