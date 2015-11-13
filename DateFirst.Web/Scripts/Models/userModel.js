@@ -71,10 +71,12 @@
         return jsonRequester.get('http://localhost:9941/api/UserProfiles/' + id)
         .then(function (res) {
 
-            res.AdditionalInfo.Gender = Enums.genderType[res.AdditionalInfo.Gender];
-            res.AdditionalInfo.HairColor = Enums.hairColorType[res.AdditionalInfo.HairColor];
-            res.AdditionalInfo.EyeColor = Enums.eyeColorType[res.AdditionalInfo.EyeColor];
-            res.AdditionalInfo.StarSign = Enums.starSignType[res.AdditionalInfo.StarSign];
+            if (res.AdditionalInfo !== null) {
+                res.AdditionalInfo.Gender = Enums.genderType[res.AdditionalInfo.Gender];
+                res.AdditionalInfo.HairColor = Enums.hairColorType[res.AdditionalInfo.HairColor];
+                res.AdditionalInfo.EyeColor = Enums.eyeColorType[res.AdditionalInfo.EyeColor];
+                res.AdditionalInfo.StarSign = Enums.starSignType[res.AdditionalInfo.StarSign];
+            }
 
             return res;
         })

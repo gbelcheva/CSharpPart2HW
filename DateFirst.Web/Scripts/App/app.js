@@ -33,7 +33,7 @@
         });
 
         $('#edit-profile').on('click', function () {
-            userModel.getLoggedUser()
+            userModel.getLoggedUserId()
             .then(function (res) {
                 document.location = '/#/users/' + res + '/edit-profile';
             });
