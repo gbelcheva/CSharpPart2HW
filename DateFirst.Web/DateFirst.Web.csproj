@@ -105,6 +105,7 @@
     <Content Include="Scripts\jquery-2.1.4.min.js" />
     <Content Include="Scripts\jquery.blueimp-gallery.min.js" />
     <Content Include="Scripts\Models\homeModel.js" />
+    <Content Include="Scripts\Models\postModel.js" />
     <Content Include="Scripts\Models\userModel.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Scripts\sammy.min.js" />

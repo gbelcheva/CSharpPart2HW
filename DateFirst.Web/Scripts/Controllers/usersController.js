@@ -1,7 +1,7 @@
 ﻿var controllers = controllers || {};
 (function (scope) {
 
-    function getAllUsersPage(context) {
+    function getAllUsers(context) {
         var allUsers;
         var promise = userModel.getAllUsers();
 
@@ -9,9 +9,35 @@
             allUsers = resUsers;
             return templates.get('users');
         })
-          .then(function (template) {
-              context.$element().html(template(allUsers));
-          })
+        .then(function (template) {
+            context.$element().html(template(allUsers));
+        })
+    }
+
+    function getAllMaleUsers(context) {
+        var maleUsers;
+        var promise = userModel.getAllMaleUsers();
+
+        promise.then(function (resUsers) {
+            maleUsers = resUsers;
+            return templates.get('users');
+        })
+        .then(function (template) {
+            context.$element().html(template(maleUsers));
+        })
+    }
+
+    function getAllFemaleUsers(context) {
+        var femaleUsers;
+        var promise = userModel.getAllFemaleUsers();
+
+        promise.then(function (resUsers) {
+            femaleUsers = resUsers;
+            return templates.get('users');
+        })
+        .then(function (template) {
+            context.$element().html(template(femaleUsers));
+        })
     }
 
     function getUserProfilePage(context) {
@@ -24,9 +50,54 @@
         })
         .then(function (template) {
             context.$element().html(template(user));
+
             $(".btn-pref .btn").click(function () {
-                $(".btn-pref .btn").removeClass("btn-primary").addClass("btn-default");
-                $(this).removeClass("btn-default").addClass("btn-primary");
+                $(".btn-pref .btn").removeClass("btn-pressed").addClass("btn-user-profile");
+                $(this).removeClass("btn-user-profile").addClass("btn-pressed");
+            });
+
+            $('#flirts').on('click', function () {
+                $.ajax({
+                    type: "PUT",
+                    data: user,
+                    url: "http://localhost:9941//api/Flirts",
+                    headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') },
+                    error: function (xhr, status, error) {
+                        var err = eval("(" + xhr.responseText + ")");
+                        toastr.error(err.Message);
+                    }
+                })
+                .then(function () {
+                    toastr.success('You flirted this profile!');
+                    $.ajax({
+                        type: "GET",
+                        url: "http://localhost:9941/api/UserProfiles/" + user.Id,
+                        headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
+                    })
+                        .then(function (res) {
+                            $('#count').text(res.Flirts);
+                        });
+                });
+            });
+
+            $("#btn-add-post").click(function () {
+                userModel.getLoggedUserId()
+                .then(function (res) {
+                    var content = $("#ta-post-content").val();
+                    var senderId = res;
+                    var receiverId = user.Id;
+
+                    var data = {
+                        'Content': content,
+                        'SenderId': senderId,
+                        'ReceiverId': receiverId
+                    };
+
+                    postModel.sendNewPost(data)
+                    .then(function () {
+                        window.location.reload();
+                    });
+                })
             });
         })
     }
@@ -103,7 +174,9 @@
     }
 
     scope.users = {
-        getAllUsersPage: getAllUsersPage,
+        getAllUsers: getAllUsers,
+        getAllMaleUsers: getAllMaleUsers,
+        getAllFemaleUsers: getAllFemaleUsers,
         getUserProfilePage: getUserProfilePage,
         editUserProfilePage: editUserProfilePage
     };

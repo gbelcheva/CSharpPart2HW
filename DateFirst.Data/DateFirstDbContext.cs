@@ -38,29 +38,29 @@
                 .HasRequired(ai => ai.User)
                 .WithOptional(up => up.AdditionalInfo);
 
-            modelBuilder
-                .Entity<Notification>()
-                .HasRequired(n => n.Sender)
-                .WithOptional()
-                .WillCascadeOnDelete(true);
+            //modelBuilder
+            //    .Entity<Notification>()
+            //    .HasRequired(n => n.Sender)
+            //    .WithOptional()
+            //    .WillCascadeOnDelete(true);
 
-            modelBuilder
-                .Entity<Notification>()
-                .HasRequired(n => n.Receiver)
-                .WithOptional()
-                .WillCascadeOnDelete(false);
+            //modelBuilder
+            //    .Entity<Notification>()
+            //    .HasRequired(n => n.Receiver)
+            //    .WithOptional()
+            //    .WillCascadeOnDelete(false);
 
-            modelBuilder
-                .Entity<Post>()
-                .HasRequired(n => n.Sender)
-                .WithOptional()
-                .WillCascadeOnDelete(true);
+            //modelBuilder
+            //    .Entity<Post>()
+            //    .HasRequired(n => n.Sender)
+            //    .WithOptional()
+            //    .WillCascadeOnDelete(true);
 
-            modelBuilder
-                .Entity<Post>()
-                .HasRequired(n => n.Receiver)
-                .WithOptional()
-                .WillCascadeOnDelete(false);
+            //modelBuilder
+            //    .Entity<Post>()
+            //    .HasRequired(n => n.Receiver)
+            //    .WithOptional()
+            //    .WillCascadeOnDelete(false);
 
             base.OnModelCreating(modelBuilder);
         }

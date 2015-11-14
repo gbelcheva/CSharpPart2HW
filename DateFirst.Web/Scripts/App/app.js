@@ -7,7 +7,13 @@
 
         this.get('#/home', controllers.home.getHomePage);
 
-        this.get('#/users', controllers.users.getAllUsersPage);
+        this.get('#/users', controllers.users.getAllUsers);
+
+        this.get('#/users/male-users', controllers.users.getAllMaleUsers)
+
+        this.get('#/users/female-users', controllers.users.getAllFemaleUsers)
+
+        this.get('#/users/search-result');
 
         this.get('#/users/:id', controllers.users.getUserProfilePage);
 
@@ -20,7 +26,11 @@
         sammyApp.run('#/');
 
         if (userModel.hasUser()) {
-            $('.login-containers').hide();
+            userModel.getLoggedUserName()
+            .then(function (userNames) {
+                $('#logged-user-name').text(userNames);
+                $('.login-containers').hide();
+            });           
         } else {
             $('.logout-container').hide();
         }
@@ -28,7 +38,7 @@
         $('#my-profile').on('click', function () {
             userModel.getLoggedUserId()
             .then(function (res) {
-                document.location = '/#/users/' + res + '/my-profile';         
+                document.location = '/#/users/' + res + '/my-profile';
             });
         });
 
@@ -59,7 +69,7 @@
             };
             userModel.signIn(user)
               .then(function (user) {
-                  toastr.success('Welcome back ' + user.username);
+                  toastr.success('Welcome back!');
                   document.location = '#/';
                   $('#login-modal').modal('toggle');
                   setTimeout(function () {
@@ -87,6 +97,7 @@
                          toastr.success('Registration successful!');
                          document.location = '#/';
                          $('#register-modal').modal('toggle');
+                         $('#logged-user-name').text(user.firstName + ' ' + user.lastName);
                          setTimeout(function () {
                              $('.login-containers').fadeOut(100, function () {
                                  $('.logout-container').fadeIn(500);

@@ -1,17 +1,48 @@
 ﻿body {
     color: #888888;
-    font-family: 'Bree Serif',serif;
+    font-family: 'Open Sans',Arial,sans-serif;
     font-size: 16px;
     /*background-image: url("http://img.photobucket.com/albums/v16/wishuponastar422/blog/layouts/parisholdsthekeybkgcopy.jpg");*/
 }
 
-#image-gallery #links a img{
+a:hover {
+    text-decoration: none;
+    background-color: #F5F5F5;
+}
+
+#navbar {
+    height: 50px;
+    border-bottom: 1px solid #8AB933;
+}
+
+.login-containers a {
+    font-size: 13px;
+    padding: 4px !important;
+    margin-top: 15px;
+    color: #8AB933;
+}
+
+.logout-container #logged-user-name {
+    display: inline-block;
+    margin-top: 17px;
+    margin-left: 10px;
+    color: #8AB933;
+    font-size: 13px;
+}
+
+#image-gallery #links a img {
     width: 150px;
     height: 150px;
 }
 
 .well {
     height: 360px;
+    background: white;
+}
+
+#content {
+    /*border-right: 1px solid #8AB933;
+    border-left: 1px solid #8AB933;*/
 }
 
 #users-container .panel {
@@ -29,6 +60,26 @@
             list-style-type: none;
             display: inline-block;
         }
+
+.btn-user-profile {
+    border: 1px solid lightgray;
+    background: white;
+}
+
+    .btn-user-profile:hover {
+        border-top: 2px solid #8AB933;
+    }
+
+.card-background #flirts {
+    margin-top: 85px;
+    z-index: 5;
+}
+
+.btn-pressed {
+    background: white;
+    border: 1px solid lightgray;
+    border-top: 2px solid #8AB933;
+}
 
 .panel .panel-heading {
     padding: 5px 15px;
@@ -56,6 +107,10 @@
     margin-right: 10px;
 }
 
+.card {
+    margin-top: 0px !important;
+}
+
 .panel-body {
     padding: 0px;
     padding-top: 15px;
@@ -66,24 +121,15 @@
     padding: 0px;
 }
 
-#navbar {
-    margin-bottom: 0px;
-}
-
-.logout-container #user-dropdown {
-    margin-right: 15px;
-}
-
 a#user-image {
-    padding: 0px;
+    padding: 10px;
     margin: 0px;
 }
 
     a#user-image img {
-        border-radius: 100px;
-        width: 40px;
-        height: 40px;
-        margin-top: 5px;
+        border-radius: 5px;
+        width: 25px;
+        height: 25px;
     }
 
 body #wrapper {
@@ -94,6 +140,7 @@ body #wrapper {
 .modal-content {
     width: 60%;
     margin: 0 auto;
+    margin-top: 100px;
 }
 
 .login_modal_footer {
@@ -124,14 +171,14 @@ body #wrapper {
 }
 
 .login_modal_header, .login_modal_footer {
-    background: #00BB64 !important;
+    background: #8AB933 !important;
     color: #fff;
 }
 
 .login-modal input {
     height: 40px;
     box-shadow: none;
-    border: 1px solid #ddd;
+    border: 1px solid #8AB933;
 }
 
 .login-link {
@@ -160,7 +207,15 @@ body #wrapper {
     width: 100%;
     height: 40px;
     margin-bottom: 10px;
+    border: 2px solid #8AB933;
+    background: white;
+    color: #808080;
+    font-size: 18px;
 }
+
+    .modal-login-btn:hover {
+        background-color: #F5F5F5;
+    }
 
 #modal-launcher {
     margin: 30% 0 0 30%;

@@ -33,6 +33,46 @@
         }
 
         [HttpGet]
+        [Route("api/MaleUserProfiles")]
+        public IHttpActionResult GetMaleUsers()
+        {
+            IEnumerable<UserTransferModel> res = this.users.GetAllUsers()
+                .Where(u => u.AdditionalInfo.Gender == DateFirst.Models.Gender.Male)
+                .ProjectTo<UserTransferModel>()
+                .ToList();
+
+            return this.Ok(res);
+        }
+
+        [HttpGet]
+        [Route("api/FemaleUserProfiles")]
+        public IHttpActionResult GetFemaleUsers()
+        {
+            IEnumerable<UserTransferModel> res = this.users.GetAllUsers()
+                .Where(u => u.AdditionalInfo.Gender == DateFirst.Models.Gender.Female)
+                .ProjectTo<UserTransferModel>()
+                .ToList();
+
+            return this.Ok(res);
+        }
+
+        [HttpGet]
+        [Route("api/UserProfiles/Search")]
+        public IHttpActionResult GetSearchedUsers(Gender gender, EyeColor eyeColor, HairColor hairColor, StarSign starSign)
+        {
+            var result = this.users
+                .GetAllUsers()
+                .Where(u => (gender == Gender.Unknown || u.AdditionalInfo.Gender == gender) &&
+                            (eyeColor == EyeColor.Unknown || u.AdditionalInfo.EyeColor == eyeColor) &&
+                            (hairColor == HairColor.Unknown || u.AdditionalInfo.HairColor == hairColor) &&
+                            (starSign == StarSign.Unknown || u.AdditionalInfo.StarSign == starSign))
+                .ProjectTo<UserTransferModel>()
+                .ToList();
+
+            return this.Ok(result);
+        }
+
+        [HttpGet]
         public IHttpActionResult Get(string id)
         {
             var res = this.users.GetAllUsers()

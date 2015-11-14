@@ -38,6 +38,7 @@
             contentType: 'application/x-www-form-urlencoded'
         })
           .then(function (resp) {
+              console.log(resp);
               localStorage.setItem(USER_ACCESS_TOKEN, resp.access_token);
               localStorage.setItem(TOKEN_TYPE, resp.token_type);
               return user;
@@ -86,7 +87,20 @@
 
         return jsonRequester.get('http://localhost:9941/api/UserProfiles')
         .then(function (res) {
-            console.log(res);
+            return res;
+        });
+    }
+
+    function getAllMaleUsers() {
+        return jsonRequester.get('http://localhost:9941/api/MaleUserProfiles')
+        .then(function (res) {
+            return res;
+        });
+    }
+
+    function getAllFemaleUsers() {
+        return jsonRequester.get('http://localhost:9941/api/FemaleUserProfiles')
+        .then(function (res) {
             return res;
         });
     }
@@ -96,6 +110,16 @@
         var bearerCode = localStorage.getItem(TOKEN_TYPE) + ' ' + localStorage.getItem(USER_ACCESS_TOKEN);
 
         return jsonRequester.get('http://localhost:9941/api/Account/LoggedUser', { headers: { 'Authorization': bearerCode } })
+            .then(function (res) {
+                return res;
+            });
+    }
+
+    function getLoggedUserName() {
+
+        var bearerCode = localStorage.getItem(TOKEN_TYPE) + ' ' + localStorage.getItem(USER_ACCESS_TOKEN);
+
+        return jsonRequester.get('http://localhost:9941/api/Account/UserName', { headers: { 'Authorization': bearerCode } })
             .then(function (res) {
                 return res;
             });
@@ -116,15 +140,29 @@
         });
     }
 
+    function getSearchedUsers(data) {
+        return jsonRequester.get('http://localhost:9941/api/UserProfiles/Search', {
+            data: data
+        })
+        .then(function (res) {
+            console.log(res);
+            return res;
+        });
+    }
+
     return {
         register: register,
         signIn: signIn,
         signOut: signOut,
         hasUser: hasUser,
         getAllUsers: getAllUsers,
+        getAllMaleUsers: getAllMaleUsers,
+        getAllFemaleUsers: getAllFemaleUsers,
         getUser: getUser,
         getUserInfo: getUserInfo,
         getLoggedUserId: getLoggedUserId,
+        getLoggedUserName : getLoggedUserName,
+        getSearchedUsers: getSearchedUsers,
         updateUserInfo: updateUserInfo
     };
 

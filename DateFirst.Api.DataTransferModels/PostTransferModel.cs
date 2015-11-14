@@ -11,8 +11,8 @@
         [MaxLength(500)]
         public string Content { get; set; }
 
-        public string ReceiverUsername { get; set; }
+        public string ReceiverName { get; set; }
 
-        public string SenderUsername { get; set; }
+        public string SenderName { get; set; }
     }
 }

@@ -20,8 +20,8 @@
                 .ForMember(n => n.ReceiverUsername, opt => opt.MapFrom(n => n.Receiver.UserName))
                 .ForMember(n => n.SenderUsername, opt => opt.MapFrom(n => n.Sender.UserName));
             Mapper.CreateMap<Post, PostTransferModel>()
-                .ForMember(p => p.ReceiverUsername, opt => opt.MapFrom(p => p.Receiver.UserName))
-                .ForMember(p=>p.SenderUsername, opt => opt.MapFrom(p => p.Sender.UserName));
+                .ForMember(p => p.ReceiverName, opt => opt.MapFrom(p => p.Receiver.FirstName + " " + p.Receiver.LastName))
+                .ForMember(p=>p.SenderName, opt => opt.MapFrom(p => p.Sender.FirstName + " " + p.Sender.LastName));
         }
     }
 }

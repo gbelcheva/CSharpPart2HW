@@ -92,6 +92,18 @@
             return this.Ok(user);
         }
 
+        [Route("UserName")]
+        public IHttpActionResult GetLoggedUserName()
+        {
+            var user = UserManager
+                .FindByName(User.Identity.Name);
+
+            string userNames = user.FirstName + " " + user.LastName;
+
+            return this.Ok(userNames);
+        }
+        
+
         // GET api/Account/UserInfo
         [HostAuthentication(DefaultAuthenticationTypes.ExternalBearer)]
         [Route("UserInfo")]

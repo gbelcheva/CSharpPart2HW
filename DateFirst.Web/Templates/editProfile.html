@@ -108,6 +108,12 @@
                         <img src="{{Url}}" alt="">
                     </a>
                     {{/each}}
+                    <!-- Upload files-->
+                    <div>
+                        <label for="fileUpload">Select File to Upload:</label>
+                        <input id="fileUpload" type="file" />
+                        <input id="btnUploadFile" type="button" value="Upload File" />
+                    </div>
                 </div>
                 <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
                 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
@@ -142,9 +148,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="tab-pane fade in" id="comments">
-                <h1>Comments</h1>
             </div>
         </div>
     </div>

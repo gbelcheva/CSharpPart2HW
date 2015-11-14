@@ -27,39 +27,29 @@
 </head>
 <body>
     <div id="wrapper">
-        <nav class="navbar navbar-default navbar-inverse" id="navbar" role="navigation">
-            <div class="container-fluid">
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <a href="#/home"><h1 class="nav navbar-nav navbar-left">DateFirst</h1></a>
-                    <ul class="nav navbar-nav navbar-right">
-                        <li id="sign-in-container" class="login-containers">
-                            <a href="#/" data-toggle="modal" data-target="#login-modal"><b>Login</b></a>
-                        </li>
-                        <li id="register-container" class="login-containers">
-                            <a href="#/" data-toggle="modal" data-target="#register-modal"><b>Register</b></a>
-                        </li>
-                        <li class="logout-container">
-                            <div class="dropdown" id="user-dropdown">
-                                <a href="" class="dropdown-toggle" id="user-image" data-toggle="dropdown">
-                                    <img src="http://community.playstarbound.com/data/attachments/61/61716-71ca9c4b63cf4c7405525340e6ac6aaf.jpg"/>
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#" id="my-profile">My Profile</a></li>
-                                    <li><a href="#" id="edit-profile">Edit Profile</a></li>
-                                    <li><a href="#" id="sign-out">Logout</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                    </ul>
-                </div><!-- /.navbar-collapse -->
-            </div><!-- /.container-fluid -->
-        </nav>
-
-        <!-- Upload files-->
-        <div>
-            <label for="fileUpload">Select File to Upload:</label>
-            <input id="fileUpload" type="file" />
-            <input id="btnUploadFile" type="button" value="Upload File" />
+        <div id="navbar">
+            <a href="#/home"><h1 class="nav navbar-nav navbar-left">DateFirst</h1></a>
+            <ul class="nav navbar-nav navbar-right">
+                <li id="sign-in-container" class="login-containers">
+                    <a href="#/" data-toggle="modal" data-target="#login-modal"><b>> Login</b></a>
+                </li>
+                <li id="register-container" class="login-containers">
+                    <a href="#/" data-toggle="modal" data-target="#register-modal"><b>> Register</b></a>
+                </li>
+                <li class="logout-container">
+                    <div class="dropdown" id="user-dropdown">
+                        <a href="" class="dropdown-toggle" id="user-image" data-toggle="dropdown">
+                            <img src="http://community.playstarbound.com/data/attachments/61/61716-71ca9c4b63cf4c7405525340e6ac6aaf.jpg" />  
+                            <div id="logged-user-name"></div>                                                  
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#" id="my-profile">My Profile</a></li>
+                            <li><a href="#" id="edit-profile">Edit Profile</a></li>
+                            <li><a href="#" id="sign-out">Logout</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
         </div>
 
         <!--Modal Window Login Start-->
@@ -84,7 +74,7 @@
                                     <i class="fa fa-lock login-field-icon"></i>
                                 </div>
 
-                                <a href="#" class="btn btn-success modal-login-btn" id="sign-in-btn">Login</a>
+                                <a href="#" class="btn modal-login-btn" id="sign-in-btn">Login</a>
                                 <!--<a href="#" class="login-link text-center">Lost your password?</a>-->
                             </div>
                         </div>
@@ -129,7 +119,7 @@
                                     <i class="fa fa-lock login-field-icon"></i>
                                 </div>
 
-                                <a href="#" class="btn btn-success modal-login-btn" id="btn-register">Register</a>
+                                <a href="#" class="btn modal-login-btn" id="btn-register">Register</a>
                             </div>
                         </div>
                         <div class="clearfix"></div>
@@ -146,7 +136,6 @@
         </div>
 
         <!-- Image Gallery scripts -->
-
         <!--<script src="Scripts/bootstrap-image-gallery.min.js"></script>-->
         <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
 
@@ -158,6 +147,7 @@
         <script src="Scripts/App/templates.js"></script>
         <script src="Scripts/Models/homeModel.js"></script>
         <script src="Scripts/Models/userModel.js"></script>
+        <script src="Scripts/Models/postModel.js"></script>
         <script src="Scripts/App/app.js"></script>
     </div>
 </body>
