@@ -12,12 +12,16 @@
           .then(function (template) {
               context.$element().html(template(homePage));
 
+              
+
               var chat = PUBNUB.init({
                   publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
                   subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
               });
 
               $('#btn-send-message').click(function () {
+                  $("#chat").animate({ scrollTop: $(document).height() }, "slow");
+
                   var messageToSend = $('#ta-shoutbox-message').val();
                   $('#ta-shoutbox-message').val('');
 
