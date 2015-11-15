@@ -82,13 +82,10 @@ a:hover {
             background: url("../favicon.ico") 92% / 9% no-repeat white;
         }
 
-#shout-box {
-    float: left;
-}
-
 #users-container .panel {
     margin-top: 10px;
     margin-bottom: 0px;
+    float: right;
     padding: 0px;
     border-color: #8AB933;
 }

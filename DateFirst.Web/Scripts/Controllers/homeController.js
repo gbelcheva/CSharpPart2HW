@@ -12,6 +12,57 @@
           .then(function (template) {
               context.$element().html(template(homePage));
 
+              var chat = PUBNUB.init({
+                  publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
+                  subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
+              });
+
+              $('#btn-send-message').click(function () {
+                  var messageToSend = $('#ta-shoutbox-message').val();
+                  $('#ta-shoutbox-message').val('');
+
+                  chat.publish({
+                      channel: 'DateFirst',
+                      message: { "Text": messageToSend }
+                  });
+
+                  var htmlToAdd = '<a class="pull-left" href="#">' +
+                                           '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                       '</a>' +
+                                       '<div class="media-body">' +
+                                          '<h4 class="media-heading">' +
+                                               'John Smith' +
+                                               '<span class="small pull-right">12:28 PM</span>' +
+                                           '</h4>' +
+                                           '<p>' + messageToSend + '</p>' +
+                                       '</div>'+
+                                        '<hr/>';
+
+                  $('#msg-content').append(htmlToAdd);
+
+                  chat.subscribe({
+                      channel: 'DateFirst',
+                      message: function (m) {
+                          var htmlToAdd = '<a class="pull-left" href="#">' +
+                                           '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                       '</a>' +
+                                       '<div class="media-body">' +
+                                          '<h4 class="media-heading">' +
+                                               'John Smith' +
+                                               '<span class="small pull-right">12:28 PM</span>' +
+                                           '</h4>' +
+                                           '<p>' + m.Text + '</p>' +
+                                       '</div>' +
+                                        '<hr/>';
+                          $('#msg-content').append(htmlToAdd);
+                      }
+                  });
+
+                  
+              })
+
+             
+
               $('#btn-search').click(function () {
                   var foundUsers;
                   var gender = $('#search-gender').val();
