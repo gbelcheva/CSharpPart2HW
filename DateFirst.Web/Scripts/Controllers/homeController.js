@@ -17,63 +17,65 @@
                   subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
               });
 
-            $('#btn-send-message').click(function() {
-                var messageToSend = $('#ta-shoutbox-message').val();
-                $('#ta-shoutbox-message').val('');
+              $('#btn-send-message').click(function () {
+                  var messageToSend = $('#ta-shoutbox-message').val();
+                  $('#ta-shoutbox-message').val('');
 
-                chat.publish({
-                    channel: 'DateFirst',
-                    message: { "Text": messageToSend }
-                });
+                  function addZero(num) {
+                      return (num >= 0 && num < 10) ? "0" + num : num + "";
+                  }
 
+                  var now = new Date();
+                  var strDateTime = [[addZero(now.getHours()), addZero(now.getMinutes())].join(":"), now.getHours() >= 12 ? "PM" : "AM"].join(" ");
 
-                function addZero(num) {
-                    return (num >= 0 && num < 10) ? "0" + num : num + "";
-                }
+                  var currentLogginUser;
+                  var promise = userModel.getLoggedUserName();
+                  promise.then(function (res) {
+                      currentLogginUser = res;
 
-                var now = new Date();
-                var strDateTime = [[addZero(now.getHours()), addZero(now.getMinutes())].join(":"), now.getHours() >= 12 ? "PM" : "AM"].join(" ");
+                      var htmlToAdd = '<a class="pull-left" href="#">' +
+                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                         '</a>' +
+                                         '<div class="media-body">' +
+                                            '<h4 class="media-heading">' +
+                                                 currentLogginUser +
+                                                 '<span class="small pull-right">' + strDateTime + '</span>' +
+                                             '</h4>' +
+                                             '<p>' + messageToSend + '</p>' +
+                                         '</div>' +
+                                          '<hr/>';
 
-                var currentLogginUser;
-                var promise = userModel.getLoggedUserName();
-                promise.then(function (res) {
-                    currentLogginUser = res;
+                      $('#msg-content').append(htmlToAdd);
 
-                    var htmlToAdd = '<a class="pull-left" href="#">' +
+                      chat.publish({
+                          channel: 'DateFirst',
+                          message: {
+                              "Text": messageToSend,
+                              "Sender": currentLogginUser
+                          }
+                      });
+                  });
+
+                  chat.subscribe({
+                      channel: 'DateFirst',
+                      message: function (m) {
+                          var htmlToAdd = '<a class="pull-left" href="#">' +
                                            '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
                                        '</a>' +
                                        '<div class="media-body">' +
                                           '<h4 class="media-heading">' +
-                                               currentLogginUser +
+                                               m.Sender +
                                                '<span class="small pull-right">' + strDateTime + '</span>' +
                                            '</h4>' +
-                                           '<p>' + messageToSend + '</p>' +
+                                           '<p>' + m.Text + '</p>' +
                                        '</div>' +
                                         '<hr/>';
+                          $('#msg-content').append(htmlToAdd);
+                      }
+                  });
+              });
 
-                    $('#msg-content').append(htmlToAdd);
-                });
 
-                chat.subscribe({
-                    channel: 'DateFirst',
-                    message: function (m) {
-                        var htmlToAdd = '<a class="pull-left" href="#">' +
-                                         '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
-                                     '</a>' +
-                                     '<div class="media-body">' +
-                                        '<h4 class="media-heading">' +
-                                             currentLogginUser +
-                                             '<span class="small pull-right">' + strDateTime + '</span>' +
-                                         '</h4>' +
-                                         '<p>' + m.Text + '</p>' +
-                                     '</div>' +
-                                      '<hr/>';
-                        $('#msg-content').append(htmlToAdd);
-                    }
-                });
-            });
-
-             
 
               $('#btn-search').click(function () {
                   var foundUsers;
