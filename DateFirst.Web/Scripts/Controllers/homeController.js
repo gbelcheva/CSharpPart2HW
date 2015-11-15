@@ -17,49 +17,61 @@
                   subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
               });
 
-              $('#btn-send-message').click(function () {
-                  var messageToSend = $('#ta-shoutbox-message').val();
-                  $('#ta-shoutbox-message').val('');
+            $('#btn-send-message').click(function() {
+                var messageToSend = $('#ta-shoutbox-message').val();
+                $('#ta-shoutbox-message').val('');
 
-                  chat.publish({
-                      channel: 'DateFirst',
-                      message: { "Text": messageToSend }
-                  });
+                chat.publish({
+                    channel: 'DateFirst',
+                    message: { "Text": messageToSend }
+                });
 
-                  var htmlToAdd = '<a class="pull-left" href="#">' +
+
+                function addZero(num) {
+                    return (num >= 0 && num < 10) ? "0" + num : num + "";
+                }
+
+                var now = new Date();
+                var strDateTime = [[addZero(now.getHours()), addZero(now.getMinutes())].join(":"), now.getHours() >= 12 ? "PM" : "AM"].join(" ");
+
+                var currentLogginUser;
+                var promise = userModel.getLoggedUserName();
+                promise.then(function (res) {
+                    currentLogginUser = res;
+
+                    var htmlToAdd = '<a class="pull-left" href="#">' +
                                            '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
                                        '</a>' +
                                        '<div class="media-body">' +
                                           '<h4 class="media-heading">' +
-                                               'John Smith' +
-                                               '<span class="small pull-right">12:28 PM</span>' +
+                                               currentLogginUser +
+                                               '<span class="small pull-right">' + strDateTime + '</span>' +
                                            '</h4>' +
                                            '<p>' + messageToSend + '</p>' +
-                                       '</div>'+
-                                        '<hr/>';
-
-                  $('#msg-content').append(htmlToAdd);
-
-                  chat.subscribe({
-                      channel: 'DateFirst',
-                      message: function (m) {
-                          var htmlToAdd = '<a class="pull-left" href="#">' +
-                                           '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
-                                       '</a>' +
-                                       '<div class="media-body">' +
-                                          '<h4 class="media-heading">' +
-                                               'John Smith' +
-                                               '<span class="small pull-right">12:28 PM</span>' +
-                                           '</h4>' +
-                                           '<p>' + m.Text + '</p>' +
                                        '</div>' +
                                         '<hr/>';
-                          $('#msg-content').append(htmlToAdd);
-                      }
-                  });
 
-                  
-              })
+                    $('#msg-content').append(htmlToAdd);
+                });
+
+                chat.subscribe({
+                    channel: 'DateFirst',
+                    message: function (m) {
+                        var htmlToAdd = '<a class="pull-left" href="#">' +
+                                         '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                     '</a>' +
+                                     '<div class="media-body">' +
+                                        '<h4 class="media-heading">' +
+                                             currentLogginUser +
+                                             '<span class="small pull-right">' + strDateTime + '</span>' +
+                                         '</h4>' +
+                                         '<p>' + m.Text + '</p>' +
+                                     '</div>' +
+                                      '<hr/>';
+                        $('#msg-content').append(htmlToAdd);
+                    }
+                });
+            });
 
              
 
