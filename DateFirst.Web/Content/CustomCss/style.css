@@ -35,14 +35,10 @@ a:hover {
     height: 150px;
 }
 
-#content {
-    /*border-right: 1px solid #8AB933;
-    border-left: 1px solid #8AB933;*/
-}
-
 #search-container {
     float: left;
     width: 33.33333%;
+    padding: 0px;
 }
 
     #search-container .panel {
@@ -76,15 +72,19 @@ a:hover {
         #search-container .panel .panel-body div select {
             border: 1px solid #111;
             background: transparent;
-            padding: 5px 35px 5px 5px;
+            margin-left: 5px;
+            padding: 0px 25px 0px 5px;
             font-size: 16px;
             border: 1px solid #ccc;
             height: 34px;
             -webkit-appearance: none;
             -moz-appearance: none;
-            background: url("../favicon.ico") 92% / 10% no-repeat white;
+            background: url("../favicon.ico") 92% / 9% no-repeat white;
         }
 
+#shout-box {
+    float: left;
+}
 
 #users-container .panel {
     margin-top: 10px;
@@ -202,11 +202,6 @@ a:hover {
 .panel-body {
     padding: 0px;
     padding-top: 15px;
-}
-
-#search-container {
-    height: 600px;
-    padding: 0px;
 }
 
 a#user-image {
