@@ -1,67 +1,73 @@
-﻿<div class="col-md-4" id="search-container">
-    <p>Search box</p>
-    <div>
-        Gender:
-        <select id="search-gender" class="selectpicker">
-            <option value="3">Nothing Selected</option>
-            <option value="0">Male</option>
-            <option value="1">Female</option>
-            <option value="2">Other</option>
-        </select>
-    </div>
-    <div>
-        Eye Color:
-        <select id="search-eye-color" class="selectpicker">
-            <option value="6">Nothing Selected</option>
-            <option value="0">Albino</option>
-            <option value="1">Green</option>
-            <option value="2">Blue</option>
-            <option value="3">Brown</option>
-            <option value="4">Hazel</option>
-            <option value="5">Grey</option>
-        </select>
-    </div>
-    <div>
-        Hair Color:
-        <select id="search-hair-color" class="selectpicker">
-            <option value="8">Nothing Selected</option>
-            <option value="0">Blonde</option>
-            <option value="1">Brown</option>
-            <option value="2">Red</option>
-            <option value="3">Ginger</option>
-            <option value="4">Black</option>
-            <option value="5">Grey</option>
-            <option value="6">Colored</option>
-            <option value="7">Albino</option>
-        </select>
-    </div>
-    <div>
-        Star Sign:
-        <select id="search-star-sign" class="selectpicker">
-            <option value="12">Nothing Selected</option>
-            <option value="0">Aries</option>
-            <option value="1">Taurus</option>
-            <option value="2">Gemini</option>
-            <option value="3">Cancer</option>
-            <option value="4">Leo</option>
-            <option value="5">Virgo</option>
-            <option value="6">Libra</option>
-            <option value="7">Scorpio</option>
-            <option value="8">Sagittarius</option>
-            <option value="9">Capricorn</option>
-            <option value="10">Aquarius</option>
-            <option value="11">Pisces</option>
-        </select>
+﻿<div id="search-container">
+    <div class="panel col-md-4">
+        <div class="panel-heading">
+            <h3 class="panel-title">Search</h3>
+        </div>
+        <div class="panel-body">
+            <div>
+                Gender 
+                <select id="search-gender" class="selectpicker">
+                    <option value="3">Nothing Selected</option>
+                    <option value="0">Male</option>
+                    <option value="1">Female</option>
+                    <option value="2">Other</option>
+                </select>
+            </div>
+            <div>
+                Eye Color 
+                <select id="search-eye-color" class="selectpicker">
+                    <option value="6">Nothing Selected</option>
+                    <option value="0">Albino</option>
+                    <option value="1">Green</option>
+                    <option value="2">Blue</option>
+                    <option value="3">Brown</option>
+                    <option value="4">Hazel</option>
+                    <option value="5">Grey</option>
+                </select>
+            </div>
+            <div>
+                Hair Color 
+                <select id="search-hair-color" class="selectpicker">
+                    <option value="8">Nothing Selected</option>
+                    <option value="0">Blonde</option>
+                    <option value="1">Brown</option>
+                    <option value="2">Red</option>
+                    <option value="3">Ginger</option>
+                    <option value="4">Black</option>
+                    <option value="5">Grey</option>
+                    <option value="6">Colored</option>
+                    <option value="7">Albino</option>
+                </select>
+            </div>
+            <div>
+                Star Sign 
+                <select id="search-star-sign" class="selectpicker">
+                    <option value="12">Nothing Selected</option>
+                    <option value="0">Aries</option>
+                    <option value="1">Taurus</option>
+                    <option value="2">Gemini</option>
+                    <option value="3">Cancer</option>
+                    <option value="4">Leo</option>
+                    <option value="5">Virgo</option>
+                    <option value="6">Libra</option>
+                    <option value="7">Scorpio</option>
+                    <option value="8">Sagittarius</option>
+                    <option value="9">Capricorn</option>
+                    <option value="10">Aquarius</option>
+                    <option value="11">Pisces</option>
+                </select>
+            </div>
+            <button id="btn-search" class="btn btn-user-profile">Search</button>
+        </div>
     </div>
 
-    <button id="btn-search">Search</button>
     <!--gender: dropdown
     age: 2 dropdowns
     town: string/dropdown?-->
 </div>
 
 <div id="users-container">
-    <div class="panel panel-info col-md-8" id="best-male-daters-container">
+    <div class="panel col-md-8" id="best-male-daters-container">
         <div class="panel-heading">
             <h3 class="panel-title">Best male users</h3>
         </div>
@@ -79,7 +85,7 @@
         </div>
         <a href="#/users/male-users">Browse all male users</a>
     </div>
-    <div class="panel panel-info col-md-8" id="best-female-daters-container">
+    <div class="panel col-md-8" id="best-female-daters-container">
         <div class="panel-heading">
             <h3 class="panel-title">Best female users</h3>
         </div>
@@ -97,7 +103,7 @@
         </div>
         <a href="#/users/female-users">Browse all female users</a>
     </div>
-    <div class="panel panel-info col-md-8" id="newest-daters-container">
+    <div class="panel col-md-8" id="newest-daters-container">
         <div class="panel-heading">
             <h3 class="panel-title">Newest users</h3>
         </div>

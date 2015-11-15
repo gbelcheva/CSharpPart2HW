@@ -39,38 +39,38 @@
     <div class="well">
         <div class="tab-content">
             <div class="tab-pane fade in active" id="user-info">
-                <div>Age: {{this.AdditionalInfo.Age}}</div>
-                <div>Heigth: {{this.AdditionalInfo.Heigth}}</div>
-                <div>Weight: {{this.AdditionalInfo.Weight}}</div>
-                <div>Job Title: {{this.AdditionalInfo.JobTitle}}</div>
-                <div>Money: {{this.AdditionalInfo.Salary}}$</div>
-                <div>Star Sign: {{this.AdditionalInfo.StarSign}}</div>
-                <div>Gender: {{this.AdditionalInfo.Gender}}</div>
-                <div>Hair Color: {{this.AdditionalInfo.HairColor}}</div>
-                <div>Eye Color: {{this.AdditionalInfo.EyeColor}}</div>
-                <div>About me: {{this.AdditionalInfo.AboutMe}}</div>
-                <div>Hobbies: {{this.AdditionalInfo.Hobbies}}</div>
+                <div id="info-1">
+                    <div>Gender: {{this.AdditionalInfo.Gender}}</div>
+                    <div>Age: {{this.AdditionalInfo.Age}}</div>
+                    <div>Heigth: {{this.AdditionalInfo.Heigth}}</div>
+                    <div>Weight: {{this.AdditionalInfo.Weight}}</div>
+                    <div>Hair Color: {{this.AdditionalInfo.HairColor}}</div>
+                    <div>Eye Color: {{this.AdditionalInfo.EyeColor}}</div>
+                    <div>Star Sign: {{this.AdditionalInfo.StarSign}}</div>
+                </div>
+                <div id="info-2">
+                    <div>Job Title: {{this.AdditionalInfo.JobTitle}}</div>
+                    <div>Salary: {{this.AdditionalInfo.Salary}}$</div>
+                    <div>Hobbies: {{this.AdditionalInfo.Hobbies}}</div>
+                    <div id="about-me-header">About me: </div>
+                    <div id="about-me-content">{{this.AdditionalInfo.AboutMe}}</div>
+                </div>
             </div>
             <div class="tab-pane fade in" id="image-gallery">
                 <div id="links">
-                    <!-- Generate using handlebars -->
                     {{#each this.Images}}
                     <a href="{{Url}}" title="" data-gallery>
                         <img src="{{Url}}" alt="">
                     </a>
                     {{/each}}
                 </div>
-                <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
                 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-                    <!-- The container for the modal slides -->
                     <div class="slides"></div>
-                    <!-- Controls for the borderless lightbox -->
                     <h3 class="title"></h3>
                     <a class="prev">‹</a>
                     <a class="next">›</a>
                     <a class="close">×</a>
                     <ol class="indicator"></ol>
-                    <!-- The modal dialog, which will be used to wrap the lightbox content -->
                     <div class="modal fade">
                         <div class="modal-dialog">
                             <div class="modal-content">
