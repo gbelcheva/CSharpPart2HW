@@ -1,10 +1,12 @@
 ﻿namespace DateFirst.Services
 {
-    using Data.Repositories;
-    using Models;
     using System.Linq;
 
-    public class UserProfilesService
+    using Contracts;
+    using Data.Repositories;
+    using Models;
+
+    public class UserProfilesService : IUserProfilesService
     {
         private readonly IDateFirstData data;
 
