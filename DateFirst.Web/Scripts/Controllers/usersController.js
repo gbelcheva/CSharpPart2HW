@@ -82,10 +82,10 @@
                 });
             });
 
-            $("#btn-add-post").click(function () {
+            $("#btn-send-comment").click(function () {
                 userModel.getLoggedUserId()
                 .then(function (res) {
-                    var content = $("#ta-post-content").val();
+                    var content = $("#ta-comment-message").val();
                     var senderId = res;
                     var receiverId = user.Id;
 
@@ -110,6 +110,7 @@
 
         promise.then(function (resUser) {
             user = resUser;
+            console.log(user);
             return templates.get('editProfile');
         })
         .then(function (template) {
@@ -122,14 +123,39 @@
                 $(this).removeClass("btn-user-profile").addClass("btn-pressed");
             });
 
+            $("#btn-send-comment").click(function () {
+                userModel.getLoggedUserId()
+                .then(function (res) {
+                    console.log(res);
+                    var content = $("#ta-comment-message").val();
+                    var senderId = res;
+                    var receiverId = user.Id;
+
+                    var data = {
+                        'Content': content,
+                        'SenderId': senderId,
+                        'ReceiverId': receiverId
+                    };
+
+                    postModel.sendNewPost(data)
+                    .then(function () {
+                        //window.location.reload();
+                    });
+                })
+            });
+
+            $('#fileUpload').on('change', function myfunction() {
+                var files = $("#fileUpload").get(0).files;
+                $("#tb-selected-file").val(files[0].name);
+            })
+
             $('#btnUploadFile').on('click', function () {
                 var data = new FormData();
 
                 var files = $("#fileUpload").get(0).files;
 
                 if (files.length > 0) {
-                    data.append("UploadedImage", files[0]);
-                    console.log(files[0]);
+                    data.append("UploadedImage", files[0]);               
                 }
 
                 var ajaxRequest = $.ajax({
@@ -142,6 +168,7 @@
                 });
 
                 ajaxRequest.done(function (xhr, textStatus) {
+                    toastr.success('Image uploaded!');
                     // Do other operation
                 });
             });
