@@ -21,6 +21,9 @@
 
         IRepository<User> Users { get; }
 
+        IRepository<TEntity> GetRepository<TEntity>()
+            where TEntity : class;
+
         int SaveChanges();
     }
 }

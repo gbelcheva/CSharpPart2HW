@@ -67,7 +67,7 @@
             return this.context.SaveChanges();
         }
 
-        private IRepository<TEntity> GetRepository<TEntity>()
+        public IRepository<TEntity> GetRepository<TEntity>()
             where TEntity : class
         {
             Type typeOfRepository = typeof(TEntity);

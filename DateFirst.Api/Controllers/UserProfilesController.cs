@@ -7,8 +7,8 @@
     using AutoMapper.QueryableExtensions;
     using Data.Repositories;
     using DataTransferModels;
-    using Services;
     using DateFirst.Models;
+    using Services;
 
     public class UserProfilesController : ApiController
     {

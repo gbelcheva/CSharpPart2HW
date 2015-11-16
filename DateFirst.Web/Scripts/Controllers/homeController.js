@@ -17,6 +17,12 @@
                   subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
               });
 
+              $('#ta-shoutbox-message').keyup(function (event) {
+                  if (event.keyCode == 13) {
+                      $('#btn-send-message').click();
+                  }
+              });
+
               var currentLogginUser;
               var promise = userModel.getLoggedUserName();
               $('#btn-send-message').click(function () {
