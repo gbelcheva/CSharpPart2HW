@@ -12,13 +12,13 @@
           .then(function (template) {
               context.$element().html(template(homePage));
 
-              
-
               var chat = PUBNUB.init({
                   publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
                   subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
               });
 
+              var currentLogginUser;
+              var promise = userModel.getLoggedUserName();
               $('#btn-send-message').click(function () {
                   $("#chat").animate({ scrollTop: $(document).height() }, "slow");
 
@@ -32,8 +32,7 @@
                   var now = new Date();
                   var strDateTime = [[addZero(now.getHours()), addZero(now.getMinutes())].join(":"), now.getHours() >= 12 ? "PM" : "AM"].join(" ");
 
-                  var currentLogginUser;
-                  var promise = userModel.getLoggedUserName();
+                  
                   promise.then(function (res) {
                       currentLogginUser = res;
 
@@ -69,7 +68,7 @@
 
                   chat.subscribe({
                       channel: 'DateFirst',
-                      message: function (m) {
+                      message: function (message) {
                           var htmlToAdd = '<div class="row">' +
                                             '<div class="col-lg-12">' +
                                                 '<div class="media" >' +
@@ -78,10 +77,10 @@
                                                     '</a>' +
                                                     '<div class="media-body">' +
                                                         '<h4 class="media-heading">' +
-                                                            currentLogginUser +
+                                                            message.Sender +
                                                             '<span class="small pull-right">' + strDateTime + '</span>' +
                                                         '</h4>' +
-                                                        '<p>' + messageToSend + '</p>' +
+                                                        '<p>' + message.Text + '</p>' +
                                                     '</div>' +
                                                     '<hr/>' +
                                                 '</div>' +
