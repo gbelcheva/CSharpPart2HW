@@ -51,6 +51,8 @@
         .then(function (template) {
             context.$element().html(template(user));
 
+            $('#btn-bio').removeClass("btn-user-profile").addClass("btn-pressed");
+
             $(".btn-pref .btn").click(function () {
                 $(".btn-pref .btn").removeClass("btn-pressed").addClass("btn-user-profile");
                 $(this).removeClass("btn-user-profile").addClass("btn-pressed");
@@ -112,6 +114,13 @@
         })
         .then(function (template) {
             context.$element().html(template(user));
+
+            $('#btn-bio').removeClass("btn-user-profile").addClass("btn-pressed");
+
+            $(".btn-pref .btn").click(function () {
+                $(".btn-pref .btn").removeClass("btn-pressed").addClass("btn-user-profile");
+                $(this).removeClass("btn-user-profile").addClass("btn-pressed");
+            });
 
             $('#btnUploadFile').on('click', function () {
                 var data = new FormData();

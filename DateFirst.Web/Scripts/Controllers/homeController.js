@@ -37,19 +37,26 @@
                   promise.then(function (res) {
                       currentLogginUser = res;
 
-                      var htmlToAdd = '<a class="pull-left" href="#">' +
-                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
-                                         '</a>' +
-                                         '<div class="media-body">' +
-                                            '<h4 class="media-heading">' +
-                                                 currentLogginUser +
-                                                 '<span class="small pull-right">' + strDateTime + '</span>' +
-                                             '</h4>' +
-                                             '<p>' + messageToSend + '</p>' +
-                                         '</div>' +
-                                          '<hr/>';
+                      var htmlToAdd = '<div class="row">' +
+                                            '<div class="col-lg-12">' +
+                                                '<div class="media" >' +
+                                                    '<a class="pull-left" href="#">' +
+                                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                                    '</a>' +
+                                                    '<div class="media-body">' +
+                                                        '<h4 class="media-heading">' +
+                                                            currentLogginUser +
+                                                            '<span class="small pull-right">' + strDateTime + '</span>' +
+                                                        '</h4>' +
+                                                        '<p>' + messageToSend + '</p>' +
+                                                    '</div>' +
+                                                    '<hr/>' +
+                                                '</div>' +
+                                            '</div>' +
+                                        '</div>';
 
                       $('#msg-content').append(htmlToAdd);
+                      $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
 
                       chat.publish({
                           channel: 'DateFirst',
@@ -63,18 +70,25 @@
                   chat.subscribe({
                       channel: 'DateFirst',
                       message: function (m) {
-                          var htmlToAdd = '<a class="pull-left" href="#">' +
-                                           '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
-                                       '</a>' +
-                                       '<div class="media-body">' +
-                                          '<h4 class="media-heading">' +
-                                               m.Sender +
-                                               '<span class="small pull-right">' + strDateTime + '</span>' +
-                                           '</h4>' +
-                                           '<p>' + m.Text + '</p>' +
-                                       '</div>' +
-                                        '<hr/>';
+                          var htmlToAdd = '<div class="row">' +
+                                            '<div class="col-lg-12">' +
+                                                '<div class="media" >' +
+                                                    '<a class="pull-left" href="#">' +
+                                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                                    '</a>' +
+                                                    '<div class="media-body">' +
+                                                        '<h4 class="media-heading">' +
+                                                            currentLogginUser +
+                                                            '<span class="small pull-right">' + strDateTime + '</span>' +
+                                                        '</h4>' +
+                                                        '<p>' + messageToSend + '</p>' +
+                                                    '</div>' +
+                                                    '<hr/>' +
+                                                '</div>' +
+                                            '</div>' +
+                                        '</div>';
                           $('#msg-content').append(htmlToAdd);
+                          $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
                       }
                   });
               });
