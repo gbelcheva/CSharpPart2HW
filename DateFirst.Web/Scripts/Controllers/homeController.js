@@ -12,6 +12,94 @@
           .then(function (template) {
               context.$element().html(template(homePage));
 
+              var chat = PUBNUB.init({
+                  publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
+                  subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
+              });
+
+              $('#ta-shoutbox-message').keyup(function (event) {
+                  if (event.keyCode == 13) {
+                      $('#btn-send-message').click();
+                  }
+              });
+
+              var currentLogginUser;
+              var promise = userModel.getLoggedUserName();
+              $('#btn-send-message').click(function () {
+                  $("#chat").animate({ scrollTop: $(document).height() }, "slow");
+
+                  var messageToSend = $('#ta-shoutbox-message').val();
+                  $('#ta-shoutbox-message').val('');
+
+                  function addZero(num) {
+                      return (num >= 0 && num < 10) ? "0" + num : num + "";
+                  }
+
+                  var now = new Date();
+                  var strDateTime = [[addZero(now.getHours()), addZero(now.getMinutes())].join(":"), now.getHours() >= 12 ? "PM" : "AM"].join(" ");
+
+                  
+                  promise.then(function (res) {
+                      currentLogginUser = res;
+
+                      var htmlToAdd = '<div class="row">' +
+                                            '<div class="col-lg-12">' +
+                                                '<div class="media" >' +
+                                                    '<a class="pull-left" href="#">' +
+                                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                                    '</a>' +
+                                                    '<div class="media-body">' +
+                                                        '<h4 class="media-heading">' +
+                                                            currentLogginUser +
+                                                            '<span class="small pull-right">' + strDateTime + '</span>' +
+                                                        '</h4>' +
+                                                        '<p>' + messageToSend + '</p>' +
+                                                    '</div>' +
+                                                    '<hr/>' +
+                                                '</div>' +
+                                            '</div>' +
+                                        '</div>';
+
+                      $('#msg-content').append(htmlToAdd);
+                      $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
+
+                      chat.publish({
+                          channel: 'DateFirst',
+                          message: {
+                              "Text": messageToSend,
+                              "Sender": currentLogginUser
+                          }
+                      });
+                  });
+
+                  chat.subscribe({
+                      channel: 'DateFirst',
+                      message: function (message) {
+                          var htmlToAdd = '<div class="row">' +
+                                            '<div class="col-lg-12">' +
+                                                '<div class="media" >' +
+                                                    '<a class="pull-left" href="#">' +
+                                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                                    '</a>' +
+                                                    '<div class="media-body">' +
+                                                        '<h4 class="media-heading">' +
+                                                            message.Sender +
+                                                            '<span class="small pull-right">' + strDateTime + '</span>' +
+                                                        '</h4>' +
+                                                        '<p>' + message.Text + '</p>' +
+                                                    '</div>' +
+                                                    '<hr/>' +
+                                                '</div>' +
+                                            '</div>' +
+                                        '</div>';
+                          $('#msg-content').append(htmlToAdd);
+                          $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
+                      }
+                  });
+              });
+
+
+
               $('#btn-search').click(function () {
                   var foundUsers;
                   var gender = $('#search-gender').val();

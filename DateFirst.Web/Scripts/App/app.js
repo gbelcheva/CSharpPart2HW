@@ -17,9 +17,9 @@
 
         this.get('#/users/:id', controllers.users.getUserProfilePage);
 
-        this.get('#/users/:id/my-profile', controllers.users.getUserProfilePage);
+        this.get('#/users/:id/my-profile', controllers.users.editUserProfilePage);
 
-        this.get('#/users/:id/edit-profile', controllers.users.editUserProfilePage);
+        //this.get('#/users/:id/edit-profile', controllers.users.getUserProfilePage);
     });
 
     $(function () {

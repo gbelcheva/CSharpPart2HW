@@ -85,6 +85,7 @@
     <Content Include="Content\bootstrap-image-gallery.min.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\CustomCss\chat-style.css" />
     <Content Include="Content\CustomCss\style.css" />
     <Content Include="Content\CustomCss\user-profile-style.css" />
     <Content Include="Content\favicon.ico" />

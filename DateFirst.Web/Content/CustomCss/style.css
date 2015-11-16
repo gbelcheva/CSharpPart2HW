@@ -5,6 +5,15 @@
     /*background-image: url("http://img.photobucket.com/albums/v16/wishuponastar422/blog/layouts/parisholdsthekeybkgcopy.jpg");*/
 }
 
+p {
+    font-size: 14px;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 a:hover {
     text-decoration: none;
     background-color: #F5F5F5;
@@ -35,18 +44,14 @@ a:hover {
     height: 150px;
 }
 
-#content {
-    /*border-right: 1px solid #8AB933;
-    border-left: 1px solid #8AB933;*/
-}
-
 #search-container {
     float: left;
     width: 33.33333%;
+    padding: 0px;
 }
 
     #search-container .panel {
-        margin-top: 10px;
+        border-radius: 0px;
         margin-bottom: 0px;
         padding: 0px;
         border-color: #8AB933;
@@ -55,6 +60,7 @@ a:hover {
     }
 
         #search-container .panel .panel-heading {
+            border-radius: 0px;
             color: white;
             background-color: #8AB933;
         }
@@ -68,66 +74,168 @@ a:hover {
         #search-container .panel .panel-body button {
             background-color: white;
             color: black;
-            margin-top: 30px;
-            margin-left: 200px;
-            font-size: 17px;
+            margin-bottom: 5px;
+            margin-left: 250px;
+            font-size: 14px;
         }
 
         #search-container .panel .panel-body div select {
+            border-radius: 5px;
             border: 1px solid #111;
             background: transparent;
-            padding: 5px 35px 5px 5px;
+            margin-left: 5px;
+            padding: 0px 5px 0px 5px;
             font-size: 16px;
             border: 1px solid #ccc;
-            height: 34px;
-            -webkit-appearance: none;
-            -moz-appearance: none;
-            background: url("../favicon.ico") 92% / 10% no-repeat white;
+            height: 25px;
         }
 
-
-#users-container .panel {
-    margin-top: 10px;
-    margin-bottom: 0px;
-    padding: 0px;
-    border-color: #8AB933;
+#users-container {
+    float: right;
+    width: 66.666%;
 }
 
-    #users-container .panel a {
-        font-size: 14px;
-        color: #8AB933;
-    }
-
-    #users-container .panel .panel-heading {
-        color: white;
-        background-color: #8AB933;
-    }
-
-    #users-container .panel ul {
-        padding-left: 0px;
+    #users-container .panel {
         margin-bottom: 0px;
+        border-radius: 0px;
+        padding: 0px;
+        border-color: #8AB933;
+        width: 100%;
     }
 
-        #users-container .panel ul li {
-            list-style-type: none;
-            display: inline-block;
+        #users-container .panel a {
+            font-size: 14px;
             color: #8AB933;
         }
 
-            #users-container .panel ul li a {
+        #users-container .panel .panel-heading {
+            border-radius: 0px;
+            color: white;
+            background-color: #8AB933;
+        }
+
+        #users-container .panel ul {
+            padding-left: 0px;
+            margin-bottom: 0px;
+        }
+
+            #users-container .panel ul li {
+                list-style-type: none;
+                display: inline-block;
                 color: #8AB933;
+                width: 19%;
+                vertical-align: top;
+                margin-top: 5px;
             }
+
+                #users-container .panel ul li a {
+                    color: #8AB933;
+                }
+
+#shout-box {
+    padding: 0px;
+    width: 33.33333%;
+    float: left;
+}
+
+    #shout-box .panel {
+        margin: 0px;
+        padding: 0px;
+        border: 1px solid #8AB933;
+        border-radius: 0px;
+        width: 95%;
+    }
+
+        #shout-box .panel .portlet {
+            border: none;
+            margin: 0px;
+        }
+
+        #shout-box .panel .portlet-heading {
+            background: #8AB933;
+            padding: 5px 15px;
+            line-height: 1.1;
+        }
+
+            #shout-box .panel .portlet-heading .portlet-widgets {
+                margin: 0px;
+            }
+
+        #shout-box .panel .portlet-title h3 {
+            margin: 0px;
+            color: white;
+            font-family: 'Open Sans',Arial,sans-serif !important;
+            font-size: 16px !important;
+        }
+
+        #shout-box .panel .portlet #chat {
+            height: 100%;
+        }
+
+            #shout-box .panel .portlet #chat #chat-content {
+                height: 60%;
+            }
+
+
+            #shout-box .panel .portlet #chat .chat-widget {
+                height: 300px !important;
+            }
+
+            #shout-box .panel .portlet #chat .portlet-footer {
+                padding: 5px 5px;
+                background: none;
+            }
+
+                #shout-box .panel .portlet #chat .portlet-footer .form-group {
+                    position: initial;
+                    margin: 0px;
+                }
+
+                    #shout-box .panel .portlet #chat .portlet-footer .form-group #btn-send-message {
+                        margin-top: 10px;
+                        margin-left: 5px;
+                    }
+
+                #shout-box .panel .portlet #chat .portlet-footer #ta-shoutbox-message {
+                    float: left;
+                    width: 84%;
+                    resize: none;
+                }
+
+                    #shout-box .panel .portlet #chat .portlet-footer #ta-shoutbox-message:focus {
+                        outline: none !important;
+                        border: 1px solid #8AB933;
+                        box-shadow: 0 0 10px #8AB933;
+                    }
 
 .well {
     height: 360px;
     background: white;
 }
 
+    .well .tab-content .tab-pane select {
+        border-radius: 5px;
+        border: 1px solid #111;
+        background: transparent;
+        margin-left: 5px;
+        padding: 0px 5px 0px 5px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        height: 25px;
+    }
+
     .well .tab-content .tab-pane div {
         color: black;
         margin-bottom: 25px;
         margin-left: 30px;
-        font-size: 18px;
+        font-size: 16px;
+        height: 25px;
+    }
+
+    .well .tab-content .tab-pane input {
+        color: black;
+        font-size: 16px;
+        height: 25px;
     }
 
     .well .tab-content .tab-pane #info-1 {
@@ -136,22 +244,31 @@ a:hover {
 
     .well .tab-content .tab-pane #info-2 {
         float: right;
+        margin-right: 75px;
     }
 
         .well .tab-content .tab-pane #info-2 #about-me-header {
             margin-bottom: 2px;
         }
 
-        .well .tab-content .tab-pane #info-2 #about-me-content {
-            width: 450px;
-            height: 150px;
+        .well .tab-content .tab-pane #info-2 #ta-about-me-content {
+            width: 350px;
+            height: 100px;
             overflow: auto;
             border: 1px solid black;
+            resize: none;
         }
+
+    .well .tab-content .tab-pane #btn-save-changes {
+        float: right;
+        margin-right: 60px;
+        margin-top: 240px;
+    }
 
 .btn-user-profile {
     border: 1px solid lightgray;
     background: white;
+    color: black;
 }
 
     .btn-user-profile:hover {
@@ -169,6 +286,11 @@ a:hover {
     border-top: 2px solid #8AB933;
 }
 
+.panel-body {
+    padding: 0px;
+    padding-top: 10px;
+}
+
 .panel .panel-heading {
     padding: 5px 15px;
 }
@@ -178,9 +300,9 @@ a:hover {
 }
 
     .panel .panel-body ul li a img {
-        border-radius: 100px;
-        width: 70px;
-        height: 70px;
+        border-radius: 5px;
+        width: 50px;
+        height: 50px;
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -199,16 +321,6 @@ a:hover {
     margin-top: 0px !important;
 }
 
-.panel-body {
-    padding: 0px;
-    padding-top: 15px;
-}
-
-#search-container {
-    height: 600px;
-    padding: 0px;
-}
-
 a#user-image {
     padding: 10px;
     margin: 0px;
@@ -225,6 +337,7 @@ body #wrapper {
     margin: 0 auto;
 }
 
+/*Login/Logout Windows Start*/
 .modal-content {
     width: 60%;
     margin: 0 auto;

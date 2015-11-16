@@ -60,10 +60,6 @@
             <button id="btn-search" class="btn btn-user-profile">Search</button>
         </div>
     </div>
-
-    <!--gender: dropdown
-    age: 2 dropdowns
-    town: string/dropdown?-->
 </div>
 
 <div id="users-container">
@@ -122,3 +118,56 @@
         <a href="#/users">Browse all users</a>
     </div>
 </div>
+<!--ShoutBox Start-->
+<div class="container bootstrap snippet" id="shout-box">
+    <div class="panel col-md-4">
+        <div class="portlet portlet-default">
+            <div class="portlet-heading">
+                <div class="portlet-title">
+                    <h3><!--<i class="fa fa-circle text-green"></i>-->  DateFirst Chat </h3>
+                </div>
+                <div class="portlet-widgets">
+                    <!--<div class="btn-group">
+                        <button type="button" class="btn btn-white dropdown-toggle btn-xs" data-toggle="dropdown">
+                            <i class="fa fa-circle text-green"></i> Status
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a href="#"><i class="fa fa-circle text-green"></i> Online</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-circle text-orange"></i> Away</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-circle text-red"></i> Offline</a>
+                            </li>
+                        </ul>
+                    </div>-->
+                    <span class="divider"></span>
+                    <a data-toggle="collapse" data-parent="#accordion" href="#chat"><i class="fa fa-chevron-down"></i></a>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div id="chat" class="panel-collapse collapse in">
+                <div id="chat-content">
+                    <div class="portlet-body chat-widget" id="msg-content" style="overflow-y: auto; width: auto;">
+
+                    </div>
+                </div>
+                <div class="portlet-footer">
+                    <form role="form">
+                        <div class="form-group">
+                            <textarea class="form-control" id="ta-shoutbox-message" placeholder="Enter message..."></textarea>
+                        </div>
+                        <div class="form-group">
+                            <a href="#" class="btn btn-user-profile" id="btn-send-message"><span class="glyphicon glyphicon-share-alt"></span></a>
+                            <div class="clearfix"></div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--ShoutBox End-->
