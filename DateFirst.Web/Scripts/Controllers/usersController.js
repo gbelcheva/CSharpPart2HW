@@ -173,6 +173,31 @@
                 });
             });
 
+            //Update profile picture
+            $('#btn-UploadFile').on('click', function () {
+                var data = new FormData();
+
+                var files = $("#file-Upload").get(0).files;
+
+                if (files.length > 0) {
+                    data.append("UploadedImage", files[0]);
+                }
+
+                var ajaxRequest = $.ajax({
+                    type: "POST",
+                    url: "http://localhost:9941//api/UploadProfilePicture",
+                    contentType: false,
+                    processData: false,
+                    data: data,
+                    headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
+                });
+
+                ajaxRequest.done(function (xhr, textStatus) {
+                    toastr.success('Profile picture updated!');
+                    // Do other operation
+                });
+            });
+
             if (user.AdditionalInfo != null) {
                 var currentGender = user.AdditionalInfo.Gender;
                 var currentEyeColor = user.AdditionalInfo.EyeColor;
