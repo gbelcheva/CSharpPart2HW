@@ -38,7 +38,6 @@
             contentType: 'application/x-www-form-urlencoded'
         })
           .then(function (resp) {
-              console.log(resp);
               localStorage.setItem(USER_ACCESS_TOKEN, resp.access_token);
               localStorage.setItem(TOKEN_TYPE, resp.token_type);
               return user;

@@ -53,6 +53,7 @@
             userModel.signOut()
               .then(function () {
                   toastr.success('Goodbye!');
+                  document.location.reload();
                   document.location = '#/home';
                   setTimeout(function () {
                       $('.logout-container').fadeOut(100, function () {
@@ -72,6 +73,12 @@
                   toastr.success('Welcome back!');
                   document.location = '#/';
                   $('#login-modal').modal('toggle');
+
+                  userModel.getLoggedUserName()
+                  .then(function (res) {
+                      $('#logged-user-name').text(res);
+                  });
+
                   setTimeout(function () {
                       $('.login-containers').fadeOut(100, function () {
                           $('.logout-container').fadeIn(500);
