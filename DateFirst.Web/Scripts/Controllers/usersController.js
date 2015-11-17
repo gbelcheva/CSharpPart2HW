@@ -58,6 +58,11 @@
                 $(this).removeClass("btn-user-profile").addClass("btn-pressed");
             });
 
+            var notification = PUBNUB.init({
+                publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
+                subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
+            });
+
             $('#flirts').on('click', function () {
                 $.ajax({
                     type: "PUT",
@@ -70,6 +75,9 @@
                     }
                 })
                 .then(function () {
+                    toastr.options = {
+                        "positionClass": "toast-top-right",
+                    }
                     toastr.success('You flirted this profile!');
                     $.ajax({
                         type: "GET",
@@ -80,6 +88,38 @@
                             $('#count').text(res.Flirts);
                         });
                 });
+            });
+
+            $('#flirts').on('click', function () {
+                userModel.getLoggedUserId()
+                    .then(function (res) {
+                        var loggedUserId = res;
+
+                        userModel.getUserInfo(loggedUserId)
+                            .then(function (loggedUserInfo) {
+                                var info = loggedUserInfo;
+                                notification.publish({
+                                    channel: 'Notification',
+                                    message: {
+                                        "Text": info.FirstName + ' ' + info.LastName + ' flirt your profile!',
+                                        "Flirter": info
+                                    }
+                                });
+                                notification.subscribe({
+                                    channel: 'Notification',
+                                    message: function (notification) {
+                                        toastr.options = {
+                                            "positionClass": "toast-top-center",
+                                            onclick: function () {
+                                                window.location = '#/users/' + notification.Flirter.Id;
+                                            }
+                                        }
+
+                                        toastr.info(notification.Text, "Flirt Notifications:");
+                                    }
+                                });
+                            });
+                    });
             });
 
             $("#btn-send-comment").click(function () {
@@ -155,7 +195,7 @@
                 var files = $("#fileUpload").get(0).files;
 
                 if (files.length > 0) {
-                    data.append("UploadedImage", files[0]);               
+                    data.append("UploadedImage", files[0]);
                 }
 
                 var ajaxRequest = $.ajax({
@@ -251,7 +291,7 @@
 
                 userModel.updateUserInfo(data)
                     .then(function (res) {
-                        
+
                         document.location = '/#/users/' + user.Id + '/my-profile';
                     });
             })
