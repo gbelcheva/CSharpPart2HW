@@ -45,11 +45,10 @@
                       userModel.getUserInfo(currentLogginUserId)
                         .then(function (res) {
                             var loggedUserInfo = res;
-
                             var htmlToAdd = '<div class="row">' +
                                                  '<div class="col-lg-12">' +
                                                      '<div class="media" >' +
-                                                         '<a class="pull-left" href="#">' +
+                                                         '<a class="pull-left" href="#/users/' + loggedUserInfo.Id + '">' +
                                                                   '<img style="width: 50px" height="50px" class="media-object img-circle" src=' + '"' + loggedUserInfo.AvatarUrl + '"' + ' alt="">' +
                                                          '</a>' +
                                                          '<div class="media-body">' +
@@ -83,7 +82,7 @@
                           var htmlToAdd = '<div class="row">' +
                                             '<div class="col-lg-12">' +
                                                 '<div class="media" >' +
-                                                    '<a class="pull-left" href="#">' +
+                                                    '<a class="pull-left" href="#/users/'+ message.Sender.Id +'">' +
                                                              '<img style="width: 50px" height="50px" class="media-object img-circle" src=' + '"' + message.Sender.AvatarUrl + '"' + ' alt="">' +
                                                     '</a>' +
                                                     '<div class="media-body">' +
