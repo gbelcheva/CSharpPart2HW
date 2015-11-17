@@ -1,8 +1,9 @@
-﻿body {
+﻿body.pace-done{
+    background-color: #fff;
+    background-image: url('../../Images/download.png');
     color: #888888;
     font-family: 'Open Sans',Arial,sans-serif;
     font-size: 16px;
-    /*background-image: url("http://img.photobucket.com/albums/v16/wishuponastar422/blog/layouts/parisholdsthekeybkgcopy.jpg");*/
 }
 
 p {
@@ -20,22 +21,34 @@ a:hover {
 }
 
 #navbar {
-    height: 50px;
+    height: 180px;
     border-bottom: 1px solid #8AB933;
+    background-image: url('../../Images/banner.png');
+    background-repeat: no-repeat;
+}
+
+#home-btn {
+    position:relative;
+    border: none;
+    outline: none;
+}
+
+body{
+  background: #fefefe;
 }
 
 .login-containers a {
     font-size: 13px;
     padding: 4px !important;
     margin-top: 15px;
-    color: #8AB933;
+    color: #fff;
 }
 
 .logout-container #logged-user-name {
     display: inline-block;
     margin-top: 17px;
     margin-left: 10px;
-    color: #8AB933;
+    color: #fff;
     font-size: 13px;
 }
 

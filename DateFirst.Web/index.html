@@ -13,7 +13,7 @@
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/toastr.min.css" rel="stylesheet" />
-    <link href="Content/CustomCss/chat-style.css" rel="stylesheet"/>
+    <link href="Content/CustomCss/chat-style.css" rel="stylesheet" />
     <link href="Content/CustomCss/pace-style.css" rel="stylesheet" />
     <!--Modal window-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -26,12 +26,12 @@
     <!--Image Gallery-->
     <link href="Content/blueimp-gallery.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-image-gallery.min.css" rel="stylesheet" />
-    
+
 </head>
 <body>
     <div id="wrapper">
         <div id="navbar">
-            <a href="#/home"><h1 class="nav navbar-nav navbar-left">DateFirst</h1></a>
+            <input type="image" src="Images/cloud button.png" alt="Home" id="home-btn" />
             <ul class="nav navbar-nav navbar-right">
                 <li id="sign-in-container" class="login-containers">
                     <a href="#/" data-toggle="modal" data-target="#login-modal"><b>> Login</b></a>
@@ -42,8 +42,8 @@
                 <li class="logout-container">
                     <div class="dropdown" id="user-dropdown">
                         <a href="" class="dropdown-toggle" id="user-image" data-toggle="dropdown">
-                            <img id="profile-picture" src="" />  
-                            <div id="logged-user-name"></div>                                                  
+                            <img id="profile-picture" src="" />
+                            <div id="logged-user-name"></div>
                         </a>
                         <ul class="dropdown-menu">
                             <li><a href="#" id="my-profile">My Profile</a></li>
@@ -54,6 +54,7 @@
                 </li>
             </ul>
         </div>
+        <br />
 
         <!--Modal Window Login Start-->
         <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -142,7 +143,6 @@
         <!--<div id="footer">
             Footer Here
         </div>-->
-
         <!-- Image Gallery scripts -->
         <!--<script src="Scripts/bootstrap-image-gallery.min.js"></script>-->
         <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>

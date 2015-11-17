@@ -35,6 +35,10 @@
             $('.logout-container').hide();
         }
 
+        $('#home-btn').on('click', function () {
+            document.location = '/#/home';
+        });
+
         $('#my-profile').on('click', function () {
             userModel.getLoggedUserId()
             .then(function (res) {
