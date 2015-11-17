@@ -58,6 +58,11 @@
                 $(this).removeClass("btn-user-profile").addClass("btn-pressed");
             });
 
+            var notification = PUBNUB.init({
+                publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
+                subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
+            });
+
             $('#flirts').on('click', function () {
                 $.ajax({
                     type: "PUT",
@@ -70,6 +75,9 @@
                     }
                 })
                 .then(function () {
+                    toastr.options = {
+                        "positionClass": "toast-top-right",
+                    }
                     toastr.success('You flirted this profile!');
                     $.ajax({
                         type: "GET",
@@ -78,10 +86,29 @@
                     })
                         .then(function (res) {
                             $('#count').text(res.Flirts);
-                        });
+
+                            notification.publish({
+                                channel: 'Notification',
+                                message: {
+                                    "Text": res.FirstName + ' ' + res.LastName + ' flirt your profile!'
+                                }
+                            });
+
+                            notification.subscribe({
+                                channel: 'Notification',
+                                message: function (notification) {
+                                    toastr.options = {
+                                        "positionClass": "toast-top-center",
+                                         onclick: function () {
+                                             window.location = '/#/users/' + res.Id;
+                                         }
+                                    }
+                                    toastr.info(notification.Text, "Flirt Notifications:");
+                                }
+                            });
+                    });
                 });
             });
-
             $("#btn-send-comment").click(function () {
                 userModel.getLoggedUserId()
                 .then(function (res) {
