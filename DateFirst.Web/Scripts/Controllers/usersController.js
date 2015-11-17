@@ -86,29 +86,42 @@
                     })
                         .then(function (res) {
                             $('#count').text(res.Flirts);
-
-                            notification.publish({
-                                channel: 'Notification',
-                                message: {
-                                    "Text": res.FirstName + ' ' + res.LastName + ' flirt your profile!'
-                                }
-                            });
-
-                            notification.subscribe({
-                                channel: 'Notification',
-                                message: function (notification) {
-                                    toastr.options = {
-                                        "positionClass": "toast-top-center",
-                                         onclick: function () {
-                                             window.location = '/#/users/' + res.Id;
-                                         }
-                                    }
-                                    toastr.info(notification.Text, "Flirt Notifications:");
-                                }
-                            });
-                    });
+                        });
                 });
             });
+
+            $('#flirts').on('click', function () {
+                userModel.getLoggedUserId()
+                    .then(function (res) {
+                        var loggedUserId = res;
+
+                        userModel.getUserInfo(loggedUserId)
+                            .then(function (loggedUserInfo) {
+                                var info = loggedUserInfo;
+                                notification.publish({
+                                    channel: 'Notification',
+                                    message: {
+                                        "Text": info.FirstName + ' ' + info.LastName + ' flirt your profile!',
+                                        "Flirter": info
+                                    }
+                                });
+                                notification.subscribe({
+                                    channel: 'Notification',
+                                    message: function (notification) {
+                                        toastr.options = {
+                                            "positionClass": "toast-top-center",
+                                            onclick: function () {
+                                                window.location = '#/users/' + notification.Flirter.Id;
+                                            }
+                                        }
+
+                                        toastr.info(notification.Text, "Flirt Notifications:");
+                                    }
+                                });
+                            });
+                    });
+            });
+
             $("#btn-send-comment").click(function () {
                 userModel.getLoggedUserId()
                 .then(function (res) {
@@ -182,7 +195,7 @@
                 var files = $("#fileUpload").get(0).files;
 
                 if (files.length > 0) {
-                    data.append("UploadedImage", files[0]);               
+                    data.append("UploadedImage", files[0]);
                 }
 
                 var ajaxRequest = $.ajax({
@@ -278,7 +291,7 @@
 
                 userModel.updateUserInfo(data)
                     .then(function (res) {
-                        
+
                         document.location = '/#/users/' + user.Id + '/my-profile';
                     });
             })
