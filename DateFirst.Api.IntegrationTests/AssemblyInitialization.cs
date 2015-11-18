@@ -30,7 +30,27 @@
         private static Mock<IDateFirstData> GetMockedData()
         {
             var mockedRepository = new Mock<IRepository<User>>();
-            mockedRepository.Setup(r => r.All()).Returns(new List<User>().AsQueryable());
+            mockedRepository.Setup(r => r.All()).Returns(new List<User>
+            {
+               new User
+               {
+                   AdditionalInfo = new AdditionalInfo
+                   {
+                       Gender = Gender.Male,
+                       EyeColor = EyeColor.Brown
+                   }
+               },
+
+               new User
+               {
+                   AdditionalInfo = new AdditionalInfo
+                   {
+                       Gender = Gender.Female,
+                       EyeColor = EyeColor.Brown
+                   }
+               }
+            }
+            .AsQueryable());
 
             var result = new Mock<IDateFirstData>();
             result.Setup(d => d.Users).Returns(mockedRepository.Object);

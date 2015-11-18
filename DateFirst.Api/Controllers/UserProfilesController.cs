@@ -37,7 +37,7 @@
         {
             IEnumerable<UserTransferModel> res = this.data.Users
                 .All()
-                .Where(u => u.AdditionalInfo.Gender == DateFirst.Models.Gender.Male)
+                .Where(u => u.AdditionalInfo.Gender == Gender.Male)
                 .ProjectTo<UserTransferModel>()
                 .ToList();
 
@@ -50,7 +50,7 @@
         {
             IEnumerable<UserTransferModel> res = this.data.Users
                 .All()
-                .Where(u => u.AdditionalInfo.Gender == DateFirst.Models.Gender.Female)
+                .Where(u => u.AdditionalInfo.Gender == Gender.Female)
                 .ProjectTo<UserTransferModel>()
                 .ToList();
 
