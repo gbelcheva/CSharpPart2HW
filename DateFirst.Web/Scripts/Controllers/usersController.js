@@ -219,7 +219,7 @@
             $('#btn-UploadFile').on('click', function () {
                 var data = new FormData();
 
-                var files = $("#file-Upload").get(0).files;
+                var files = $("#file-upload").get(0).files;
 
                 if (files.length > 0) {
                     data.append("UploadedImage", files[0]);

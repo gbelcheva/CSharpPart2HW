@@ -8,9 +8,13 @@
         </div>
         <div class="useravatar">
             <img alt="" src={{this.AvatarUrl}}>
-            <label for="file-Upload">Edit Profile picture</label>
-            <input id="file-Upload" type="file" />
-            <input id="btn-UploadFile" type="button" value="Save" />
+            <label for="file-upload">Edit Profile picture</label>
+            <span class="btn btn-user-profile btn-file">
+                Browse <input type="file" id="file-upload">
+            </span>
+            <button class="btn btn-info" id="btn-UploadFile" type="button" value="Save">
+                <span class="glyphicon glyphicon-cloud-upload" aria-hidden="true"></span> Save
+            </button>
         </div>
 
         <div class="card-info">
