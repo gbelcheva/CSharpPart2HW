@@ -44,7 +44,7 @@
             // TODO: Fix after adding join date to users
             var newestDaters = this.data.Users
                             .All()
-                            .OrderBy(u => u.Flirts)
+                            .OrderByDescending(u => u.CreatedOn)
                             .Take(5)
                             .ProjectTo<UserTransferModel>()
                             .ToList();

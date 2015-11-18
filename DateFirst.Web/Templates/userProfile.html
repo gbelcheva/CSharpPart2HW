@@ -103,9 +103,14 @@
                         <div>
                             <div class="portlet-body chat-widget" id="comments-container" style="overflow-y: auto; width: auto;">
                                 {{#each this.Posts}}
-                                <div id="user-post-container">
-                                    <div>{{SenderName}}  {{CreatedOn}}</div>
-                                    <div>{{Content}}</div>
+                                <div class="post">
+                                    <div class="poster-and-date">
+                                        <div class="poster-name">{{SenderName}}</div>
+                                        <div class="posting-date">{{CreatedOn}}</div>
+                                    </div>
+                                    <div id="user-post-container" class="post-content triangle-border left">
+                                        <div>{{Content}}</div>
+                                    </div>
                                 </div>
                                 {{/each}}
                             </div>

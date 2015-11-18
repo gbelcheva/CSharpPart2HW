@@ -1,7 +1,6 @@
 ﻿namespace DateFirst.Api
 {
     using System.Web.Http;
-
     using Microsoft.Owin.Security.OAuth;
 
     public static class WebApiConfig

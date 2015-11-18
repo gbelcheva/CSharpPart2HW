@@ -8,17 +8,17 @@
     <script src="Scripts/sammy.min.js"></script>
     <script src="Scripts/handlebars-v4.0.4.js"></script>
     <script src="Scripts/toastr.min.js"></script>
-    <!--<script src="Scripts/pace.js"></script>-->
     <script src="https://cdn.pubnub.com/pubnub-dev.js"></script>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/toastr.min.css" rel="stylesheet" />
     <link href="Content/CustomCss/chat-style.css" rel="stylesheet" />
-    <!--<link href="Content/CustomCss/pace-style.css" rel="stylesheet" />-->
+
     <!--Modal window-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href="Content/CustomCss/style.css" rel="stylesheet" />
     <script src="Scripts/modernizr-2.8.3.js"></script>
+    <link rel="icon" type="image/png" href="../Images/faviconNinja.png">
 
     <!--Profile Page-->
     <link href="Content/CustomCss/user-profile-style.css" rel="stylesheet" />
@@ -29,16 +29,17 @@
 
 </head>
 <body>
+    <br />
     <div id="wrapper">
         <div id="navbar">
             <input type="image" src="Images/cloud button.png" alt="Home" id="home-btn" />
-            <input type="image" src="Images/cloud button profile.png" alt="Home" id="profile-btn" />
+            <input type="image" src="Images/cloud button profile.png" alt="Profile" id="profile-btn" />
             <ul class="nav navbar-nav navbar-right">
-                <li id="sign-in-container" class="login-containers">
-                    <a href="#/" data-toggle="modal" data-target="#login-modal"><b>> Login</b></a>
+                <li id="sign-in-container">
+                    <input type="image" src="Images/login-btn.png" alt="Login" id="login-btn" data-toggle="modal" data-target="#login-modal" />
                 </li>
-                <li id="register-container" class="login-containers">
-                    <a href="#/" data-toggle="modal" data-target="#register-modal"><b>> Register</b></a>
+                <li id="register-container">
+                    <input type="image" src="Images/register-btn.png" alt="Register" id="register-btn" data-toggle="modal" data-target="#register-modal" />
                 </li>
                 <li class="logout-container">
                     <div class="dropdown" id="user-dropdown">

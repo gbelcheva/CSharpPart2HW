@@ -150,10 +150,15 @@
                          .then(function (res) {
                              var createdOn = getDateOfPostCreation();
 
-                             var commentToAppend = '<div id="user-post-container">' +
-                                                       '<div>' + res + ' ' + createdOn + '</div>' +
-                                                       '<div>' + content + '</div>' +
-                                                   '</div>';
+                             var commentToAppend = '<div class="post">' +
+                                                  '<div class="poster-and-date">' +
+                                                      '<div class="poster-name">' + res + '</div>' +
+                                                      '<div class="posting-date">' + createdOn + '</div>' +
+                                                  '</div>' +
+                                                  '<div id="user-post-container" class="post-content triangle-border left">' +
+                                                      '<div>' + content + '</div>' +
+                                                  '</div>' +
+                                              '</div>';
 
                              $('#comments-container').append(commentToAppend);
                          })
@@ -169,7 +174,7 @@
 
         promise.then(function (resUser) {
             user = resUser;
-            
+
             for (var i = 0; i < user.Posts.length; i++) {
                 var date = new Date(user.Posts[i].CreatedOn);
                 var formatedDate = formatDate(date);
@@ -206,9 +211,14 @@
                     .then(function () {
                         var createdOn = getDateOfPostCreation();
 
-                        var commentToAppend = '<div id="user-post-container">' +
-                                                  '<div>' + user.FirstName + ' ' + user.LastName + ' ' + createdOn + '</div>' +
-                                                  '<div>' + content + '</div>' +
+                        var commentToAppend = '<div class="post">' +
+                                                  '<div class="poster-and-date">' +
+                                                      '<div class="poster-name">' + user.FirstName + ' ' + user.LastName + '</div>' +
+                                                      '<div class="posting-date">' + createdOn + '</div>' +
+                                                  '</div>' +
+                                                  '<div id="user-post-container" class="post-content triangle-border left">' +
+                                                      '<div>' + content + '</div>' +
+                                                  '</div>' +
                                               '</div>';
 
                         $('#comments-container').append(commentToAppend);

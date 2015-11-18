@@ -4,15 +4,13 @@
     using System.Linq;
     using System.Web;
     using System.Web.Http;
+    using System.Net.Http;
+    using Data.Repositories;
     using Microsoft.AspNet.Identity;
-    using DateFirst.Data.Repositories;
-    using DateFirst.Models;
-
+    using Microsoft.AspNet.Identity.Owin;
     using Spring.IO;
     using Spring.Social.Dropbox.Api;
     using Spring.Social.Dropbox.Connect;
-    using System.Net.Http;
-    using Microsoft.AspNet.Identity.Owin;
 
     public class UploadProfilePictureController : ApiController
     {

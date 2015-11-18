@@ -1,15 +1,14 @@
-﻿using System;
-
-using Microsoft.AspNet.Identity;
-using Microsoft.Owin;
-using Microsoft.Owin.Security.Cookies;
-using Microsoft.Owin.Security.OAuth;
-using Owin;
-using DateFirst.Api.Providers;
-using DateFirst.Api.Models;
-
-namespace DateFirst.Api
+﻿namespace DateFirst.Api
 {
+    using System;
+    using Microsoft.AspNet.Identity;
+    using Microsoft.Owin;
+    using Microsoft.Owin.Security.Cookies;
+    using Microsoft.Owin.Security.OAuth;
+    using Models;
+    using Owin;
+    using Providers;
+
     public partial class Startup
     {
         public static OAuthAuthorizationServerOptions OAuthOptions { get; private set; }
