@@ -78,15 +78,17 @@
                     toastr.options = {
                         "positionClass": "toast-top-right",
                     }
-                    toastr.success('You flirted this profile!');
+
                     $.ajax({
                         type: "GET",
                         url: "http://localhost:9941/api/UserProfiles/" + user.Id,
                         headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
                     })
-                        .then(function (res) {
-                            $('#count').text(res.Flirts);
-                        });
+                    .then(function (res) {
+                        $('#count').text(res.Flirts);
+                    });
+
+                    toastr.success('You flirted with ' + user.FirstName + ' ' + user.LastName + '!');
                 });
             });
 
@@ -296,7 +298,6 @@
                     });
             })
         })
-
     }
 
     scope.users = {

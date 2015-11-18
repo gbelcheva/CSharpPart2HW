@@ -39,6 +39,13 @@
             document.location = '/#/home';
         });
 
+        $('#profile-btn').on('click', function () {
+            userModel.getLoggedUserId()
+           .then(function (res) {
+               document.location = '/#/users/' + res + '/my-profile';
+           });
+        });
+
         $('#my-profile').on('click', function () {
             userModel.getLoggedUserId()
             .then(function (res) {

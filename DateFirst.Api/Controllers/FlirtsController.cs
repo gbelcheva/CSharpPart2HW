@@ -1,9 +1,9 @@
 ﻿namespace DateFirst.Api.Controllers
 {
-    using System.Web.Http;
-    using DateFirst.Api.DataTransferModels;
-    using DateFirst.Data.Repositories;
     using System.Net.Http;
+    using System.Web.Http;
+    using DataTransferModels;
+    using Data.Repositories;
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.Owin;
 
@@ -39,7 +39,7 @@
 
             if (currentLoginUser.Id == user.Id)
             {
-                return this.BadRequest("You cannot flirts your on profile!");
+                return this.BadRequest("You cannot flirt with your own profile!");
             }
 
             var currentProfilUser = this.data.Users.GetById(user.Id);
