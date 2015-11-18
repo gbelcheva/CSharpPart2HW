@@ -3,7 +3,7 @@
     font-family: 'Open Sans',Arial,sans-serif;
     font-size: 16px;
     background-color: #fff;
-    background-image: url('../../Images/download.png')!important;
+    background-image: url('../../Images/download.png') !important;
 }
 
 p {
@@ -28,21 +28,21 @@ a:hover {
 }
 
 #home-btn {
-    position:relative;
+    position: relative;
     border: none;
     outline: none;
 }
 
 #profile-btn {
-   margin-left: -50px;
-   margin-bottom: 50px;
-   border: none;
-   outline: none;
+    margin-left: -50px;
+    margin-bottom: 50px;
+    border: none;
+    outline: none;
 }
 
-#home-btn:hover, #profile-btn:hover {
-    background-image: url('../../Images/cloud button hover.png');
-}
+    #home-btn:hover, #profile-btn:hover {
+        background-image: url('../../Images/cloud button hover.png');
+    }
 
 .login-containers a {
     font-size: 13px;
@@ -105,10 +105,11 @@ a:hover {
             height: 25px;
         }
 
-        #file-Upload, #btn-UploadFile {
-            position: relative;
-            display: inline;
-        }
+#file-Upload, #btn-UploadFile {
+    position: relative;
+    display: inline;
+}
+
 #users-container {
     float: right;
     width: 66.666%;
@@ -227,7 +228,7 @@ a:hover {
                         box-shadow: 0 0 10px #8AB933;
                     }
 
-                    
+
 .well {
     height: 360px;
     background: white;
@@ -308,10 +309,10 @@ a:hover {
             margin-top: 20px;
         }
 
-        .well .tab-content #image-gallery #upload-btn-container .form-control {
-            width: 20%;
-            display: inline-block;
-        }
+            .well .tab-content #image-gallery #upload-btn-container .form-control {
+                width: 20%;
+                display: inline-block;
+            }
 
         .well .tab-content #image-gallery #links {
             height: 270px;
@@ -348,6 +349,26 @@ a:hover {
             .well .tab-content #comments .portlet #comments-container {
                 height: 252px;
             }
+
+            .well .tab-content #comments .portlet #comments-container .post {
+                margin-bottom: 20px;
+            }
+
+                .well .tab-content #comments .portlet #comments-container .poster-and-date{      
+                    vertical-align: top;
+                    color: black;             
+                    display: inline-block;    
+                    width: 25%;                
+                }
+
+                .well .tab-content #comments .portlet #comments-container .poster-and-date .poster-name{
+                    font-size: 20px;
+                }
+
+                .well .tab-content #comments .portlet #comments-container .post-content{
+                    display: inline-block;  
+                    width: 70%;
+                }
 
             .well .tab-content #comments .portlet .portlet-footer {
                 padding: 0px;
@@ -562,4 +583,60 @@ body #wrapper {
         background: white;
         cursor: inherit;
         display: block;
+    }
+
+/*Post Comment Bubble*/
+.triangle-border {
+    position: relative;
+    padding: 10px;
+    border: 5px solid #8AB933;
+    color: #333;
+    background: #fff;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+    .triangle-border.left {
+        margin-left: 40px;
+    }
+
+        .triangle-border.left:before {
+            top: 0px;
+            bottom: auto;
+            left: -30px;
+            border-width: 15px 30px 15px 0;
+            border-color: transparent #8AB933;
+        }
+
+    .triangle-border:before {
+        content: "";
+        position: absolute;
+        bottom: -20px;
+        left: 40px;
+        border-width: 20px 20px 0;
+        border-style: solid;
+        border-color: #8AB933 transparent;
+        display: block;
+        width: 0;
+    }
+
+    .triangle-border.left:after {
+        top: 6px;
+        bottom: auto;
+        left: -21px;
+        border-width: 9px 21px 9px 0;
+        border-color: transparent #fff;
+    }
+
+    .triangle-border:after {
+        content: "";
+        position: absolute;
+        bottom: -13px;
+        left: 47px;
+        border-width: 13px 13px 0;
+        border-style: solid;
+        border-color: #fff transparent;
+        display: block;
+        width: 0;
     }
