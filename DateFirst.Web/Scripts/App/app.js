@@ -29,10 +29,13 @@
             userModel.getLoggedUserName()
             .then(function (userNames) {
                 $('#logged-user-name').text(userNames);
+                $('#login-btn').hide();
+                $('#register-btn').hide();
                 $('.login-containers').hide();
             });           
         } else {
             $('.logout-container').hide();
+            $('#profile-btn').hide();
         }
 
         $('#home-btn').on('click', function () {

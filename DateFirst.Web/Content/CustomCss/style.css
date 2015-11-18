@@ -3,7 +3,7 @@
     font-family: 'Open Sans',Arial,sans-serif;
     font-size: 16px;
     background-color: #fff;
-    background-image: url('../../Images/clouds-background.jpg')!important;
+    background-image: url('../../Images/clouds-background.jpg') !important;
 }
 
 p {
@@ -42,6 +42,15 @@ a:hover {
 
     #home-btn:hover, #profile-btn:hover {
         background-image: url('../../Images/cloud button hover.png');
+    }
+
+#register-btn, #login-btn {
+    border: none;
+    outline: none;
+}
+
+    #register-btn:hover, #login-btn:hover {
+        background-image: url('../../Images/login-register-hover.png');
     }
 
 .login-containers a {
@@ -350,23 +359,23 @@ a:hover {
                 height: 252px;
             }
 
-            .well .tab-content #comments .portlet #comments-container .post {
-                margin-bottom: 20px;
-            }
+                .well .tab-content #comments .portlet #comments-container .post {
+                    margin-bottom: 20px;
+                }
 
-                .well .tab-content #comments .portlet #comments-container .poster-and-date{      
+                .well .tab-content #comments .portlet #comments-container .poster-and-date {
                     vertical-align: top;
-                    color: black;             
-                    display: inline-block;    
-                    width: 25%;                
+                    color: black;
+                    display: inline-block;
+                    width: 25%;
                 }
 
-                .well .tab-content #comments .portlet #comments-container .poster-and-date .poster-name{
-                    font-size: 20px;
-                }
+                    .well .tab-content #comments .portlet #comments-container .poster-and-date .poster-name {
+                        font-size: 20px;
+                    }
 
-                .well .tab-content #comments .portlet #comments-container .post-content{
-                    display: inline-block;  
+                .well .tab-content #comments .portlet #comments-container .post-content {
+                    display: inline-block;
                     width: 70%;
                 }
 
@@ -446,6 +455,10 @@ a:hover {
 #users-container .panel a {
     float: right;
     margin-right: 10px;
+}
+
+#best-female-daters-container, #newest-daters-container, #shout-box {
+    margin-top: 20px;
 }
 
 .card {
