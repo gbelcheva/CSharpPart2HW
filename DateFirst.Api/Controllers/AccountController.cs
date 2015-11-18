@@ -2,26 +2,25 @@
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;
     using System.Net.Http;
     using System.Security.Claims;
     using System.Security.Cryptography;
     using System.Threading.Tasks;
     using System.Web;
     using System.Web.Http;
+    using AutoMapper;
+    using DateFirst.Models;
+    using Data.Repositories;
+    using DataTransferModels;
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.EntityFramework;
     using Microsoft.AspNet.Identity.Owin;
     using Microsoft.Owin.Security;
     using Microsoft.Owin.Security.Cookies;
     using Microsoft.Owin.Security.OAuth;
-    using DateFirst.Api.Models;
-    using DateFirst.Api.Providers;
-    using DateFirst.Api.Results;
-    using DateFirst.Models;
-    using DateFirst.Data.Repositories;
-    using DataTransferModels;
-    using AutoMapper;
+    using Models;
+    using Providers;
+    using Results;
 
     [Authorize]
     [RoutePrefix("api/Account")]

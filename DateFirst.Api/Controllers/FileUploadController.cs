@@ -3,16 +3,15 @@
     using System.IO;
     using System.Linq;
     using System.Web;
+    using System.Net.Http;
     using System.Web.Http;
     using Microsoft.AspNet.Identity;
-    using DateFirst.Data.Repositories;
+    using Microsoft.AspNet.Identity.Owin;
+    using Data.Repositories;
     using DateFirst.Models;
-
     using Spring.IO;
     using Spring.Social.Dropbox.Api;
     using Spring.Social.Dropbox.Connect;
-    using System.Net.Http;
-    using Microsoft.AspNet.Identity.Owin;
 
     public class FileUploadController : ApiController
     {

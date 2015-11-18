@@ -96,7 +96,8 @@
     <Content Include="Images\cloud button hover.png" />
     <Content Include="Images\cloud button profile.png" />
     <Content Include="Images\cloud button.png" />
-    <Content Include="Images\download.png" />
+    <Content Include="Images\clouds-background.jpg" />
+    <Content Include="Images\faviconNinja.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\App\app.js" />
     <Content Include="Scripts\App\jsonRequester.js" />
