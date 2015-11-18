@@ -1,12 +1,12 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-namespace DateFirst.Api.IntegrationTests
+﻿namespace DateFirst.Api.IntegrationTests
 {
-    using DataTransferModels;
-    using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using MyTested.WebApi;
     using System.Collections.Generic;
     using System.Net;
     using System.Net.Http;
+
+    using DataTransferModels;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
+    using MyTested.WebApi;
 
     [TestClass]
     public class UsersTests
