@@ -302,7 +302,7 @@
             $('#tb-weight').val(currentWeight);
             $('#tb-job-title').val(currendJobTitle);
             $('#tb-salary').val(currentSalary);
-            $('#ta-about-me').val(currentAboutMe);
+            $('#ta-about-me-content').val(currentAboutMe);
 
             $("#btn-save-changes").click(function myfunction() {
 
@@ -315,7 +315,7 @@
                 var modifiedWeight = $('#tb-weight').val();
                 var modifiedJobTitle = $('#tb-job-title').val();
                 var modifiedSalary = $('#tb-salary').val();
-                var modifiedAboutMe = $('#ta-about-me').val();
+                var modifiedAboutMe = $('#ta-about-me-content').val();
 
                 var data = {
                     'Id': user.Id,
