@@ -4,8 +4,8 @@
     font-size: 16px;
     background-color: #fff;
     background-image: url('../../Images/clouds-background.jpg') !important;
-    background-repeat:no-repeat;
-    background-size:100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 p {
@@ -241,7 +241,6 @@ a:hover {
                         box-shadow: 0 0 10px #8AB933;
                     }
 
-
 .well {
     height: 360px;
     background: white;
@@ -263,7 +262,7 @@ a:hover {
             height: 25px;
         }
 
-        .well .tab-content .tab-pane div additional-info{
+        .well .tab-content .tab-pane div .additional-info {
             color: black;
             margin-bottom: 25px;
             margin-left: 20px;
@@ -277,37 +276,28 @@ a:hover {
             height: 25px;
         }
 
-        /*.well .tab-content .tab-pane {
-            float: left;
+        .well .tab-content .tab-pane #about-me-header {
+            margin-bottom: 2px;
         }
 
-        .well .tab-content .tab-pane {
-            float: right;
-            margin-right: 75px;
-        }*/
+        .well .tab-content .tab-pane #ta-about-me-content {
+            width: 350px;
+            height: 100px;
+            overflow: auto;
+            border-radius: 5px;
+            resize: none;
+        }
 
-            .well .tab-content .tab-pane #about-me-header {
-                margin-bottom: 2px;
+            .well .tab-content .tab-pane #ta-about-me-content:focus {
+                outline: none !important;
+                border: 1px solid #8AB933;
+                box-shadow: 0 0 10px #8AB933;
             }
-
-            .well .tab-content .tab-pane #ta-about-me-content {
-                width: 350px;
-                height: 100px;
-                overflow: auto;
-                border-radius: 5px;
-                resize: none;
-            }
-
-                .well .tab-content .tab-pane #ta-about-me-content:focus {
-                    outline: none !important;
-                    border: 1px solid #8AB933;
-                    box-shadow: 0 0 10px #8AB933;
-                }
 
         .well .tab-content .tab-pane #btn-save-changes {
             float: right;
             margin-right: 60px;
-            margin-top: 240px;
+            margin-top: 150px;
         }
 
         .well .tab-content #image-gallery #upload-btn-container {
@@ -458,28 +448,29 @@ a:hover {
 #best-female-daters-container, #newest-daters-container, #shout-box {
     margin-top: 20px;
 }
-    #sorted-users ul li {
-        width: 50%;
-        padding: 20px;
-        margin: 0 auto;
-        list-style-type: none;
+
+#sorted-users ul li {
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    list-style-type: none;
+}
+
+    #sorted-users ul li a {
+        font-size: 20px;
     }
 
-        #sorted-users ul li a {
-            font-size: 20px;
+        #sorted-users ul li a img {
+            width: 64px;
+            height: 64px;
+            margin-right: 20px;
         }
 
-            #sorted-users ul li a img {
-                width: 64px;
-                height: 64px;
-                margin-right: 20px;
-            }
-
-        #sorted-users ul li .search-user-flirts {
-            float: right;
-            margin-top: 5px;
-            width: 25%;
-        }
+    #sorted-users ul li .search-user-flirts {
+        float: right;
+        margin-top: 5px;
+        width: 25%;
+    }
 
 .card {
     margin-top: 0px !important;

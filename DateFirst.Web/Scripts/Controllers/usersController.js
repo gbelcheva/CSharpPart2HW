@@ -95,7 +95,7 @@
                         $('#count').text(res.Flirts);
                     });
 
-                    toastr.success('You flirted with ' + user.FirstName + ' ' + user.LastName + '!');
+                    toastr.info('You flirted with ' + user.FirstName + ' ' + user.LastName + '!');
                 });
             });
 
@@ -304,7 +304,7 @@
             $('#tb-salary').val(currentSalary);
             $('#ta-about-me-content').val(currentAboutMe);
 
-            $("#btn-save-changes").click(function myfunction() {
+            $("#btn-save-changes").click(function () {
 
                 var modifiedGender = $('#select-gender').val();
                 var modifiedEyeColor = $('#select-eye-color').val();
@@ -333,8 +333,7 @@
 
                 userModel.updateUserInfo(data)
                     .then(function (res) {
-
-                        document.location = '/#/users/' + user.Id + '/my-profile';
+                        document.location = '/#/users/' + user.Id;
                     });
             })
         })
