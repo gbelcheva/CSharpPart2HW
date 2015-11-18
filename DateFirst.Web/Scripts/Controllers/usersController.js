@@ -46,6 +46,13 @@
 
         promise.then(function (resUser) {
             user = resUser;
+
+            for (var i = 0; i < user.Posts.length; i++) {
+                var date = new Date(user.Posts[i].CreatedOn);
+                var formatedDate = formatDate(date);
+                user.Posts[i].CreatedOn = formatedDate;
+            }
+
             return templates.get('userProfile');
         })
         .then(function (template) {
@@ -139,7 +146,17 @@
 
                     postModel.sendNewPost(data)
                     .then(function () {
-                        window.location.reload();
+                        userModel.getLoggedUserName()
+                         .then(function (res) {
+                             var createdOn = getDateOfPostCreation();
+
+                             var commentToAppend = '<div id="user-post-container">' +
+                                                       '<div>' + res + ' ' + createdOn + '</div>' +
+                                                       '<div>' + content + '</div>' +
+                                                   '</div>';
+
+                             $('#comments-container').append(commentToAppend);
+                         })
                     });
                 })
             });
@@ -152,7 +169,13 @@
 
         promise.then(function (resUser) {
             user = resUser;
-            console.log(user);
+            
+            for (var i = 0; i < user.Posts.length; i++) {
+                var date = new Date(user.Posts[i].CreatedOn);
+                var formatedDate = formatDate(date);
+                user.Posts[i].CreatedOn = formatedDate;
+            }
+
             return templates.get('editProfile');
         })
         .then(function (template) {
@@ -181,7 +204,14 @@
 
                     postModel.sendNewPost(data)
                     .then(function () {
-                        //window.location.reload();
+                        var createdOn = getDateOfPostCreation();
+
+                        var commentToAppend = '<div id="user-post-container">' +
+                                                  '<div>' + user.FirstName + ' ' + user.LastName + ' ' + createdOn + '</div>' +
+                                                  '<div>' + content + '</div>' +
+                                              '</div>';
+
+                        $('#comments-container').append(commentToAppend);
                     });
                 })
             });
@@ -298,6 +328,29 @@
                     });
             })
         })
+    }
+
+    function formatDate(date) {
+        var year = date.getFullYear(),
+            month = date.getMonth() + 1,
+            day = date.getDate(),
+            hour = date.getHours() - 2,
+            minute = date.getMinutes(),
+            hourFormatted = hour % 12 || 12,
+            minuteFormatted = minute < 10 ? "0" + minute : minute;
+
+        return day + "/" + month + "/" + year + " " + hourFormatted + ":" +
+                minuteFormatted;
+    }
+
+    function getDateOfPostCreation() {
+        var dateTime = new Date();
+        var createdOn = dateTime.getDate() + "/"
+                        + (dateTime.getMonth() + 1) + "/"
+                        + dateTime.getFullYear() + " "
+                        + dateTime.getHours() + ":"
+                        + (dateTime.getMinutes() < 10 ? '0' : '') + dateTime.getMinutes();
+        return createdOn;
     }
 
     scope.users = {
