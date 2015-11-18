@@ -1,15 +1,9 @@
 ﻿var postModel = (function () {
-    const USER_ACCESS_TOKEN = 'access_token',
-        TOKEN_TYPE = 'token_type';
 
     function sendNewPost(data) {
-
-            var bearerCode = localStorage.getItem(TOKEN_TYPE) + ' ' + localStorage.getItem(USER_ACCESS_TOKEN);
-            data = JSON.stringify(data);
-
             return jsonRequester.post('http://localhost:9941/api/Posts', {
-                headers: { 'Authorization': bearerCode },
-                data: data
+                headers: { 'Authorization': modelHelpers.getBearerCode() },
+                data: JSON.stringify(data)
             })
             .then(function (res) {
                 return res;

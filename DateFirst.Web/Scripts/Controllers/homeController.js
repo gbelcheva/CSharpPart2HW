@@ -13,8 +13,8 @@
               context.$element().html(template(homePage));
 
               var chat = PUBNUB.init({
-                  publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
-                  subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
+                  publish_key: constants.PUBNUB_PUBLISH_KEY,
+                  subscribe_key: constants.PUBNUB_SUBSCRIBE_KEY
               });
 
               $('#ta-shoutbox-message').keyup(function (event) {
@@ -127,9 +127,6 @@
                       context.$element().html(template(foundUsers));
                       context.redirect('#/users/search-result');
                   })
-
-
-                  //age dropdown?
               });
           })
     }
