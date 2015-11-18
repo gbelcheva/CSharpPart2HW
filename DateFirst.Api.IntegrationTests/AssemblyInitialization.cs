@@ -11,7 +11,6 @@
     using Microsoft.VisualStudio.TestTools.UnitTesting;
     using Moq;
     using Ninject;
-    using Infrastructure;
 
     [TestClass]
     public class AssemblyInitialization
@@ -21,25 +20,10 @@
         [AssemblyInitialize]
         public static void Init(TestContext testContext)
         {
-            var mockedIdentity = new Mock<IIdentity>();
-            mockedIdentity.Setup(i => i.Name)
-                .Returns("pesho");
-
-            var mockedPrincipal = new Mock<IPrincipal>();
-            mockedPrincipal.Setup(p => p.Identity)
-                .Returns(mockedIdentity.Object);
-
-            var mockedIdentityProvider = new Mock<IIdentityProvider>();
-            mockedIdentityProvider.Setup(p => p.GetIdentity())
-                .Returns(mockedPrincipal.Object);
-
-            IdentityMock = mockedIdentity.Object;
-
             Mock<IDateFirstData> mockedData = GetMockedData();
             Action<IKernel> mockedDependencyResolver = kernel =>
             {
                 kernel.Bind<IDateFirstData>().ToConstant(mockedData.Object);
-                kernel.Bind<IIdentityProvider>().ToConstant(mockedIdentityProvider.Object);
             };
 
             NinjectConfig.ResolveDependencies = mockedDependencyResolver;
@@ -59,21 +43,28 @@
                        Gender = Gender.Male,
                        EyeColor = EyeColor.Brown
                    },
+
                    Flirts = 3
                },
 
                new User
                {
+                   Id = "goshoId",
                    AdditionalInfo = new AdditionalInfo
                    {
                        Gender = Gender.Female,
                        EyeColor = EyeColor.Brown
-                   }
+                   },
+
+                   Flirts = 20
                }
             }
             .AsQueryable());
+
             mockedRepository.Setup(r => r.GetById("peshoId"))
                 .Returns(mockedRepository.Object.All().First());
+            mockedRepository.Setup(r => r.GetById("goshoId"))
+                .Returns(mockedRepository.Object.All().Last());
 
             var result = new Mock<IDateFirstData>();
             result.Setup(d => d.Users).Returns(mockedRepository.Object);

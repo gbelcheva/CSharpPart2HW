@@ -26,8 +26,30 @@
         }
 
         [TestMethod]
-        public void GetFlirtsAuhtenticatedShouldReturnCorrectResponse()
+        public void GetFlirtsAuthenticatedShouldReturnCorrectResponse()
         {
+            var mockedIdentity = new Mock<IIdentity>();
+            mockedIdentity.Setup(i => i.Name)
+                .Returns("pesho");
+
+            var mockedPrincipal = new Mock<IPrincipal>();
+            mockedPrincipal.Setup(p => p.Identity)
+                .Returns(mockedIdentity.Object);
+
+            var mockedIdentityProvider = new Mock<IIdentityProvider>();
+            mockedIdentityProvider.Setup(p => p.GetIdentity())
+                .Returns(mockedPrincipal.Object);
+
+            Mock<IDateFirstData> mockedData =
+                AssemblyInitialization.GetMockedData();
+            Action<IKernel> mockedDependencyResolver = kernel =>
+            {
+                kernel.Bind<IDateFirstData>().ToConstant(mockedData.Object);
+                kernel.Bind<IIdentityProvider>().ToConstant(mockedIdentityProvider.Object);
+            };
+
+            NinjectConfig.ResolveDependencies = mockedDependencyResolver;
+
             using (ShimsContext.Create())
             {
                 ShimIdentityExtensions.GetUserIdIIdentity =
@@ -44,7 +66,7 @@
         }
 
         [TestMethod]
-        public void GetFlirtsUnauhtenticatedShouldReturnCorrectResponse()
+        public void GetFlirtsUnauthenticatedShouldReturnCorrectResponse()
         {
             var mockedIdentity = new Mock<IIdentity>();
             mockedIdentity.Setup(i => i.Name)
@@ -73,6 +95,118 @@
                     .WithRequestUri("api/flirts"))
                 .ShouldReturnHttpResponseMessage()
                 .WithStatusCode(HttpStatusCode.BadRequest);
+        }
+
+        [TestMethod]
+        public void PutFlirtsUnauthenticatedShouldReturnCorrectResponse()
+        {
+            var mockedIdentity = new Mock<IIdentity>();
+            mockedIdentity.Setup(i => i.Name)
+                .Returns(default(string));
+
+            var mockedPrincipal = new Mock<IPrincipal>();
+            mockedPrincipal.Setup(p => p.Identity)
+                .Returns(mockedIdentity.Object);
+
+            var mockedIdentityProvider = new Mock<IIdentityProvider>();
+            mockedIdentityProvider.Setup(p => p.GetIdentity())
+                .Returns(mockedPrincipal.Object);
+
+            Mock<IDateFirstData> mockedData = AssemblyInitialization.GetMockedData();
+            Action<IKernel> mockedDependencyResolver = kernel =>
+            {
+                kernel.Bind<IDateFirstData>().ToConstant(mockedData.Object);
+                kernel.Bind<IIdentityProvider>().ToConstant(mockedIdentityProvider.Object);
+            };
+
+            NinjectConfig.ResolveDependencies = mockedDependencyResolver;
+
+            server
+                .WithHttpRequestMessage(req => req
+                    .WithMethod(HttpMethod.Put)
+                    .WithRequestUri("api/flirts"))
+                .ShouldReturnHttpResponseMessage()
+                .WithStatusCode(HttpStatusCode.BadRequest);
+        }
+
+        [TestMethod]
+        public void PutFlirtsAuthSameUserShouldReturnCorrectResponse()
+        {
+            var mockedIdentity = new Mock<IIdentity>();
+            mockedIdentity.Setup(i => i.Name)
+                .Returns("peshoId");
+
+            var mockedPrincipal = new Mock<IPrincipal>();
+            mockedPrincipal.Setup(p => p.Identity)
+                .Returns(mockedIdentity.Object);
+
+            var mockedIdentityProvider = new Mock<IIdentityProvider>();
+            mockedIdentityProvider.Setup(p => p.GetIdentity())
+                .Returns(mockedPrincipal.Object);
+
+            Mock<IDateFirstData> mockedData = AssemblyInitialization.GetMockedData();
+            Action<IKernel> mockedDependencyResolver = kernel =>
+            {
+                kernel.Bind<IDateFirstData>().ToConstant(mockedData.Object);
+                kernel.Bind<IIdentityProvider>().ToConstant(mockedIdentityProvider.Object);
+            };
+
+            NinjectConfig.ResolveDependencies = mockedDependencyResolver;
+
+            using (ShimsContext.Create())
+            {
+                ShimIdentityExtensions.GetUserIdIIdentity =
+                    (identity) => "peshoId";
+
+                server
+                    .WithHttpRequestMessage(req => req
+                        .WithMethod(HttpMethod.Put)
+                        .WithRequestUri("api/flirts")
+                        .WithJsonContent("{\"Id\":\"peshoId\"}"))
+                    .ShouldReturnHttpResponseMessage()
+                    .WithStatusCode(HttpStatusCode.BadRequest);
+
+            }
+        }
+
+        [TestMethod]
+        public void PutFlirtsAuthDifferentUserShouldReturnCorrectResponse()
+        {
+            var mockedIdentity = new Mock<IIdentity>();
+            mockedIdentity.Setup(i => i.Name)
+                .Returns("peshoId");
+
+            var mockedPrincipal = new Mock<IPrincipal>();
+            mockedPrincipal.Setup(p => p.Identity)
+                .Returns(mockedIdentity.Object);
+
+            var mockedIdentityProvider = new Mock<IIdentityProvider>();
+            mockedIdentityProvider.Setup(p => p.GetIdentity())
+                .Returns(mockedPrincipal.Object);
+
+            Mock<IDateFirstData> mockedData = AssemblyInitialization.GetMockedData();
+            Action<IKernel> mockedDependencyResolver = kernel =>
+            {
+                kernel.Bind<IDateFirstData>().ToConstant(mockedData.Object);
+                kernel.Bind<IIdentityProvider>().ToConstant(mockedIdentityProvider.Object);
+            };
+
+            NinjectConfig.ResolveDependencies = mockedDependencyResolver;
+
+            using (ShimsContext.Create())
+            {
+                ShimIdentityExtensions.GetUserIdIIdentity =
+                    (identity) => "peshoId";
+
+                server
+                    .WithHttpRequestMessage(req => req
+                        .WithMethod(HttpMethod.Put)
+                        .WithRequestUri("api/flirts")
+                        .WithJsonContent("{\"Id\":\"goshoId\"}"))
+                    .ShouldReturnHttpResponseMessage()
+                    .WithStatusCode(HttpStatusCode.OK);
+
+            }
         }
 
         [ClassCleanup]

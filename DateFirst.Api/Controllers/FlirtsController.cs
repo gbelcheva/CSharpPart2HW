@@ -45,16 +45,15 @@
                 return this.BadRequest("You must login!");
             }
 
-            var currentLoginUser = userManager.FindByName(this.principal.Identity.Name);
-
-            if (currentLoginUser.Id == user.Id)
+            var currentUserId = this.principal.Identity.GetUserId();
+            if (currentUserId == user.Id)
             {
                 return this.BadRequest("You cannot flirt with your own profile!");
             }
 
-            var currentProfilUser = this.data.Users.GetById(user.Id);
-            currentProfilUser.Flirts += 1;
-            this.data.Users.Update(currentProfilUser);
+            var currentProfileUser = this.data.Users.GetById(user.Id);
+            currentProfileUser.Flirts += 1;
+            this.data.Users.Update(currentProfileUser);
             this.data.SaveChanges();
 
             return this.Ok();
