@@ -135,6 +135,8 @@ a:hover {
         #users-container .panel a {
             font-size: 14px;
             color: #8AB933;
+            float: right;
+            margin-right: 10px;
         }
 
         #users-container .panel .panel-heading {
@@ -452,14 +454,38 @@ a:hover {
         text-align: center;
     }
 
-#users-container .panel a {
-    float: right;
-    margin-right: 10px;
+/*Sorted Users Page*/
+#sorted-users {
+    background: white;
+    height: 600px;
+    overflow-y: auto;
 }
 
 #best-female-daters-container, #newest-daters-container, #shout-box {
     margin-top: 20px;
 }
+    #sorted-users ul li {
+        width: 50%;
+        padding: 20px;
+        margin: 0 auto;
+        list-style-type: none;
+    }
+
+        #sorted-users ul li a {
+            font-size: 20px;
+        }
+
+            #sorted-users ul li a img {
+                width: 64px;
+                height: 64px;
+                margin-right: 20px;
+            }
+
+        #sorted-users ul li .search-user-flirts {
+            float: right;
+            margin-top: 5px;
+            width: 25%;
+        }
 
 .card {
     margin-top: 0px !important;
@@ -566,16 +592,16 @@ body #wrapper {
     margin: 30% 0 0 30%;
 }
 
-#footer {
+/*#footer {
     color: white;
     background: #8AB933;
     float: right;
-    /*position: absolute;
+    position: absolute;
     left: 506px;
-    top: 569px;*/
-    width: 683px;
+    top: 743px;
+    width: 674px;
     height: 93px;
-}
+}*/
 
 .btn-file {
     position: relative;
