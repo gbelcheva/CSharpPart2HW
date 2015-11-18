@@ -82,13 +82,14 @@
             };
             userModel.signIn(user)
               .then(function (user) {
-                  toastr.success('Welcome back!');
                   document.location = '#/';
                   $('#login-modal').modal('toggle');
                   
                   userModel.getLoggedUserName()
                   .then(function (res) {
                       $('#logged-user-name').text(res);
+                      console.log(res);
+                      toastr.success('Welcome back ' + res + '!');
                   })
                   .then(function () {
                       $('.login-container').hide();

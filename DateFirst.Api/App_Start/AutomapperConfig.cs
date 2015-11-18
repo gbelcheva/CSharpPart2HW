@@ -9,7 +9,6 @@
         public static void Initialize()
         {
             //// TODO more custom mapping when final models are decided
-            Mapper.CreateMap<Hobby, HobbyTransferModel>().ReverseMap();
             Mapper.CreateMap<Town, TownTransferModel>().ReverseMap();
             Mapper.CreateMap<Department, DepartmentTransferModel>().ReverseMap();
             Mapper.CreateMap<Image, ImageTransferModel>()

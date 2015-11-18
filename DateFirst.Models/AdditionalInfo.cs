@@ -7,13 +7,6 @@
     [Table("AdditionalInfos")]
     public class AdditionalInfo
     {
-        private ICollection<Hobby> hobbies;
-
-        public AdditionalInfo()
-        {
-            this.hobbies = new HashSet<Hobby>();
-        }
-
         [Key, ForeignKey("User")]
         public string Id { get; set; }
 
@@ -49,11 +42,5 @@
         public virtual EyeColor? EyeColor { get; set; }
 
         public virtual HairColor? HairColor { get; set; }
-
-        public ICollection<Hobby> Hobbies
-        {
-            get { return this.hobbies; }
-            set { this.hobbies = value; }
-        }
     }
 }

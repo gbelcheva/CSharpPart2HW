@@ -9,8 +9,6 @@
 
         IRepository<Department> Departments { get; }
 
-        IRepository<Hobby> Hobbies { get; }
-
         IRepository<Image> Images { get; }
 
         IRepository<Notification> Notifications { get; }
