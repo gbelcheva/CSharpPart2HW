@@ -263,18 +263,10 @@ a:hover {
             height: 25px;
         }
 
-        .well .tab-content .tab-pane #info-1 div {
+        .well .tab-content .tab-pane div additional-info{
             color: black;
             margin-bottom: 25px;
-            margin-left: 30px;
-            font-size: 16px;
-            height: 25px;
-        }
-
-        .well .tab-content .tab-pane #info-2 div {
-            color: black;
-            margin-bottom: 25px;
-            margin-left: 30px;
+            margin-left: 20px;
             font-size: 16px;
             height: 25px;
         }
@@ -285,20 +277,20 @@ a:hover {
             height: 25px;
         }
 
-        .well .tab-content .tab-pane #info-1 {
+        /*.well .tab-content .tab-pane {
             float: left;
         }
 
-        .well .tab-content .tab-pane #info-2 {
+        .well .tab-content .tab-pane {
             float: right;
             margin-right: 75px;
-        }
+        }*/
 
-            .well .tab-content .tab-pane #info-2 #about-me-header {
+            .well .tab-content .tab-pane #about-me-header {
                 margin-bottom: 2px;
             }
 
-            .well .tab-content .tab-pane #info-2 #ta-about-me-content {
+            .well .tab-content .tab-pane #ta-about-me-content {
                 width: 350px;
                 height: 100px;
                 overflow: auto;
@@ -306,7 +298,7 @@ a:hover {
                 resize: none;
             }
 
-                .well .tab-content .tab-pane #info-2 #ta-about-me-content:focus {
+                .well .tab-content .tab-pane #ta-about-me-content:focus {
                     outline: none !important;
                     border: 1px solid #8AB933;
                     box-shadow: 0 0 10px #8AB933;

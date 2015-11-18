@@ -11,8 +11,6 @@
 
         IDbSet<Department> Departments { get; set; }
 
-        IDbSet<Hobby> Hobbies { get; set; }
-
         IDbSet<Image> Images { get; set; }
 
         IDbSet<Notification> Notifications { get; set; }

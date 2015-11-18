@@ -62,7 +62,6 @@
     <Compile Include="Department.cs" />
     <Compile Include="Gender.cs" />
     <Compile Include="HairColor.cs" />
-    <Compile Include="Hobby.cs" />
     <Compile Include="Image.cs" />
     <Compile Include="Notification.cs" />
     <Compile Include="Post.cs" />

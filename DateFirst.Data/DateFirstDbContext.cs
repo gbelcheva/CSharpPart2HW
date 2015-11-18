@@ -21,8 +21,6 @@
 
         public virtual IDbSet<Department> Departments { get; set; }
 
-        public virtual IDbSet<Hobby> Hobbies { get; set; }
-
         public virtual IDbSet<Image> Images { get; set; }
 
         public virtual IDbSet<Notification> Notifications { get; set; }

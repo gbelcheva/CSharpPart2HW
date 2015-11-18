@@ -32,11 +32,6 @@
             get { return this.GetRepository<Department>(); }
         }
 
-        public IRepository<Hobby> Hobbies
-        {
-            get { return this.GetRepository<Hobby>(); }
-        }
-
         public IRepository<Image> Images
         {
             get { return this.GetRepository<Image>(); }

@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="AdditionalInfoTransferModel.cs" />
     <Compile Include="DepartmentTransferModel.cs" />
-    <Compile Include="HobbyTransferModel.cs" />
     <Compile Include="ImageTransferModel.cs" />
     <Compile Include="NotificationTransferModel.cs" />
     <Compile Include="PostTransferModel.cs" />

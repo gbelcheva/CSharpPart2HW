@@ -45,7 +45,7 @@
     <div class="well">
         <div class="tab-content">
             <div class="tab-pane fade in active" id="user-info">
-                <div id="info-1">
+                <div class="input-group additional-info col-md-4">
                     <div>
                         Gender:
                         <select id="select-gender" class="selectpicker">
@@ -55,12 +55,20 @@
                             <option value="2">Other</option>
                         </select>
                     </div>
-                    <div>Age: <input id="tb-age" type="text" /></div>
-                    <div>Height: <input id="tb-height" type="text" /></div>
-                    <div>Weight: <input id="tb-weight" type="text" /></div>
+                    <div>Age: <input id="tb-age" type="text" class="form-control"/></div>
+                    <div>Height: <input id="tb-height" type="text" class="form-control"/></div>
+                    <div>Weight: <input id="tb-weight" type="text" class="form-control" /></div>
+                </div>
+                <div class="input-group additional-info col-md-4">
+                    <div>Job Title: <input id="tb-job-title" type="text" class="form-control"/></div>
+                    <div>Salary: <input id="tb-salary" type="text" class="form-control"/></div>
+                    <div id="about-me-header">About me: </div>
+                    <div><textarea id="ta-about-me-content" class="form-control"></textarea></div>
+                </div>
+                <div class="input-group additional-info col-md-4">
                     <div>
                         Eye Color:
-                        <select id="select-eye-color" class="selectpicker">
+                        <select id="select-eye-color" class="selectpicker form-control">
                             <option value="6">Nothing Selected</option>
                             <option value="0">Albino</option>
                             <option value="1">Green</option>
@@ -72,7 +80,7 @@
                     </div>
                     <div>
                         Hair Color:
-                        <select id="select-hair-color" class="selectpicker">
+                        <select id="select-hair-color" class="selectpicker form-control">
                             <option value="8">Nothing Selected</option>
                             <option value="0">Blonde</option>
                             <option value="1">Brown</option>
@@ -86,7 +94,7 @@
                     </div>
                     <div>
                         Star Sign:
-                        <select id="select-star-sign" class="selectpicker">
+                        <select id="select-star-sign" class="selectpicker form-control">
                             <option value="12">Nothing Selected</option>
                             <option value="0">Aries</option>
                             <option value="1">Taurus</option>
@@ -102,13 +110,6 @@
                             <option value="11">Pisces</option>
                         </select>
                     </div>
-                </div>
-                <div id="info-2">
-                    <div>Job Title: <input id="tb-job-title" type="text" /></div>
-                    <div>Salary: <input id="tb-salary" type="text" /></div>
-                    <!--<div>Hobbies: <input id="tb-hobbies" type="text" /></div>-->
-                    <div id="about-me-header">About me: </div>
-                    <div><textarea id="ta-about-me-content"></textarea></div>
                 </div>
                 <a href="#" class="btn btn-user-profile" id="btn-save-changes" title="Save Changes"><span class="glyphicon glyphicon-floppy-save"></span></a>
                 <div class="clearfix"></div>

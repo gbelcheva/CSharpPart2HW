@@ -33,7 +33,5 @@
         public EyeColor? EyeColor { get; set; }
 
         public HairColor? HairColor { get; set; }
-
-        public ICollection<HobbyTransferModel> Hobbies { get; set; }
     }
 }
