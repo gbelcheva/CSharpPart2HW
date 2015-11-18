@@ -5,6 +5,7 @@
     using System.Reflection;
 
     using Data.Repositories;
+    using Infrastructure;
     using Ninject;
 
     public static class NinjectConfig
@@ -25,6 +26,7 @@
         public static Action<IKernel> ResolveDependencies = kernel =>
         {
             kernel.Bind<IDateFirstData>().To<DateFirstData>();
+            kernel.Bind<IIdentityProvider>().To<AspNetIdentityProvider>();
         };
 
         private static void RegisterServices(KernelBase kernel)

@@ -32,7 +32,7 @@ namespace DateFirst.Api.IntegrationTests
                 .Passing(model =>
                 {
                     Assert.AreEqual(2, model.Count);
-                }); ;
+                });
         }
 
         [TestMethod]

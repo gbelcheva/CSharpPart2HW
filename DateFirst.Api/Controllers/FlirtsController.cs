@@ -2,28 +2,37 @@
 {
     using System.Net.Http;
     using System.Web.Http;
+    using System.Security.Principal;
+
     using DataTransferModels;
     using Data.Repositories;
+    using Infrastructure;
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.Owin;
 
     public class FlirtsController : ApiController
     {
         private readonly IDateFirstData data;
+        private readonly IPrincipal principal;
 
-        public FlirtsController(IDateFirstData data)
+        public FlirtsController(IDateFirstData data, IIdentityProvider identityProvider)
         {
             this.data = data;
-
+            this.principal = identityProvider.GetIdentity();
         }
 
         [HttpGet]
         public IHttpActionResult Get()
         {
             var userManager = Request.GetOwinContext().GetUserManager<ApplicationUserManager>();
-            var user = userManager.FindByName(User.Identity.Name);
+            string username = this.principal.Identity.Name;
+            if (username == null)
+            {
+                return this.BadRequest();
+            }
 
-            var currentUser = this.data.Users.GetById(user.Id);
+            var userId = this.principal.Identity.GetUserId();
+            var currentUser = this.data.Users.GetById(userId);
             return this.Ok(currentUser.Flirts);
         }
 
@@ -31,11 +40,12 @@
         public IHttpActionResult Put([FromBody]UserTransferModel user)
         {
             var userManager = Request.GetOwinContext().GetUserManager<ApplicationUserManager>();
-            if (User.Identity.Name == null)
+            if (this.principal.Identity.Name == null)
             {
                 return this.BadRequest("You must login!");
             }
-            var currentLoginUser = userManager.FindByName(User.Identity.Name);
+
+            var currentLoginUser = userManager.FindByName(this.principal.Identity.Name);
 
             if (currentLoginUser.Id == user.Id)
             {
