@@ -40,12 +40,12 @@
         public IHttpActionResult Put([FromBody]UserTransferModel user)
         {
             var userManager = Request.GetOwinContext().GetUserManager<ApplicationUserManager>();
-            if (this.principal.Identity.Name == null)
+            if (this.User.Identity.Name == null)
             {
                 return this.BadRequest("You must login!");
             }
 
-            var currentUserId = this.principal.Identity.GetUserId();
+            var currentUserId = this.User.Identity.GetUserId();
             if (currentUserId == user.Id)
             {
                 return this.BadRequest("You cannot flirt with your own profile!");

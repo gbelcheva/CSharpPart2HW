@@ -88,7 +88,6 @@
                   userModel.getLoggedUserName()
                   .then(function (res) {
                       $('#logged-user-name').text(res);
-                      console.log(res);
                       toastr.success('Welcome back ' + res + '!');
                   })
                   .then(function () {
