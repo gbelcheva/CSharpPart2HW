@@ -19,9 +19,17 @@
             return kernel;
         });
 
-        private static void RegisterServices(KernelBase kernel)
+        /// <summary>
+        /// Required for integration testing (for mocking, or more specifically, for replacing)
+        /// </summary>
+        public static Action<IKernel> ResolveDependencies = kernel =>
         {
             kernel.Bind<IDateFirstData>().To<DateFirstData>();
+        };
+
+        private static void RegisterServices(KernelBase kernel)
+        {
+            ResolveDependencies(kernel);
         }
     }
 }

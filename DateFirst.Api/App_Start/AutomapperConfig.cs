@@ -1,4 +1,4 @@
-﻿namespace DateFirst.Api.App_Start
+﻿namespace DateFirst.Api
 {
     using AutoMapper;
     using DateFirst.Models;
@@ -21,7 +21,7 @@
                 .ForMember(n => n.SenderUsername, opt => opt.MapFrom(n => n.Sender.UserName));
             Mapper.CreateMap<Post, PostTransferModel>()
                 .ForMember(p => p.ReceiverName, opt => opt.MapFrom(p => p.Receiver.FirstName + " " + p.Receiver.LastName))
-                .ForMember(p=>p.SenderName, opt => opt.MapFrom(p => p.Sender.FirstName + " " + p.Sender.LastName));
+                .ForMember(p => p.SenderName, opt => opt.MapFrom(p => p.Sender.FirstName + " " + p.Sender.LastName));
         }
     }
 }
