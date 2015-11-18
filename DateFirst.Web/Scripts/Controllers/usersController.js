@@ -58,6 +58,11 @@
                 $(this).removeClass("btn-user-profile").addClass("btn-pressed");
             });
 
+            var notification = PUBNUB.init({
+                publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
+                subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
+            });
+
             $('#flirts').on('click', function () {
                 $.ajax({
                     type: "PUT",
@@ -70,22 +75,59 @@
                     }
                 })
                 .then(function () {
-                    toastr.success('You flirted this profile!');
+                    toastr.options = {
+                        "positionClass": "toast-top-right",
+                    }
+
                     $.ajax({
                         type: "GET",
                         url: "http://localhost:9941/api/UserProfiles/" + user.Id,
                         headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
                     })
-                        .then(function (res) {
-                            $('#count').text(res.Flirts);
-                        });
+                    .then(function (res) {
+                        $('#count').text(res.Flirts);
+                    });
+
+                    toastr.success('You flirted with ' + user.FirstName + ' ' + user.LastName + '!');
                 });
             });
 
-            $("#btn-add-post").click(function () {
+            $('#flirts').on('click', function () {
+                userModel.getLoggedUserId()
+                    .then(function (res) {
+                        var loggedUserId = res;
+
+                        userModel.getUserInfo(loggedUserId)
+                            .then(function (loggedUserInfo) {
+                                var info = loggedUserInfo;
+                                notification.publish({
+                                    channel: 'Notification',
+                                    message: {
+                                        "Text": info.FirstName + ' ' + info.LastName + ' flirt your profile!',
+                                        "Flirter": info
+                                    }
+                                });
+                                notification.subscribe({
+                                    channel: 'Notification',
+                                    message: function (notification) {
+                                        toastr.options = {
+                                            "positionClass": "toast-top-center",
+                                            onclick: function () {
+                                                window.location = '#/users/' + notification.Flirter.Id;
+                                            }
+                                        }
+
+                                        toastr.info(notification.Text, "Flirt Notifications:");
+                                    }
+                                });
+                            });
+                    });
+            });
+
+            $("#btn-send-comment").click(function () {
                 userModel.getLoggedUserId()
                 .then(function (res) {
-                    var content = $("#ta-post-content").val();
+                    var content = $("#ta-comment-message").val();
                     var senderId = res;
                     var receiverId = user.Id;
 
@@ -110,6 +152,7 @@
 
         promise.then(function (resUser) {
             user = resUser;
+            console.log(user);
             return templates.get('editProfile');
         })
         .then(function (template) {
@@ -122,6 +165,32 @@
                 $(this).removeClass("btn-user-profile").addClass("btn-pressed");
             });
 
+            $("#btn-send-comment").click(function () {
+                userModel.getLoggedUserId()
+                .then(function (res) {
+                    console.log(res);
+                    var content = $("#ta-comment-message").val();
+                    var senderId = res;
+                    var receiverId = user.Id;
+
+                    var data = {
+                        'Content': content,
+                        'SenderId': senderId,
+                        'ReceiverId': receiverId
+                    };
+
+                    postModel.sendNewPost(data)
+                    .then(function () {
+                        //window.location.reload();
+                    });
+                })
+            });
+
+            $('#fileUpload').on('change', function myfunction() {
+                var files = $("#fileUpload").get(0).files;
+                $("#tb-selected-file").val(files[0].name);
+            })
+
             $('#btnUploadFile').on('click', function () {
                 var data = new FormData();
 
@@ -129,7 +198,6 @@
 
                 if (files.length > 0) {
                     data.append("UploadedImage", files[0]);
-                    console.log(files[0]);
                 }
 
                 var ajaxRequest = $.ajax({
@@ -142,6 +210,32 @@
                 });
 
                 ajaxRequest.done(function (xhr, textStatus) {
+                    toastr.success('Image uploaded!');
+                    // Do other operation
+                });
+            });
+
+            //Update profile picture
+            $('#btn-UploadFile').on('click', function () {
+                var data = new FormData();
+
+                var files = $("#file-Upload").get(0).files;
+
+                if (files.length > 0) {
+                    data.append("UploadedImage", files[0]);
+                }
+
+                var ajaxRequest = $.ajax({
+                    type: "POST",
+                    url: "http://localhost:9941//api/UploadProfilePicture",
+                    contentType: false,
+                    processData: false,
+                    data: data,
+                    headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
+                });
+
+                ajaxRequest.done(function (xhr, textStatus) {
+                    toastr.success('Profile picture updated!');
                     // Do other operation
                 });
             });
@@ -199,12 +293,11 @@
 
                 userModel.updateUserInfo(data)
                     .then(function (res) {
-                        
+
                         document.location = '/#/users/' + user.Id + '/my-profile';
                     });
             })
         })
-
     }
 
     scope.users = {

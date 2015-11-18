@@ -2,7 +2,8 @@
     color: #888888;
     font-family: 'Open Sans',Arial,sans-serif;
     font-size: 16px;
-    /*background-image: url("http://img.photobucket.com/albums/v16/wishuponastar422/blog/layouts/parisholdsthekeybkgcopy.jpg");*/
+    background-color: #fff;
+    background-image: url('../../Images/download.png')!important;
 }
 
 p {
@@ -20,28 +21,42 @@ a:hover {
 }
 
 #navbar {
-    height: 50px;
+    height: 180px;
     border-bottom: 1px solid #8AB933;
+    background-image: url('../../Images/banner.png');
+    background-repeat: no-repeat;
+}
+
+#home-btn {
+    position:relative;
+    border: none;
+    outline: none;
+}
+
+#profile-btn {
+   margin-left: -50px;
+   margin-bottom: 50px;
+   border: none;
+   outline: none;
+}
+
+#home-btn:hover, #profile-btn:hover {
+    background-image: url('../../Images/cloud button hover.png');
 }
 
 .login-containers a {
     font-size: 13px;
     padding: 4px !important;
     margin-top: 15px;
-    color: #8AB933;
+    color: #fff;
 }
 
 .logout-container #logged-user-name {
     display: inline-block;
     margin-top: 17px;
     margin-left: 10px;
-    color: #8AB933;
+    color: #fff;
     font-size: 13px;
-}
-
-#image-gallery #links a img {
-    width: 150px;
-    height: 150px;
 }
 
 #search-container {
@@ -71,11 +86,11 @@ a:hover {
             margin-left: 30px;
         }
 
-        #search-container .panel .panel-body button {
+        #search-container .panel .panel-body #btn-search {
             background-color: white;
             color: black;
             margin-bottom: 5px;
-            margin-left: 250px;
+            margin-left: 270px;
             font-size: 14px;
         }
 
@@ -90,6 +105,10 @@ a:hover {
             height: 25px;
         }
 
+        #file-Upload, #btn-UploadFile {
+            position: relative;
+            display: inline;
+        }
 #users-container {
     float: right;
     width: 66.666%;
@@ -208,62 +227,153 @@ a:hover {
                         box-shadow: 0 0 10px #8AB933;
                     }
 
+                    
 .well {
     height: 360px;
     background: white;
 }
 
-    .well .tab-content .tab-pane select {
-        border-radius: 5px;
-        border: 1px solid #111;
-        background: transparent;
-        margin-left: 5px;
-        padding: 0px 5px 0px 5px;
-        font-size: 16px;
-        border: 1px solid #ccc;
-        height: 25px;
+    .well .tab-content {
+        width: 100%;
     }
 
-    .well .tab-content .tab-pane div {
-        color: black;
-        margin-bottom: 25px;
-        margin-left: 30px;
-        font-size: 16px;
-        height: 25px;
-    }
 
-    .well .tab-content .tab-pane input {
-        color: black;
-        font-size: 16px;
-        height: 25px;
-    }
-
-    .well .tab-content .tab-pane #info-1 {
-        float: left;
-    }
-
-    .well .tab-content .tab-pane #info-2 {
-        float: right;
-        margin-right: 75px;
-    }
-
-        .well .tab-content .tab-pane #info-2 #about-me-header {
-            margin-bottom: 2px;
+        .well .tab-content .tab-pane select {
+            border-radius: 5px;
+            border: 1px solid #111;
+            background: transparent;
+            margin-left: 5px;
+            padding: 0px 5px 0px 5px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            height: 25px;
         }
 
-        .well .tab-content .tab-pane #info-2 #ta-about-me-content {
-            width: 350px;
-            height: 100px;
-            overflow: auto;
-            border: 1px solid black;
-            resize: none;
+        .well .tab-content .tab-pane #info-1 div {
+            color: black;
+            margin-bottom: 25px;
+            margin-left: 30px;
+            font-size: 16px;
+            height: 25px;
         }
 
-    .well .tab-content .tab-pane #btn-save-changes {
-        float: right;
-        margin-right: 60px;
-        margin-top: 240px;
-    }
+        .well .tab-content .tab-pane #info-2 div {
+            color: black;
+            margin-bottom: 25px;
+            margin-left: 30px;
+            font-size: 16px;
+            height: 25px;
+        }
+
+        .well .tab-content .tab-pane input {
+            color: black;
+            font-size: 16px;
+            height: 25px;
+        }
+
+        .well .tab-content .tab-pane #info-1 {
+            float: left;
+        }
+
+        .well .tab-content .tab-pane #info-2 {
+            float: right;
+            margin-right: 75px;
+        }
+
+            .well .tab-content .tab-pane #info-2 #about-me-header {
+                margin-bottom: 2px;
+            }
+
+            .well .tab-content .tab-pane #info-2 #ta-about-me-content {
+                width: 350px;
+                height: 100px;
+                overflow: auto;
+                border-radius: 5px;
+                resize: none;
+            }
+
+                .well .tab-content .tab-pane #info-2 #ta-about-me-content:focus {
+                    outline: none !important;
+                    border: 1px solid #8AB933;
+                    box-shadow: 0 0 10px #8AB933;
+                }
+
+        .well .tab-content .tab-pane #btn-save-changes {
+            float: right;
+            margin-right: 60px;
+            margin-top: 240px;
+        }
+
+        .well .tab-content #image-gallery #upload-btn-container {
+            margin-top: 20px;
+        }
+
+        .well .tab-content #image-gallery #upload-btn-container .form-control {
+            width: 20%;
+            display: inline-block;
+        }
+
+        .well .tab-content #image-gallery #links {
+            height: 270px;
+            width: 101%;
+            overflow-y: auto;
+        }
+
+            .well .tab-content #image-gallery #links a {
+                display: inline-block;
+                width: 99px;
+                height: 100px;
+                margin-left: 3.5px;
+            }
+
+                .well .tab-content #image-gallery #links a img {
+                    width: 100px;
+                    height: 100px;
+                    vertical-align: initial;
+                }
+
+        .well .tab-content #image-gallery #upload-btn-container {
+            margin-top: 10px;
+        }
+
+            .well .tab-content #image-gallery #upload-btn-container #fileUpload {
+                width: 210px;
+                display: inline-block;
+            }
+
+        .well .tab-content #comments .portlet {
+            border: none;
+        }
+
+            .well .tab-content #comments .portlet #comments-container {
+                height: 252px;
+            }
+
+            .well .tab-content #comments .portlet .portlet-footer {
+                padding: 0px;
+                background-color: white;
+            }
+
+                .well .tab-content #comments .portlet .portlet-footer .form-group {
+                    position: initial;
+                }
+
+                    .well .tab-content #comments .portlet .portlet-footer .form-group #ta-comment-message {
+                        width: 50%;
+                        resize: none;
+                        float: left;
+                    }
+
+                        .well .tab-content #comments .portlet .portlet-footer .form-group #ta-comment-message:focus {
+                            outline: none !important;
+                            border: 1px solid #8AB933;
+                            box-shadow: 0 0 10px #8AB933;
+                        }
+
+                    .well .tab-content #comments .portlet .portlet-footer .form-group #btn-send-comment {
+                        margin-left: 5px;
+                        margin-top: 9px;
+                    }
 
 .btn-user-profile {
     border: 1px solid lightgray;
@@ -421,3 +531,35 @@ body #wrapper {
 #modal-launcher {
     margin: 30% 0 0 30%;
 }
+
+#footer {
+    color: white;
+    background: #8AB933;
+    float: right;
+    /*position: absolute;
+    left: 506px;
+    top: 569px;*/
+    width: 683px;
+    height: 93px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+    .btn-file input[type=file] {
+        position: absolute;
+        top: 0;
+        right: 0;
+        min-width: 100%;
+        min-height: 100%;
+        font-size: 100px;
+        text-align: right;
+        filter: alpha(opacity=0);
+        opacity: 0;
+        outline: none;
+        background: white;
+        cursor: inherit;
+        display: block;
+    }

@@ -7,7 +7,7 @@
             </button>
         </div>
         <div class="useravatar">
-            <img alt="" src="http://lorempixel.com/100/100/cats/2">
+            <img alt="" src={{this.AvatarUrl}}>
         </div>
 
         <div class="card-info">
@@ -50,9 +50,9 @@
                 <div id="info-2">
                     <div>Job Title: {{this.AdditionalInfo.JobTitle}}</div>
                     <div>Salary: {{this.AdditionalInfo.Salary}}$</div>
-                    <div>Hobbies: {{this.AdditionalInfo.Hobbies}}</div>
+                    <!--<div>Hobbies: {{this.AdditionalInfo.Hobbies}}</div>-->
                     <div id="about-me-header">About me: </div>
-                    <div id="about-me-content">{{this.AdditionalInfo.AboutMe}}</div>
+                    <div id="ta-about-me-content">{{this.AdditionalInfo.AboutMe}}</div>
                 </div>
             </div>
             <div class="tab-pane fade in" id="image-gallery">
@@ -63,13 +63,17 @@
                     </a>
                     {{/each}}
                 </div>
+                <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
                 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+                    <!-- The container for the modal slides -->
                     <div class="slides"></div>
+                    <!-- Controls for the borderless lightbox -->
                     <h3 class="title"></h3>
                     <a class="prev">‹</a>
                     <a class="next">›</a>
                     <a class="close">×</a>
                     <ol class="indicator"></ol>
+                    <!-- The modal dialog, which will be used to wrap the lightbox content -->
                     <div class="modal fade">
                         <div class="modal-dialog">
                             <div class="modal-content">
@@ -94,16 +98,27 @@
                 </div>
             </div>
             <div class="tab-pane fade in" id="comments">
-                <div class="tab-pane fade in" id="comments">
-                    <div id="comments-container">
-                        <ul>
-                            {{#each this.Posts}}
-                            <li>{{SenderName}} - {{CreatedOn}} - {{Content}}</li>
-                            {{/each}}
-                        </ul>
+                <div class="portlet portlet-default">
+                    <div class="panel-collapse collapse in">
+                        <div>
+                            <div class="portlet-body chat-widget" id="comments-container" style="overflow-y: auto; width: auto;">
+                                {{#each this.Posts}}
+                                <div>{{SenderName}} - {{CreatedOn}} - {{Content}}</div>
+                                {{/each}}
+                            </div>
+                        </div>
+                        <div class="portlet-footer">
+                            <form role="form">
+                                <div class="form-group">
+                                    <textarea class="form-control" id="ta-comment-message" placeholder="Enter message..."></textarea>
+                                </div>
+                                <div class="form-group">
+                                    <a href="#" class="btn btn-user-profile" id="btn-send-comment" title="Send Message"><span class="glyphicon glyphicon-share-alt"></span></a>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </form>
+                        </div>
                     </div>
-                    <textarea id="ta-post-content"></textarea>
-                    <button id="btn-add-post">Add Comment</button>
                 </div>
             </div>
         </div>

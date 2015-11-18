@@ -1,18 +1,20 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Date First</title>
     <meta charset="utf-8" />
     <script src="Scripts/jquery-2.1.4.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Scripts/sammy.min.js"></script>
     <script src="Scripts/handlebars-v4.0.4.js"></script>
     <script src="Scripts/toastr.min.js"></script>
+    <!--<script src="Scripts/pace.js"></script>-->
     <script src="https://cdn.pubnub.com/pubnub-dev.js"></script>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/toastr.min.css" rel="stylesheet" />
     <link href="Content/CustomCss/chat-style.css" rel="stylesheet" />
+    <!--<link href="Content/CustomCss/pace-style.css" rel="stylesheet" />-->
     <!--Modal window-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href="Content/CustomCss/style.css" rel="stylesheet" />
@@ -29,7 +31,8 @@
 <body>
     <div id="wrapper">
         <div id="navbar">
-            <a href="#/home"><h1 class="nav navbar-nav navbar-left">DateFirst</h1></a>
+            <input type="image" src="Images/cloud button.png" alt="Home" id="home-btn" />
+            <input type="image" src="Images/cloud button profile.png" alt="Home" id="profile-btn" />
             <ul class="nav navbar-nav navbar-right">
                 <li id="sign-in-container" class="login-containers">
                     <a href="#/" data-toggle="modal" data-target="#login-modal"><b>> Login</b></a>
@@ -40,8 +43,8 @@
                 <li class="logout-container">
                     <div class="dropdown" id="user-dropdown">
                         <a href="" class="dropdown-toggle" id="user-image" data-toggle="dropdown">
-                            <img src="http://community.playstarbound.com/data/attachments/61/61716-71ca9c4b63cf4c7405525340e6ac6aaf.jpg" />  
-                            <div id="logged-user-name"></div>                                                  
+                            <img id="profile-picture" src="" />
+                            <div id="logged-user-name"></div>
                         </a>
                         <ul class="dropdown-menu">
                             <li><a href="#" id="my-profile">My Profile</a></li>
@@ -52,6 +55,7 @@
                 </li>
             </ul>
         </div>
+        <br />
 
         <!--Modal Window Login Start-->
         <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -136,6 +140,10 @@
 
         </div>
 
+        <!--Footer-->
+        <!--<div id="footer">
+            Footer Here
+        </div>-->
         <!-- Image Gallery scripts -->
         <!--<script src="Scripts/bootstrap-image-gallery.min.js"></script>-->
         <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>

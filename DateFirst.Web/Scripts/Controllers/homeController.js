@@ -23,8 +23,8 @@
                   }
               });
 
-              var currentLogginUser;
-              var promise = userModel.getLoggedUserName();
+              var currentLogginUserId;
+              var promise = userModel.getLoggedUserId();
               $('#btn-send-message').click(function () {
                   $("#chat").animate({ scrollTop: $(document).height() }, "slow");
 
@@ -40,36 +40,40 @@
 
                   
                   promise.then(function (res) {
-                      currentLogginUser = res;
+                      currentLogginUserId = res;
+                      
+                      userModel.getUserInfo(currentLogginUserId)
+                        .then(function (res) {
+                            var loggedUserInfo = res;
+                            var htmlToAdd = '<div class="row">' +
+                                                 '<div class="col-lg-12">' +
+                                                     '<div class="media" >' +
+                                                         '<a class="pull-left" href="#/users/' + loggedUserInfo.Id + '">' +
+                                                                  '<img style="width: 50px" height="50px" class="media-object img-circle" src=' + '"' + loggedUserInfo.AvatarUrl + '"' + ' alt="">' +
+                                                         '</a>' +
+                                                         '<div class="media-body">' +
+                                                             '<h4 class="media-heading">' +
+                                                                 loggedUserInfo.FirstName + ' ' + loggedUserInfo.LastName +
+                                                                 '<span class="small pull-right">' + strDateTime + '</span>' +
+                                                             '</h4>' +
+                                                             '<p>' + messageToSend + '</p>' +
+                                                         '</div>' +
+                                                         '<hr/>' +
+                                                     '</div>' +
+                                                 '</div>' +
+                                             '</div>';
 
-                      var htmlToAdd = '<div class="row">' +
-                                            '<div class="col-lg-12">' +
-                                                '<div class="media" >' +
-                                                    '<a class="pull-left" href="#">' +
-                                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
-                                                    '</a>' +
-                                                    '<div class="media-body">' +
-                                                        '<h4 class="media-heading">' +
-                                                            currentLogginUser +
-                                                            '<span class="small pull-right">' + strDateTime + '</span>' +
-                                                        '</h4>' +
-                                                        '<p>' + messageToSend + '</p>' +
-                                                    '</div>' +
-                                                    '<hr/>' +
-                                                '</div>' +
-                                            '</div>' +
-                                        '</div>';
+                            $('#msg-content').append(htmlToAdd);
+                            $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
 
-                      $('#msg-content').append(htmlToAdd);
-                      $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
-
-                      chat.publish({
-                          channel: 'DateFirst',
-                          message: {
-                              "Text": messageToSend,
-                              "Sender": currentLogginUser
-                          }
-                      });
+                            chat.publish({
+                                channel: 'DateFirst',
+                                message: {
+                                    "Text": messageToSend,
+                                    "Sender": loggedUserInfo
+                                }
+                            });
+                    });
                   });
 
                   chat.subscribe({
@@ -78,12 +82,12 @@
                           var htmlToAdd = '<div class="row">' +
                                             '<div class="col-lg-12">' +
                                                 '<div class="media" >' +
-                                                    '<a class="pull-left" href="#">' +
-                                                             '<img class="media-object img-circle" src="http://lorempixel.com/30/30/people/7/" alt="">' +
+                                                    '<a class="pull-left" href="#/users/'+ message.Sender.Id +'">' +
+                                                             '<img style="width: 50px" height="50px" class="media-object img-circle" src=' + '"' + message.Sender.AvatarUrl + '"' + ' alt="">' +
                                                     '</a>' +
                                                     '<div class="media-body">' +
                                                         '<h4 class="media-heading">' +
-                                                            message.Sender +
+                                                            message.Sender.FirstName + ' ' + message.Sender.LastName +
                                                             '<span class="small pull-right">' + strDateTime + '</span>' +
                                                         '</h4>' +
                                                         '<p>' + message.Text + '</p>' +
