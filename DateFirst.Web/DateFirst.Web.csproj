@@ -93,12 +93,10 @@
     <Content Include="Content\toastr.min.css" />
     <Content Include="Fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Images\banner.png" />
-    <Content Include="Images\bedcb525273031.552a5003634c0.png" />
     <Content Include="Images\cloud button hover.png" />
     <Content Include="Images\cloud button profile.png" />
     <Content Include="Images\cloud button.png" />
     <Content Include="Images\download.png" />
-    <Content Include="Images\ninja.png" />
     <Content Include="index.html" />
     <Content Include="Scripts\App\app.js" />
     <Content Include="Scripts\App\jsonRequester.js" />

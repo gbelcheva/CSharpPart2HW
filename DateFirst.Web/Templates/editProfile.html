@@ -8,6 +8,9 @@
         </div>
         <div class="useravatar">
             <img alt="" src={{this.AvatarUrl}}>
+            <label for="file-Upload">Edit Profile picture</label>
+            <input id="file-Upload" type="file" />
+            <input id="btn-UploadFile" type="button" value="Save" />
         </div>
 
         <div class="card-info">
@@ -126,11 +129,11 @@
                     </a>
                     <!--<input id="btnUploadFile" class="btn-user-profile" type="button" value="Upload File"/>-->
                 </div>
-                <div>
+                <!--<div>
                     <label for="file-Upload">Select File to Upload:</label>
                     <input id="file-Upload" type="file" />
                     <input id="btn-UploadFile" type="button" value="Upload File" />
-                </div>
+                </div>-->
                 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
                     <div class="slides"></div>
                     <h3 class="title"></h3>

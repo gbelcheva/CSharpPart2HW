@@ -105,6 +105,10 @@ a:hover {
             height: 25px;
         }
 
+        #file-Upload, #btn-UploadFile {
+            position: relative;
+            display: inline;
+        }
 #users-container {
     float: right;
     width: 66.666%;
@@ -223,6 +227,7 @@ a:hover {
                         box-shadow: 0 0 10px #8AB933;
                     }
 
+                    
 .well {
     height: 360px;
     background: white;

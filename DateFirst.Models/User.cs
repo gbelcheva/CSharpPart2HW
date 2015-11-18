@@ -25,6 +25,7 @@
             this.images = new HashSet<Image>();
             this.posts = new HashSet<Post>();
             this.notifications = new HashSet<Notification>();
+            this.AvatarUrl = "http://www.telerik.com/sfimages/default-source/blogs/super_ninja-png";
         }
 
         public string AvatarUrl { get; set; }
