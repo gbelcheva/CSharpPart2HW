@@ -4,6 +4,8 @@
     font-size: 16px;
     background-color: #fff;
     background-image: url('../../Images/clouds-background.jpg') !important;
+    background-repeat:no-repeat;
+    background-size:100%;
 }
 
 p {
@@ -27,20 +29,20 @@ a:hover {
     background-repeat: no-repeat;
 }
 
-#home-btn {
+#home-cloud-btn {
     position: relative;
     border: none;
     outline: none;
 }
 
-#profile-btn {
+#profile-cloud-btn {
     margin-left: -50px;
     margin-bottom: 50px;
     border: none;
     outline: none;
 }
 
-    #home-btn:hover, #profile-btn:hover {
+    #home-cloud-btn:hover, #profile-cloud-btn:hover {
         background-image: url('../../Images/cloud button hover.png');
     }
 
@@ -53,7 +55,7 @@ a:hover {
         background-image: url('../../Images/login-register-hover.png');
     }
 
-.login-containers a {
+#sign-in-container, #register-container a {
     font-size: 13px;
     padding: 4px !important;
     margin-top: 15px;

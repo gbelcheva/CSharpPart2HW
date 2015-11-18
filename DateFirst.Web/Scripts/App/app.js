@@ -28,21 +28,19 @@
         if (userModel.hasUser()) {
             userModel.getLoggedUserName()
             .then(function (userNames) {
+                $('.login-container').hide();
                 $('#logged-user-name').text(userNames);
-                $('#login-btn').hide();
-                $('#register-btn').hide();
-                $('.login-containers').hide();
             });           
         } else {
+            $('#profile-cloud-btn').hide();
             $('.logout-container').hide();
-            $('#profile-btn').hide();
         }
 
-        $('#home-btn').on('click', function () {
+        $('#home-cloud-btn').on('click', function () {
             document.location = '/#/home';
         });
 
-        $('#profile-btn').on('click', function () {
+        $('#profile-cloud-btn').on('click', function () {
             userModel.getLoggedUserId()
            .then(function (res) {
                document.location = '/#/users/' + res + '/my-profile';
@@ -71,7 +69,7 @@
                   document.location = '#/home';
                   setTimeout(function () {
                       $('.logout-container').fadeOut(100, function () {
-                          $('.login-containers').fadeIn(500);
+                          $('.login-container').fadeIn(500);
                       });
                   }, 1000);
               });
@@ -87,14 +85,18 @@
                   toastr.success('Welcome back!');
                   document.location = '#/';
                   $('#login-modal').modal('toggle');
-
+                  
                   userModel.getLoggedUserName()
                   .then(function (res) {
                       $('#logged-user-name').text(res);
+                  })
+                  .then(function () {
+                      $('.login-container').hide();
+                      $('#profile-cloud-btn').toggle();
                   });
 
                   setTimeout(function () {
-                      $('.login-containers').fadeOut(100, function () {
+                      $('.login-container').fadeOut(100, function () {
                           $('.logout-container').fadeIn(500);
                       });
                   }, 1000);
@@ -119,8 +121,9 @@
                          document.location = '#/';
                          $('#register-modal').modal('toggle');
                          $('#logged-user-name').text(user.firstName + ' ' + user.lastName);
+                         $('#profile-cloud-btn').toggle();
                          setTimeout(function () {
-                             $('.login-containers').fadeOut(100, function () {
+                             $('.login-container').fadeOut(100, function () {
                                  $('.logout-container').fadeIn(500);
                              });
                          }, 1000);

@@ -32,14 +32,14 @@
     <br />
     <div id="wrapper">
         <div id="navbar">
-            <input type="image" src="Images/cloud button.png" alt="Home" id="home-btn" />
-            <input type="image" src="Images/cloud button profile.png" alt="Profile" id="profile-btn" />
+            <input type="image" src="Images/cloud button.png" alt="Home" id="home-cloud-btn" />
+            <input type="image" src="Images/cloud button profile.png" alt="Profile" id="profile-cloud-btn" />
             <ul class="nav navbar-nav navbar-right">
-                <li id="sign-in-container">
-                    <input type="image" src="Images/login-btn.png" alt="Login" id="login-btn" data-toggle="modal" data-target="#login-modal" />
+                <li id="sign-in-container" class="login-container" data-toggle="modal" data-target="#login-modal">
+                    <input type="image" src="Images/login-btn.png" alt="Login" id="login-btn"  />
                 </li>
-                <li id="register-container">
-                    <input type="image" src="Images/register-btn.png" alt="Register" id="register-btn" data-toggle="modal" data-target="#register-modal" />
+                <li id="register-container" class="login-container" data-toggle="modal" data-target="#register-modal">
+                    <input type="image" src="Images/register-btn.png" alt="Register" id="register-btn"  />
                 </li>
                 <li class="logout-container">
                     <div class="dropdown" id="user-dropdown">
@@ -49,7 +49,6 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a href="#" id="my-profile">My Profile</a></li>
-                            <!--<li><a href="#" id="edit-profile">Edit Profile</a></li>-->
                             <li><a href="#" id="sign-out">Logout</a></li>
                         </ul>
                     </div>
