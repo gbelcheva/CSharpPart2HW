@@ -45,23 +45,7 @@
                       userModel.getUserInfo(currentLogginUserId)
                         .then(function (res) {
                             var loggedUserInfo = res;
-                            var htmlToAdd = '<div class="row">' +
-                                                 '<div class="col-lg-12">' +
-                                                     '<div class="media" >' +
-                                                         '<a class="pull-left" href="#/users/' + loggedUserInfo.Id + '">' +
-                                                                  '<img style="width: 50px" height="50px" class="media-object img-circle" src=' + '"' + loggedUserInfo.AvatarUrl + '"' + ' alt="">' +
-                                                         '</a>' +
-                                                         '<div class="media-body">' +
-                                                             '<h4 class="media-heading">' +
-                                                                 loggedUserInfo.FirstName + ' ' + loggedUserInfo.LastName +
-                                                                 '<span class="small pull-right">' + strDateTime + '</span>' +
-                                                             '</h4>' +
-                                                             '<p>' + messageToSend + '</p>' +
-                                                         '</div>' +
-                                                         '<hr/>' +
-                                                     '</div>' +
-                                                 '</div>' +
-                                             '</div>';
+                            var htmlToAdd = controllerHelper.generateChatMessage(loggedUserInfo, messageToSend);
 
                             $('#msg-content').append(htmlToAdd);
                             $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
@@ -79,30 +63,29 @@
                   chat.subscribe({
                       channel: 'DateFirst',
                       message: function (message) {
-                          var htmlToAdd = '<div class="row">' +
-                                            '<div class="col-lg-12">' +
-                                                '<div class="media" >' +
-                                                    '<a class="pull-left" href="#/users/'+ message.Sender.Id +'">' +
-                                                             '<img style="width: 50px" height="50px" class="media-object img-circle" src=' + '"' + message.Sender.AvatarUrl + '"' + ' alt="">' +
-                                                    '</a>' +
-                                                    '<div class="media-body">' +
-                                                        '<h4 class="media-heading">' +
-                                                            message.Sender.FirstName + ' ' + message.Sender.LastName +
-                                                            '<span class="small pull-right">' + strDateTime + '</span>' +
-                                                        '</h4>' +
-                                                        '<p>' + message.Text + '</p>' +
-                                                    '</div>' +
-                                                    '<hr/>' +
-                                                '</div>' +
-                                            '</div>' +
-                                        '</div>';
+                          var htmlToAdd = controllerHelper.generateChatMessage(message.Sender, messageToSend);
+                              //'<div class="row">' +
+                              //              '<div class="col-lg-12">' +
+                              //                  '<div class="media" >' +
+                              //                      '<a class="pull-left" href="#/users/'+ message.Sender.Id +'">' +
+                              //                               '<img style="width: 50px" height="50px" class="media-object img-circle" src=' + '"' + message.Sender.AvatarUrl + '"' + ' alt="">' +
+                              //                      '</a>' +
+                              //                      '<div class="media-body">' +
+                              //                          '<h4 class="media-heading">' +
+                              //                              message.Sender.FirstName + ' ' + message.Sender.LastName +
+                              //                              '<span class="small pull-right">' + strDateTime + '</span>' +
+                              //                          '</h4>' +
+                              //                          '<p>' + message.Text + '</p>' +
+                              //                      '</div>' +
+                              //                      '<hr/>' +
+                              //                  '</div>' +
+                              //              '</div>' +
+                              //          '</div>';
                           $('#msg-content').append(htmlToAdd);
                           $('#msg-content').scrollTop($('#msg-content')[0].scrollHeight);
                       }
                   });
               });
-
-
 
               $('#btn-search').click(function () {
                   var foundUsers;

@@ -49,7 +49,7 @@
 
             for (var i = 0; i < user.Posts.length; i++) {
                 var date = new Date(user.Posts[i].CreatedOn);
-                var formatedDate = formatDate(date);
+                var formatedDate = modelHelpers.formatDate(date);
                 user.Posts[i].CreatedOn = formatedDate;
             }
 
@@ -66,31 +66,19 @@
             });
 
             var notification = PUBNUB.init({
-                publish_key: 'pub-c-34ecc75a-c5af-4e51-98bb-66b7f1accb20',
-                subscribe_key: 'sub-c-7e9a38a6-89c9-11e5-a04a-0619f8945a4f'
+                publish_key: constants.PUBNUB_PUBLISH_KEY,
+                subscribe_key: constants.PUBNUB_SUBSCRIBE_KEY
             });
 
             $('#flirts').on('click', function () {
-                $.ajax({
-                    type: "PUT",
-                    data: user,
-                    url: "http://localhost:9941//api/Flirts",
-                    headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') },
-                    error: function (xhr, status, error) {
-                        var err = eval("(" + xhr.responseText + ")");
-                        toastr.error(err.Message);
-                    }
-                })
+                console.log(user);
+                flirtModel.updateFlirtsCount(user)
                 .then(function () {
                     toastr.options = {
                         "positionClass": "toast-top-right",
                     }
 
-                    $.ajax({
-                        type: "GET",
-                        url: "http://localhost:9941/api/UserProfiles/" + user.Id,
-                        headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
-                    })
+                    flirtModel.getFlirtsCount(user.Id)
                     .then(function (res) {
                         $('#count').text(res.Flirts);
                     });
@@ -148,7 +136,7 @@
                     .then(function () {
                         userModel.getLoggedUserName()
                          .then(function (res) {
-                             var createdOn = getDateOfPostCreation();
+                             var createdOn = modelHelpers.getDateOfPostCreation();
 
                              var commentToAppend = '<div class="post">' +
                                                   '<div class="poster-and-date">' +
@@ -177,7 +165,7 @@
 
             for (var i = 0; i < user.Posts.length; i++) {
                 var date = new Date(user.Posts[i].CreatedOn);
-                var formatedDate = formatDate(date);
+                var formatedDate = modelHelpers.formatDate(date);
                 user.Posts[i].CreatedOn = formatedDate;
             }
 
@@ -196,7 +184,6 @@
             $("#btn-send-comment").click(function () {
                 userModel.getLoggedUserId()
                 .then(function (res) {
-                    console.log(res);
                     var content = $("#ta-comment-message").val();
                     var senderId = res;
                     var receiverId = user.Id;
@@ -209,7 +196,7 @@
 
                     postModel.sendNewPost(data)
                     .then(function () {
-                        var createdOn = getDateOfPostCreation();
+                        var createdOn = modelHelpers.getDateOfPostCreation();
 
                         var commentToAppend = '<div class="post">' +
                                                   '<div class="poster-and-date">' +
@@ -240,6 +227,10 @@
                     data.append("UploadedImage", files[0]);
                 }
 
+                //imageModel.uploadImage(data)
+                //.then(function () {
+                //    toastr.success('Image uploaded!');
+                //});
                 var ajaxRequest = $.ajax({
                     type: "POST",
                     url: "http://localhost:9941//api/FileUpload",
@@ -265,13 +256,17 @@
                     data.append("UploadedImage", files[0]);
                 }
 
+                //imageModel.uploadAvatar(data)
+                //.then(function () {
+                //    toastr.success('Profile picture updated!');
+                //});
                 var ajaxRequest = $.ajax({
                     type: "POST",
                     url: "http://localhost:9941//api/UploadProfilePicture",
                     contentType: false,
                     processData: false,
                     data: data,
-                    headers: { 'Authorization': 'Bearer ' + localStorage.getItem('access_token') }
+                    headers: { 'Authorization': modelHelpers.getBearerCode() }
                 });
 
                 ajaxRequest.done(function (xhr, textStatus) {
@@ -337,29 +332,6 @@
                     });
             })
         })
-    }
-
-    function formatDate(date) {
-        var year = date.getFullYear(),
-            month = date.getMonth() + 1,
-            day = date.getDate(),
-            hour = date.getHours() - 2,
-            minute = date.getMinutes(),
-            hourFormatted = hour % 12 || 12,
-            minuteFormatted = minute < 10 ? "0" + minute : minute;
-
-        return day + "/" + month + "/" + year + " " + hourFormatted + ":" +
-                minuteFormatted;
-    }
-
-    function getDateOfPostCreation() {
-        var dateTime = new Date();
-        var createdOn = dateTime.getDate() + "/"
-                        + (dateTime.getMonth() + 1) + "/"
-                        + dateTime.getFullYear() + " "
-                        + dateTime.getHours() + ":"
-                        + (dateTime.getMinutes() < 10 ? '0' : '') + dateTime.getMinutes();
-        return createdOn;
     }
 
     scope.users = {

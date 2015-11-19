@@ -2,14 +2,14 @@
 
     function uploadImage(data) {
         return jsonRequester.post("http://localhost:9941//api/FileUpload", {
-            data: data,
             headers: { 'Authorization': modelHelpers.getBearerCode() },
+            data: data,
             contentType: false,
             processData: false
         })
-        .then(function (res) {
-            return res;
-        });
+            .then(function (res) {
+                return res;
+            });
     }
 
     function uploadAvatar(data) {
