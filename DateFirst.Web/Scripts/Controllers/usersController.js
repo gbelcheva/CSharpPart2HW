@@ -42,9 +42,10 @@
 
     function getUserProfilePage(context) {
         var user;
-        var promise = userModel.getUserInfo(this.params['id']);
+        var loggedUser = this.params['id'];
 
-        promise.then(function (resUser) {
+        userModel.getUserInfo(this.params['id'])
+        .then(function (resUser) {
             user = resUser;
 
             for (var i = 0; i < user.Posts.length; i++) {
@@ -57,6 +58,14 @@
         })
         .then(function (template) {
             context.$element().html(template(user));
+            $('#edit-profile').hide();
+
+            userModel.getLoggedUserId()
+            .then(function myfunction(res) {
+                if (res == user.Id) {
+                    $('#edit-profile').show();
+                }
+            })
 
             $('#btn-bio').removeClass("btn-user-profile").addClass("btn-pressed");
 
