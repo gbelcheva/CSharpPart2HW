@@ -17,7 +17,7 @@
 
         this.get('#/users/:id', controllers.users.getUserProfilePage);
 
-        this.get('#/users/:id/my-profile', controllers.users.editUserProfilePage);
+        this.get('#/users/:id/edit-profile', controllers.users.editUserProfilePage);
     });
 
     $(function () {
@@ -41,25 +41,11 @@
         $('#profile-cloud-btn').on('click', function () {
             userModel.getLoggedUserId()
            .then(function (res) {
-               document.location = '/#/users/' + res + '/my-profile';
+               document.location = '/#/users/' + res;
            });
         });
 
-        $('#my-profile').on('click', function () {
-            userModel.getLoggedUserId()
-            .then(function (res) {
-                document.location = '/#/users/' + res + '/my-profile';
-            });
-        });
-
-        $('#edit-profile').on('click', function () {
-            userModel.getLoggedUserId()
-            .then(function (res) {
-                document.location = '/#/users/' + res + '/edit-profile';
-            });
-        });
-
-        $('#sign-out').on('click', function () {
+        $('#signout-cloud-btn').on('click', function () {
             userModel.signOut()
               .then(function () {
                   toastr.success('Goodbye!');

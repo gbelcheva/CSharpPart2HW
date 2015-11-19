@@ -330,7 +330,7 @@
                     'Salary': modifiedSalary,
                     'AboutMe': modifiedAboutMe
                 }
-
+                toastr.warning('Profile sucessfully updated!');
                 userModel.updateUserInfo(data)
                     .then(function (res) {
                         document.location = '/#/users/' + user.Id;
