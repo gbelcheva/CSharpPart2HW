@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\03.Friends\bin\Debug\03.Friends.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\03.Friends\bin\Debug\03.Friends.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\03.Friends\bin\Debug\03.Friends.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\03.Friends\obj\Debug\03.Friends.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\03.Friends\obj\Debug\03.Friends.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\03.Friends\obj\Debug\03.Friends.pdb

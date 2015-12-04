@@ -1,0 +1,32 @@
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.exe
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.pdb
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.exe
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.pdb
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.FormCon.resources
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.Properties.Resources.resources
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.csproj.GenerateResource.Cache
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\bin\Release\2005510040_Conventer.exe
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\bin\Release\2005510040_Conventer.pdb
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Release\_005510040_Conventer.FormCon.resources
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Release\_005510040_Conventer.Properties.Resources.resources
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Release\2005510040_Conventer.csproj.GenerateResource.Cache
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Release\2005510040_Conventer.exe
+C:\Users\Kemal\Documents\Visual Studio 2005\Projects\2005510040_Conventer\2005510040_Conventer\obj\Release\2005510040_Conventer.pdb
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.exe
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.pdb
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.exe
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.pdb
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\ResolveAssemblyReference.cache
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.FormCon.resources
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.Properties.Resources.resources
+D:\Dersler\3.Sinif\3.Sinif II.Donem\Programming Languages\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.csproj.GenerateResource.Cache
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.exe
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.pdb
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.FormCon.resources
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.Properties.Resources.resources
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.csproj.GenerateResource.Cache
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.exe
+C:\Users\Kemal\Desktop\ assign2_2005510040\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.pdb

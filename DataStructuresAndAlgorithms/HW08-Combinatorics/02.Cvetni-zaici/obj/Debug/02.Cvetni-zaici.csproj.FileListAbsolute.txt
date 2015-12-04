@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\02.Cvetni-zaici\bin\Debug\02.Cvetni-zaici.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\02.Cvetni-zaici\bin\Debug\02.Cvetni-zaici.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\02.Cvetni-zaici\bin\Debug\02.Cvetni-zaici.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\02.Cvetni-zaici\obj\Debug\02.Cvetni-zaici.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\02.Cvetni-zaici\obj\Debug\02.Cvetni-zaici.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\02.Cvetni-zaici\obj\Debug\02.Cvetni-zaici.pdb

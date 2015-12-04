@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\04.SuperSum\bin\Debug\04.SuperSum.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\04.SuperSum\bin\Debug\04.SuperSum.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\04.SuperSum\bin\Debug\04.SuperSum.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\04.SuperSum\obj\Debug\04.SuperSum.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\04.SuperSum\obj\Debug\04.SuperSum.pdb

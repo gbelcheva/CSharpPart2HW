@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW09-SortingAlgorithms\homework\bin\Debug\SortingHomework.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW09-SortingAlgorithms\homework\bin\Debug\SortingHomework.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW09-SortingAlgorithms\homework\bin\Debug\SortingHomework.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW09-SortingAlgorithms\homework\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW09-SortingAlgorithms\homework\obj\Debug\SortingHomework.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW09-SortingAlgorithms\homework\obj\Debug\SortingHomework.pdb

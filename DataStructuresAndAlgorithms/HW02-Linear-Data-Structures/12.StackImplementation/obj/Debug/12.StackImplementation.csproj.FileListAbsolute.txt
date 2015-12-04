@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\12.StackImplementation\bin\Debug\StackImplementation.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\12.StackImplementation\bin\Debug\StackImplementation.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\12.StackImplementation\bin\Debug\StackImplementation.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\12.StackImplementation\obj\Debug\12.StackImplementation.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\12.StackImplementation\obj\Debug\StackImplementation.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\12.StackImplementation\obj\Debug\StackImplementation.pdb

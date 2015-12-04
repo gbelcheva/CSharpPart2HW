@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\03.Tribonacci\bin\Debug\03.Tribonacci.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\03.Tribonacci\bin\Debug\03.Tribonacci.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\03.Tribonacci\bin\Debug\03.Tribonacci.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\03.Tribonacci\obj\Debug\03.Tribonacci.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\03.Tribonacci\obj\Debug\03.Tribonacci.pdb

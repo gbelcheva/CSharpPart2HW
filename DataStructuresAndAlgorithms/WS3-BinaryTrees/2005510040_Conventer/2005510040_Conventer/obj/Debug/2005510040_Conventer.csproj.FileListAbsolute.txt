@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\bin\Debug\2005510040_Conventer.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.FormCon.resources
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\obj\Debug\_005510040_Conventer.Properties.Resources.resources
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\2005510040_Conventer\2005510040_Conventer\obj\Debug\2005510040_Conventer.csproj.GenerateResource.Cache

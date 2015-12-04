@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\01.CountOccurrences\bin\Debug\01.CountOccurrences.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\01.CountOccurrences\bin\Debug\01.CountOccurrences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\01.CountOccurrences\bin\Debug\01.CountOccurrences.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\01.CountOccurrences\obj\Debug\01.CountOccurrences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\01.CountOccurrences\obj\Debug\01.CountOccurrences.pdb

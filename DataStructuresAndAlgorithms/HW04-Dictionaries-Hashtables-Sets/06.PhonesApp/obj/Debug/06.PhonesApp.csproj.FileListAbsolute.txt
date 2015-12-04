@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\06.PhonesApp\bin\Debug\06.PhonesApp.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\06.PhonesApp\bin\Debug\06.PhonesApp.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\06.PhonesApp\bin\Debug\06.PhonesApp.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\06.PhonesApp\obj\Debug\06.PhonesApp.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\06.PhonesApp\obj\Debug\06.PhonesApp.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\06.PhonesApp\obj\Debug\06.PhonesApp.csprojResolveAssemblyReference.cache

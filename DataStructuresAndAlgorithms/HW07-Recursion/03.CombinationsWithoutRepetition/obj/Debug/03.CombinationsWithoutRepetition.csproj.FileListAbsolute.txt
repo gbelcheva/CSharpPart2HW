@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\03.CombinationsWithoutRepetition\bin\Debug\P04-CombinationsWithoutRepetition.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\03.CombinationsWithoutRepetition\bin\Debug\P04-CombinationsWithoutRepetition.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\03.CombinationsWithoutRepetition\bin\Debug\P04-CombinationsWithoutRepetition.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\03.CombinationsWithoutRepetition\obj\Debug\03.CombinationsWithoutRepetition.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\03.CombinationsWithoutRepetition\obj\Debug\P04-CombinationsWithoutRepetition.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\03.CombinationsWithoutRepetition\obj\Debug\P04-CombinationsWithoutRepetition.pdb

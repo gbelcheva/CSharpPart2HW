@@ -1,0 +1,4 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\06.RemoveOddNumberOccurences\bin\Debug\06.RemoveOddNumberOccurences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\06.RemoveOddNumberOccurences\bin\Debug\06.RemoveOddNumberOccurences.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\06.RemoveOddNumberOccurences\obj\x86\Debug\06.RemoveOddNumberOccurences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\06.RemoveOddNumberOccurences\obj\x86\Debug\06.RemoveOddNumberOccurences.pdb

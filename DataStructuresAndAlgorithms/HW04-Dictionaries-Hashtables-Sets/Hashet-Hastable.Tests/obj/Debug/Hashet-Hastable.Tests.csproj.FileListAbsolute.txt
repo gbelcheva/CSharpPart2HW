@@ -1,0 +1,10 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\bin\Debug\Hashet-Hastable.Tests.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\bin\Debug\Hashet-Hastable.Tests.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\bin\Debug\04.HashtableImplementation.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\bin\Debug\05.HashsetImplementation.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\bin\Debug\04.HashtableImplementation.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\bin\Debug\05.HashsetImplementation.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\obj\Debug\Hashet-Hastable.Tests.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\obj\Debug\Hashet-Hastable.Tests.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\Hashet-Hastable.Tests\obj\Debug\Hashet-Hastable.Tests.pdb

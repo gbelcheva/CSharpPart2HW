@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\02.MinEditDistance\bin\Debug\02.MinEditDistance.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\02.MinEditDistance\bin\Debug\02.MinEditDistance.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\02.MinEditDistance\bin\Debug\02.MinEditDistance.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\02.MinEditDistance\obj\Debug\02.MinEditDistance.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\02.MinEditDistance\obj\Debug\02.MinEditDistance.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\02.MinEditDistance\obj\Debug\02.MinEditDistance.pdb

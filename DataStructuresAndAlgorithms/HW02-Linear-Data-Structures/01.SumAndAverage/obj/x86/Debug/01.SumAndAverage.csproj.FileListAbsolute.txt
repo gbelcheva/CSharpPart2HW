@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\01.SumAndAverage\obj\x86\Debug\01.SumAndAverage.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\01.SumAndAverage\bin\Debug\01.SumAndAverage.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\01.SumAndAverage\bin\Debug\01.SumAndAverage.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\01.SumAndAverage\obj\x86\Debug\01.SumAndAverage.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\01.SumAndAverage\obj\x86\Debug\01.SumAndAverage.pdb

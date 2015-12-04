@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\01.PeshosFriends\bin\Debug\01.PeshosFriends.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\01.PeshosFriends\bin\Debug\01.PeshosFriends.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\01.PeshosFriends\bin\Debug\01.PeshosFriends.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\01.PeshosFriends\obj\Debug\01.PeshosFriends.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\01.PeshosFriends\obj\Debug\01.PeshosFriends.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\01.PeshosFriends\obj\Debug\01.PeshosFriends.pdb

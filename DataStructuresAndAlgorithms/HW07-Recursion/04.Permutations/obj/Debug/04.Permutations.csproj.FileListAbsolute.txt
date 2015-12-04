@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\04.Permutations\bin\Debug\04.Permutations.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\04.Permutations\bin\Debug\04.Permutations.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\04.Permutations\bin\Debug\04.Permutations.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\04.Permutations\obj\Debug\04.Permutations.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\04.Permutations\obj\Debug\04.Permutations.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\04.Permutations\obj\Debug\04.Permutations.pdb

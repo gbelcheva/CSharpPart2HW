@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P05-PathsBetweenCellsInMatrix\bin\Debug\P05-PathsBetweenCellsInMatrix.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P05-PathsBetweenCellsInMatrix\bin\Debug\P05-PathsBetweenCellsInMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P05-PathsBetweenCellsInMatrix\bin\Debug\P05-PathsBetweenCellsInMatrix.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P05-PathsBetweenCellsInMatrix\obj\Debug\P05-PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P05-PathsBetweenCellsInMatrix\obj\Debug\P05-PathsBetweenCellsInMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P05-PathsBetweenCellsInMatrix\obj\Debug\P05-PathsBetweenCellsInMatrix.pdb

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P06-ConnectedAreasInMatrix\bin\Debug\P06-ConnectedAreasInMatrix.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P06-ConnectedAreasInMatrix\bin\Debug\P06-ConnectedAreasInMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P06-ConnectedAreasInMatrix\bin\Debug\P06-ConnectedAreasInMatrix.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P06-ConnectedAreasInMatrix\obj\Debug\P06-ConnectedAreasInMatrix.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P06-ConnectedAreasInMatrix\obj\Debug\P06-ConnectedAreasInMatrix.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P06-ConnectedAreasInMatrix\obj\Debug\P06-ConnectedAreasInMatrix.csprojResolveAssemblyReference.cache

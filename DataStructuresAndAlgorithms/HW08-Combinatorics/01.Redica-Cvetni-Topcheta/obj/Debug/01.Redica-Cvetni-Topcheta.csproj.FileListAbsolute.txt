@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\01.Redica-Cvetni-Topcheta\bin\Debug\01.Redica-Cvetni-Topcheta.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\01.Redica-Cvetni-Topcheta\bin\Debug\01.Redica-Cvetni-Topcheta.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\01.Redica-Cvetni-Topcheta\bin\Debug\01.Redica-Cvetni-Topcheta.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\01.Redica-Cvetni-Topcheta\obj\Debug\01.Redica-Cvetni-Topcheta.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\01.Redica-Cvetni-Topcheta\obj\Debug\01.Redica-Cvetni-Topcheta.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\01.Redica-Cvetni-Topcheta\obj\Debug\01.Redica-Cvetni-Topcheta.pdb

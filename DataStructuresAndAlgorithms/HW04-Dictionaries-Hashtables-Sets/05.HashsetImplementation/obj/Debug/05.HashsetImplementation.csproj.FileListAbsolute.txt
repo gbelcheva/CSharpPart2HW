@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\bin\Debug\05.HashsetImplementation.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\bin\Debug\05.HashsetImplementation.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\bin\Debug\05.HashsetImplementation.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\obj\Debug\05.HashsetImplementation.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\obj\Debug\05.HashsetImplementation.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\bin\Debug\04.HashtableImplementation.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\bin\Debug\04.HashtableImplementation.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\05.HashsetImplementation\obj\Debug\05.HashsetImplementation.csprojResolveAssemblyReference.cache

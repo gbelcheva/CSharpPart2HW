@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\05.Variations\bin\Debug\05.Variations.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\05.Variations\bin\Debug\05.Variations.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\05.Variations\bin\Debug\05.Variations.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\05.Variations\obj\Debug\05.Variations.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\05.Variations\obj\Debug\05.Variations.pdb

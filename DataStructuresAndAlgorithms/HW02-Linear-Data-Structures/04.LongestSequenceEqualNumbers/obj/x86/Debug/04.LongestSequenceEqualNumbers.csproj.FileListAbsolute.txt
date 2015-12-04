@@ -1,0 +1,4 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\04.LongestSequenceEqualNumbers\bin\Debug\04.LongestSequenceEqualNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\04.LongestSequenceEqualNumbers\bin\Debug\04.LongestSequenceEqualNumbers.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\04.LongestSequenceEqualNumbers\obj\x86\Debug\04.LongestSequenceEqualNumbers.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\04.LongestSequenceEqualNumbers\obj\x86\Debug\04.LongestSequenceEqualNumbers.pdb

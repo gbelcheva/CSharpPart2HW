@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\05.Brackets\bin\Debug\05.Brackets.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\05.Brackets\bin\Debug\05.Brackets.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\05.Brackets\bin\Debug\05.Brackets.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\05.Brackets\obj\Debug\05.Brackets.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW10-DynamicProgramming\05.Brackets\obj\Debug\05.Brackets.pdb

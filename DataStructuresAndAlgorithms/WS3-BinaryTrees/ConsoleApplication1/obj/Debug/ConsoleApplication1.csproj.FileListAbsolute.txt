@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

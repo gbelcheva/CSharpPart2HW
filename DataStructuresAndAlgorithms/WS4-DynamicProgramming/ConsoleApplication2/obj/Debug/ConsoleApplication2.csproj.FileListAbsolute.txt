@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

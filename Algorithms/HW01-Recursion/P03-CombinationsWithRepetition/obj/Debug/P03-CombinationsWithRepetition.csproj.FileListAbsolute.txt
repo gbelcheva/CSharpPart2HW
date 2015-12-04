@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P03-CombinationsWithRepetition\bin\Debug\P03-CombinationsWithRepetition.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P03-CombinationsWithRepetition\bin\Debug\P03-CombinationsWithRepetition.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P03-CombinationsWithRepetition\bin\Debug\P03-CombinationsWithRepetition.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P03-CombinationsWithRepetition\obj\Debug\P03-CombinationsWithRepetition.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P03-CombinationsWithRepetition\obj\Debug\P03-CombinationsWithRepetition.pdb

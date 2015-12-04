@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW03-Trees-And-Traversals\03.FIleSystemTree\bin\Debug\03.FIleSystemTree.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW03-Trees-And-Traversals\03.FIleSystemTree\bin\Debug\03.FileSystemTree.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW03-Trees-And-Traversals\03.FIleSystemTree\bin\Debug\03.FileSystemTree.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW03-Trees-And-Traversals\03.FIleSystemTree\obj\Debug\03.FileSystemTree.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW03-Trees-And-Traversals\03.FIleSystemTree\obj\Debug\03.FileSystemTree.pdb

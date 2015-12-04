@@ -1,0 +1,4 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\02.ReverseStack\bin\Debug\02.ReverseStack.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\02.ReverseStack\bin\Debug\02.ReverseStack.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\02.ReverseStack\obj\x86\Debug\02.ReverseStack.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\02.ReverseStack\obj\x86\Debug\02.ReverseStack.pdb

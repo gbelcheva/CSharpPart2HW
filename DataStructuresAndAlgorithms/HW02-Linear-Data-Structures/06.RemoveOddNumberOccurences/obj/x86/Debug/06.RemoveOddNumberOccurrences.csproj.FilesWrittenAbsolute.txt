@@ -1,0 +1,5 @@
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/06.RemoveOddNumberOccurences/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/06.RemoveOddNumberOccurences/bin/Debug/06.RemoveOddNumberOccurences.exe.mdb
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/06.RemoveOddNumberOccurences/bin/Debug/06.RemoveOddNumberOccurences.exe
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/06.RemoveOddNumberOccurences/obj/x86/Debug/06.RemoveOddNumberOccurences.exe
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/06.RemoveOddNumberOccurences/obj/x86/Debug/06.RemoveOddNumberOccurences.exe.mdb

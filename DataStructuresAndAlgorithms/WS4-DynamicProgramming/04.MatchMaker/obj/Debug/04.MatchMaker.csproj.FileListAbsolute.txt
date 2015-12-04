@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\04.MatchMaker\bin\Debug\04.MatchMaker.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\04.MatchMaker\bin\Debug\04.MatchMaker.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\04.MatchMaker\bin\Debug\04.MatchMaker.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\04.MatchMaker\obj\Debug\04.MatchMaker.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\04.MatchMaker\obj\Debug\04.MatchMaker.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\04.MatchMaker\obj\Debug\04.MatchMaker.pdb

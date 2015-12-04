@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P02-NestedLoopsToRecursion\bin\Debug\P02-NestedLoopsToRecursion.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P02-NestedLoopsToRecursion\bin\Debug\P02-NestedLoopsToRecursion.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P02-NestedLoopsToRecursion\bin\Debug\P02-NestedLoopsToRecursion.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P02-NestedLoopsToRecursion\obj\Debug\P02-NestedLoopsToRecursion.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P02-NestedLoopsToRecursion\obj\Debug\P02-NestedLoopsToRecursion.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\Algorithms\HW01-Recursion\P02-NestedLoopsToRecursion\obj\Debug\P02-NestedLoopsToRecursion.csprojResolveAssemblyReference.cache

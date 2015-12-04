@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\03.Source\bin\Debug\03.Source.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\03.Source\bin\Debug\03.Source.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\03.Source\bin\Debug\03.Source.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\03.Source\obj\Debug\03.Source.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\03.Source\obj\Debug\03.Source.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\03.Source\obj\Debug\03.Source.pdb

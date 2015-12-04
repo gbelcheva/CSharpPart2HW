@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\06.VariationsSubset\bin\Debug\06.VariationsSubset.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\06.VariationsSubset\bin\Debug\06.VariationsSubset.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\06.VariationsSubset\bin\Debug\06.VariationsSubset.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\06.VariationsSubset\obj\Debug\06.VariationsSubset.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\06.VariationsSubset\obj\Debug\06.VariationsSubset.pdb

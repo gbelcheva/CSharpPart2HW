@@ -1,0 +1,2 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\07.PathsBetweenCellsInMatrix\bin\Debug\P05-PathsBetweenCellsInMatrix.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\07.PathsBetweenCellsInMatrix\bin\Debug\07.PathsBetweenCellsInMatrix.exe.config

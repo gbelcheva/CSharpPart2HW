@@ -1,0 +1,4 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\10.ShortestOperationsSequence\bin\Debug\10.ShortestOperationsSequence.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\10.ShortestOperationsSequence\bin\Debug\10.ShortestOperationsSequence.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\10.ShortestOperationsSequence\obj\x86\Debug\10.ShortestOperationsSequence.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\10.ShortestOperationsSequence\obj\x86\Debug\10.ShortestOperationsSequence.pdb

@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\bin\Debug\01.PriorityQueueImplementation.Tests.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\bin\Debug\01.PriorityQueueImplementation.Tests.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\bin\Debug\01.PriorityQueueImplementation.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\bin\Debug\01.PriorityQueueImplementation.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\obj\Debug\01.PriorityQueueImplementation.Tests.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\obj\Debug\01.PriorityQueueImplementation.Tests.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\01.PriorityQueueImplementation.Tests\obj\Debug\01.PriorityQueueImplementation.Tests.pdb

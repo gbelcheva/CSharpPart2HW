@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\03.CountWordOccurrences\bin\Debug\03.CountWordOccurrences.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\03.CountWordOccurrences\bin\Debug\03.CountWordOccurrences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\03.CountWordOccurrences\bin\Debug\03.CountWordOccurrences.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\03.CountWordOccurrences\obj\Debug\03.CountWordOccurrences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\03.CountWordOccurrences\obj\Debug\03.CountWordOccurrences.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW04-Dictionaries-Hashtables-Sets\03.CountWordOccurrences\bin\Debug\Joke.txt

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\03.Precision\bin\Debug\03.Precision.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\03.Precision\bin\Debug\03.Precision.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\03.Precision\bin\Debug\03.Precision.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\03.Precision\obj\Debug\03.Precision.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\03.Precision\obj\Debug\03.Precision.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\03.Precision\obj\Debug\03.Precision.pdb

@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\02.OnlineMarket\bin\Debug\02.OnlineMarket.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\02.OnlineMarket\bin\Debug\02.OnlineMarket.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\02.OnlineMarket\bin\Debug\02.OnlineMarket.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\02.OnlineMarket\obj\Debug\02.OnlineMarket.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\02.OnlineMarket\obj\Debug\02.OnlineMarket.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\02.OnlineMarket\obj\Debug\02.OnlineMarket.pdb

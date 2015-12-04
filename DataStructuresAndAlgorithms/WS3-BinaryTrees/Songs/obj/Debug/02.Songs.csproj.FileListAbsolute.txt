@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\Songs\bin\Debug\Songs.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\Songs\obj\Debug\Songs.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\Songs\obj\Debug\Songs.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\Songs\bin\Debug\Songs.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\Songs\bin\Debug\Songs.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS3-BinaryTrees\Songs\obj\Debug\02.Songs.csprojResolveAssemblyReference.cache

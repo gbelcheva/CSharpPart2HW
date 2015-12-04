@@ -1,0 +1,4 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\09.First50MembersQueue\bin\Debug\09.First50MembersQueue.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\09.First50MembersQueue\bin\Debug\09.First50MembersQueue.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\09.First50MembersQueue\obj\x86\Debug\09.First50MembersQueue.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\09.First50MembersQueue\obj\x86\Debug\09.First50MembersQueue.pdb

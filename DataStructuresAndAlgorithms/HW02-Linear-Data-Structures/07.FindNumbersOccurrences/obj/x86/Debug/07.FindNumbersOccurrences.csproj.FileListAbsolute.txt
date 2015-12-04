@@ -1,0 +1,4 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\07.FindNumbersOccurrences\bin\Debug\07.FindNumbersOccurrences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\07.FindNumbersOccurrences\bin\Debug\07.FindNumbersOccurrences.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\07.FindNumbersOccurrences\obj\x86\Debug\07.FindNumbersOccurrences.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\07.FindNumbersOccurrences\obj\x86\Debug\07.FindNumbersOccurrences.pdb

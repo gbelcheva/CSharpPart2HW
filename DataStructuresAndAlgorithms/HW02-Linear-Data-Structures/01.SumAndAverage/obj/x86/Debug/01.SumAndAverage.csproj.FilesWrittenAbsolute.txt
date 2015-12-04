@@ -1,0 +1,5 @@
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/01.SumAndAverage/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/01.SumAndAverage/bin/Debug/01.SumAndAverage.exe.mdb
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/01.SumAndAverage/bin/Debug/01.SumAndAverage.exe
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/01.SumAndAverage/obj/x86/Debug/01.SumAndAverage.exe
+/home/gbelcheva/Documents/TelerikAcademy/DataStructuresAndAlgorithms/HW02-Linear-Data-Structures/01.SumAndAverage/obj/x86/Debug/01.SumAndAverage.exe.mdb

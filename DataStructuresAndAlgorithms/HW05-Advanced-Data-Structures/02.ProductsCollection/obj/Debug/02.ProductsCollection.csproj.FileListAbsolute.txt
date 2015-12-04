@@ -1,0 +1,8 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\bin\Debug\02.ProductsCollection.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\bin\Debug\02.ProductsCollection.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\bin\Debug\02.ProductsCollection.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\bin\Debug\ClassLibrary2.dll
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\bin\Debug\ClassLibrary2.xml
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\obj\Debug\02.ProductsCollection.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\obj\Debug\02.ProductsCollection.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW05-Advanced-Data-Structures\02.ProductsCollection\obj\Debug\02.ProductsCollection.pdb

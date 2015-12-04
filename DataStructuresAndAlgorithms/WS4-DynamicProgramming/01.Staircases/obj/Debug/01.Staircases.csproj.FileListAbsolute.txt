@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\01.Staircases\bin\Debug\01.Staircases.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\01.Staircases\obj\Debug\01.Staircases.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\01.Staircases\bin\Debug\01.Staircases.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\01.Staircases\bin\Debug\01.Staircases.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\01.Staircases\obj\Debug\01.Staircases.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\WS4-DynamicProgramming\01.Staircases\obj\Debug\01.Staircases.pdb

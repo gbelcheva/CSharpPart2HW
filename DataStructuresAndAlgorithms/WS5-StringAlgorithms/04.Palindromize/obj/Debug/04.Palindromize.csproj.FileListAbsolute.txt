@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\04.Palindromize\bin\Debug\04.Palindromize.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\04.Palindromize\bin\Debug\04.Palindromize.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\04.Palindromize\bin\Debug\04.Palindromize.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\04.Palindromize\obj\Debug\04.Palindromize.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ConsoleApplication4\04.Palindromize\obj\Debug\04.Palindromize.pdb

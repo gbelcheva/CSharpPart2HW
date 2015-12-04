@@ -1,0 +1,16 @@
+﻿<div id="sorted-users">
+    <ul>
+        {{#each this}}
+        <li>
+            <a href="#/users/{{Id}}">
+            <img src="{{AvatarUrl}}" />
+            {{FirstName}} {{LastName}}
+            </a>
+            <button type="button" class="btn btn-info btn-lg col-md-2 search-user-flirts" data-type="like" disabled>
+                <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> Flirts
+                <strong id="count">{{Flirts}}</strong>
+            </button>
+        </li>
+        {{/each}}
+    </ul>
+</div>

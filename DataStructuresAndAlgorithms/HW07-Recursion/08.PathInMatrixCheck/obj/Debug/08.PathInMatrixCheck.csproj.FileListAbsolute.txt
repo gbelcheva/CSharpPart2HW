@@ -1,0 +1,5 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\08.PathInMatrixCheck\bin\Debug\08.PathInMatrixCheck.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\08.PathInMatrixCheck\bin\Debug\08.PathInMatrixCheck.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\08.PathInMatrixCheck\bin\Debug\08.PathInMatrixCheck.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\08.PathInMatrixCheck\obj\Debug\08.PathInMatrixCheck.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW07-Recursion\08.PathInMatrixCheck\obj\Debug\08.PathInMatrixCheck.pdb

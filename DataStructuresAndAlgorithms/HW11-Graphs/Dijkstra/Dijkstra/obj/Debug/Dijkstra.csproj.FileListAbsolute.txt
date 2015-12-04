@@ -1,0 +1,7 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.GUI.resources
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.GenerateResource.Cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW11-Graphs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb

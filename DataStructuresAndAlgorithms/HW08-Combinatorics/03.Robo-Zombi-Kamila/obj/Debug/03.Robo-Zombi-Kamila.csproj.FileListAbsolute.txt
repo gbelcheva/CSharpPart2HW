@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\03.Robo-Zombi-Kamila\bin\Debug\03.Robo-Zombi-Kamila.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\03.Robo-Zombi-Kamila\bin\Debug\03.Robo-Zombi-Kamila.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\03.Robo-Zombi-Kamila\bin\Debug\03.Robo-Zombi-Kamila.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\03.Robo-Zombi-Kamila\obj\Debug\03.Robo-Zombi-Kamila.csprojResolveAssemblyReference.cache
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\03.Robo-Zombi-Kamila\obj\Debug\03.Robo-Zombi-Kamila.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW08-Combinatorics\03.Robo-Zombi-Kamila\obj\Debug\03.Robo-Zombi-Kamila.pdb

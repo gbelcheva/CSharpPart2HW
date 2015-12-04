@@ -1,0 +1,6 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\04.Matches\bin\Debug\04.Matches.exe.config
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\04.Matches\bin\Debug\04.Matches.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\04.Matches\bin\Debug\04.Matches.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\04.Matches\obj\Debug\04.Matches.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\04.Matches\obj\Debug\04.Matches.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\ExamPrep\04.Matches\obj\Debug\04.Matches.csprojResolveAssemblyReference.cache

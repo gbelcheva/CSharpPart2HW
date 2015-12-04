@@ -1,0 +1,4 @@
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\05.RemoveNegatives\bin\Debug\05.RemoveNegatives.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\05.RemoveNegatives\bin\Debug\05.RemoveNegatives.pdb
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\05.RemoveNegatives\obj\x86\Debug\05.RemoveNegatives.exe
+D:\Ger\Dropbox\SOFTUNI\TelerikAcademy\DataStructuresAndAlgorithms\HW02-Linear-Data-Structures\05.RemoveNegatives\obj\x86\Debug\05.RemoveNegatives.pdb
