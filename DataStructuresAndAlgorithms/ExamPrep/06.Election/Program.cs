@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 namespace _06.Election
 {
@@ -14,18 +15,39 @@ namespace _06.Election
             int n = int.Parse(Console.ReadLine());
             var parties = new List<int>();
 
-            for (int i = 0; i < parties.Count; i++)
+            for (int i = 0; i < n; i++)
             {
-                parties[i] = int.Parse(Console.ReadLine()); ;
+                parties.Add(int.Parse(Console.ReadLine()));
             }
 
-            Console.WriteLine(GetSubsetSums(parties, k);
+            Console.WriteLine(GetSubsetSums(parties, k));
 
         }
 
-        private static int GetSubsetSums(List<int> parties, int k)
+        private static BigInteger GetSubsetSums(List<int> parties, int k)
         {
-            throw new NotImplementedException();
+            var sums = new BigInteger[parties.Sum() + 1];
+            sums[0] = 1;
+
+            for (int i = 0; i < parties.Count; i++)
+            {
+                var num = parties[i];
+                for (int j = parties.Sum(); j >= 0; j--)
+                {
+                    if (sums[j] > 0)
+                    {
+                        sums[j + num] += sums[j];
+                    }
+                }
+            }
+
+            BigInteger coalitions = 0;
+            for (int i = k; i < sums.Length; i++)
+            {
+                coalitions += sums[i];
+            }
+
+            return coalitions;
         }
     }
 }
