@@ -28,8 +28,9 @@ namespace _06.Election
         {
             var sums = new BigInteger[parties.Sum() + 1];
             sums[0] = 1;
+            var maxSum = 0;
 
-            for (int i = 0; i < parties.Count; i++)
+            for (int i = 0; i < maxSum; i++)
             {
                 var num = parties[i];
                 for (int j = parties.Sum(); j >= 0; j--)
@@ -37,6 +38,7 @@ namespace _06.Election
                     if (sums[j] > 0)
                     {
                         sums[j + num] += sums[j];
+                        maxSum = Math.Max(j + num, maxSum);
                     }
                 }
             }
